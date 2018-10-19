@@ -1,0 +1,30 @@
+backend:
+  name: git-gateway
+  branch: master
+
+media_folder: static/img
+public_folder: /img
+
+collections:
+  - name: "settings"
+    label: "Settings"
+    files:
+      - file: "src/main/index.md"
+        label: "Main Page"
+        name: "main"
+        fields:
+          - {label: Introduction, name: introduction, widget: string}
+          - label: Menus
+            name: menus
+            widget: list
+            fields:
+              - label: Dishes
+                name: dishes
+                widget: list
+                fields:
+                  - label: Name
+                    name: name
+                    widget: string
+                  - label: Price
+                    name: price
+                    widget: number
