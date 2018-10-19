@@ -1,4 +1,8 @@
-$black: #111
+$black: #191919
+
+@font-face
+  font-family: "marker-mark"
+  src: url('/fonts/MarkerMark-Regular.otf')
 
 html body
   margin: 0
@@ -6,4 +10,42 @@ html body
 
 .menus
   background: $black
+  display: flex
+  align-items: center
+  padding: 64px 32px
+  flex-direction: column
+
+.menu
+  max-width: 360px
+  width: 100%
+
+.dish
+  display: flex
+  justify-content: space-between
+  align-items: center
+
+.mark
+  font-family: marker-mark
   color: white
+  font-size: 24px
+  margin: 0
+  text-align: left
+
+.bullet
+  padding-top: 6px
+  padding-right: 10px
+  align-self: flex-start
+
+.name
+  padding-right: 10px
+  width: 100%
+
+.alt
+  text-align: right
+  padding-right: 20px !important
+
+.price
+  font-size: 18px
+  padding-bottom: 5px
+  flex-shrink: 0
+  align-self: flex-end

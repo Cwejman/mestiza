@@ -1,6 +1,5 @@
-import React from 'react';
 import { graphql } from 'gatsby'
-import { tap, compose, applyTo, map, path } from 'ramda';
+import { compose, applyTo, map, path } from 'ramda';
 
 import { Menu } from '../components';
 
@@ -28,6 +27,10 @@ export const query = graphql`
           dishes {
             price
             name
+            alternatives {
+              price
+              name
+            }
           }
         }
       }

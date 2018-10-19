@@ -1,8 +1,8 @@
 import React from 'react'
 import { v4 } from 'uuid';
-import { compose, map, prop } from 'ramda';
+import { assoc, reduce, concat, compose, map, prop } from 'ramda';
 
-import { toChildren } from '../utils';
+import { toChildren, intersperseComponent } from '../utils';
 
 // Components
 
@@ -13,22 +13,45 @@ const Menus = ({ children }) => (
 );
 
 const Menu = ({ children }) => (
-  <div className='menu' key={v4()}>
+  <div className='menu' key={'menu' + v4()}>
     {children}
   </div>
 );
 
-const Dish = ({ price, name }) => (
+const Dish = ({ price, name, isAlternative }) => (
   <div className='dish' key={name}>
-    <p>{name}</p>
-    <p>{price}</p>
+    {!isAlternative && <p className='mark bullet'>*</p>}
+    <p className={'mark name' + (isAlternative ? ' alt' : '')}>{name}</p>
+    <p className='mark price'>{price} :-</p>
   </div>
+);
+
+const Seperator = () => (
+  <div className='seperator' key={'seperator' + v4()} />
 );
 
 // Composition: Export
 
-const toMenu = compose(Menu, toChildren, map(Dish), prop('dishes'));
+const toAlternative = assoc('isAlternative', true);
+const ejectAlternatives = (xs, x) => concat(
+  [...xs, x],
+  map(toAlternative, x.alternatives || []),
+);
 
-const toMenus = compose(Menus, toChildren, map(toMenu), prop('menus'));
+const selectMenuChildren = compose(
+  map(Dish),
+  reduce(ejectAlternatives, []),
+  prop('dishes'),
+);
+
+const toMenu = compose(Menu, toChildren, selectMenuChildren);
+
+const selectMenusChildren = compose(
+  intersperseComponent(Seperator),
+  map(toMenu),
+  prop('menus'),
+);
+
+const toMenus = compose(Menus, toChildren, selectMenusChildren);
 
 export default toMenus;
