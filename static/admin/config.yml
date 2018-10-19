@@ -9,7 +9,7 @@ collections:
   - name: "settings"
     label: "Settings"
     files:
-      - file: "src/main/index.md"
+      - file: "src/pages/main/index.md"
         label: "Main Page"
         name: "main"
         fields:
