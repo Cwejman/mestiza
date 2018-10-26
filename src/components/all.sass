@@ -4,47 +4,66 @@ $black: #191919
   font-family: "marker-mark"
   src: url('/fonts/MarkerMark-Regular.otf')
 
+@font-face
+  font-family: "mtt"
+  src: url('/fonts/MTT.otf')
+
 html body
   margin: 0
-  font-family: avenir
+  font-family: mtt
 
-.menus
-  background: $black
+.Header
+  display: flex
+  justify-content: center
+  align-items: center
+  width: 100vw
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: black
+
+.Header > p
+  padding: 128px 64px
+  font-size: 26px
+  color: white
+
+.Menus
+  padding: 128px 64px
+  background: white
   display: flex
   align-items: center
-  padding: 64px 32px
   flex-direction: column
 
-.menu
+.Menus-section
   max-width: 360px
   width: 100%
 
-.dish
+.Menus-dish
   display: flex
   justify-content: space-between
   align-items: center
 
-.mark
+.Menus-dish > p
   font-family: marker-mark
-  color: white
   font-size: 24px
   margin: 0
   text-align: left
 
-.bullet
+.Menus-dish-bullet
   padding-top: 6px
   padding-right: 10px
   align-self: flex-start
 
-.name
+.Menus-dish-name
   padding-right: 10px
   width: 100%
 
-.alt
+.Menus-dish-name.alt
   text-align: right
   padding-right: 20px !important
 
-.price
+.Menus-dish-price
   font-size: 18px
   padding-bottom: 5px
   flex-shrink: 0

@@ -1,57 +1,63 @@
 import React from 'react'
 import { v4 } from 'uuid';
-import { assoc, reduce, concat, compose, map, prop } from 'ramda';
+import * as R from 'ramda';
 
-import { toChildren, intersperseComponent } from '../utils';
+import * as U from '../utils';
+import Header from './Header';
 
 // Components
 
-const Menus = ({ children }) => (
-  <div className='menus' key='menus'>
+const Menus = ({ children }) => [
+  <Header title="MENY" src="/img/plate2.jpg" />,
+  <Sections children={children} />,
+];
+
+const Sections = ({ children }) => (
+  <div className="Menus" key="menus">
     {children}
   </div>
 );
 
-const Menu = ({ children }) => (
-  <div className='menu' key={'menu' + v4()}>
+const Section = ({ children }) => (
+  <div className="Menus-section" key={'menu' + v4()}>
     {children}
   </div>
 );
 
 const Dish = ({ price, name, isAlternative }) => (
-  <div className='dish' key={name}>
-    {!isAlternative && <p className='mark bullet'>*</p>}
-    <p className={'mark name' + (isAlternative ? ' alt' : '')}>{name}</p>
-    <p className='mark price'>{price} :-</p>
+  <div className="Menus-dish" key={name}>
+    {!isAlternative && <p className="Menus-dish-bullet">*</p>}
+    <p className={'Menus-dish-name' + (isAlternative ? ' alt' : '')}>{name}</p>
+    <p className="Menus-dish-price">{price} :-</p>
   </div>
 );
 
 const Seperator = () => (
-  <div className='seperator' key={'seperator' + v4()} />
+  <div className="Menus-seperator" key={'seperator' + v4()} />
 );
 
 // Composition: Export
 
-const toAlternative = assoc('isAlternative', true);
-const ejectAlternatives = (xs, x) => concat(
+const toAlternative = R.assoc('isAlternative', true);
+const ejectAlternatives = (xs, x) => R.concat(
   [...xs, x],
-  map(toAlternative, x.alternatives || []),
+  R.map(toAlternative, x.alternatives || []),
 );
 
-const selectMenuChildren = compose(
-  map(Dish),
-  reduce(ejectAlternatives, []),
-  prop('dishes'),
+const selectSectionChildren = R.compose(
+  R.map(Dish),
+  R.reduce(ejectAlternatives, []),
+  R.prop('dishes'),
 );
 
-const toMenu = compose(Menu, toChildren, selectMenuChildren);
+const toSection = R.compose(Section, U.toChildren, selectSectionChildren);
 
-const selectMenusChildren = compose(
-  intersperseComponent(Seperator),
-  map(toMenu),
-  prop('menus'),
+const selectMenusChildren = R.compose(
+  U.intersperseComponent(Seperator),
+  R.map(toSection),
+  R.prop('menus'),
 );
 
-const toMenus = compose(Menus, toChildren, selectMenusChildren);
+const toMenus = R.compose(Menus, U.toChildren, selectMenusChildren);
 
 export default toMenus;
