@@ -1,11 +1,11 @@
 import { graphql } from 'gatsby'
 import { compose, applyTo, map, path } from 'ramda';
 
-import { Menu, Cover } from '../components';
+import { Menu, Cover, Intro } from '../components';
 
 // Constants
 
-const sections = [Cover, Menu];
+const sections = [Cover, Intro, Menu];
 const frontmatterPath = ['data', 'markdownRemark', 'frontmatter'];
 
 // Composition: Main Page
@@ -22,7 +22,7 @@ export const query = graphql`
   query MainPage($path: String!) {
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       frontmatter {
-        introduction
+        intro
         menus {
           dishes {
             price

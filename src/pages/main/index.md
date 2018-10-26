@@ -1,6 +1,6 @@
 ---
 path: /
-introduction: Hello
+intro: Nulla efficitur est vel dui aliquet, sed tempor odio rhoncus. Sed ut tincidunt dui, at pharetra diam. Nulla tempus, sem non gravida faucibus, purus dui laoreet massa, sed vulputate magna ante sed neque.
 menus:
   - dishes:
     - name: Räk & kokoscroquetas, krabbsallad m. passion & habanerodressing.

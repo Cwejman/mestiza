@@ -13,7 +13,7 @@ collections:
         label: "Main Page"
         name: "main"
         fields:
-          - {label: Introduction, name: introduction, widget: string}
+          - {label: Intro, name: intro, widget: string}
           - label: Menus
             name: menus
             widget: list
