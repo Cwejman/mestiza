@@ -1,11 +1,11 @@
 import { graphql } from 'gatsby'
 import { compose, applyTo, map, path } from 'ramda';
 
-import { Menu } from '../components';
+import { Menu, Cover } from '../components';
 
 // Constants
 
-const sections = [Menu];
+const sections = [Cover, Menu];
 const frontmatterPath = ['data', 'markdownRemark', 'frontmatter'];
 
 // Composition: Main Page

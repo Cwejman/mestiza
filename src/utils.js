@@ -1,10 +1,10 @@
-import { addIndex, compose, map, intersperse, tap, applySpec, identity } from 'ramda';
+import * as R from 'ramda'
 
-export const trace = msg => tap(x => console.log(msg, x))
+export const trace = msg => R.tap(x => console.log(msg, x))
 
-export const toChildren = applySpec({ children: identity });
+export const toChildren = R.applySpec({ children: R.identity });
 
-export const intersperseComponent = Base => compose(
-  addIndex(map)((x, i) => i % 2 ? x() : x),
-  intersperse(Base),
+export const intersperseComponent = Base => R.compose(
+  R.addIndex(R.map)((x, i) => i % 2 ? x() : x),
+  R.intersperse(Base),
 );
