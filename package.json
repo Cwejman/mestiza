@@ -19,8 +19,8 @@
     "node-sass": "^4.9.2",
     "parcel-bundler": "^1.9.4",
     "ramda": "^0.25.0",
-    "react": "^16.2.0",
-    "react-dom": "^16.4.1",
+    "react": "^16.7.0-alpha.0",
+    "react-dom": "^16.7.0-alpha.0",
     "react-helmet": "^5.2.0",
     "uuid": "^3.2.1"
   },
@@ -32,6 +32,13 @@
     "serve": "gatsby serve"
   },
   "devDependencies": {
+    "babel-eslint": "^9.0.0",
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-ramda": "^2.5.1",
+    "eslint-plugin-react": "^7.11.1",
     "prettier": "^1.7.4",
     "rimraf": "^2.6.2"
   }

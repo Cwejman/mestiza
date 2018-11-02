@@ -1,4 +1,4 @@
-$black: #191919
+$black: rgb(20, 20, 20)
 
 @font-face
   font-family: "marker-mark"
@@ -11,6 +11,7 @@ $black: #191919
 html body
   margin: 0
   font-family: mtt
+  color: $black
 
 .Cover
   width: 100vw
@@ -19,6 +20,9 @@ html body
   justify-content: center
   align-items: center
   background-image: url(/img/wide2.jpg)
+  background-attachment: fixed
+  background-position: center
+  background-repeat: no-repeat
   background-size: cover
 
 .Cover > p
@@ -32,12 +36,12 @@ html body
   align-items: center
   width: 100vw
   background: white
-  color: black
+  color: $black
 
 .Intro > p
   padding: 128px 64px
   line-height: 24px
-  max-width: 512px
+  max-width: 360px
 
 .Header
   display: flex
@@ -48,11 +52,12 @@ html body
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  color: black
+  color: $black
 
 .Header > p
   padding: 128px 64px
   font-size: 26px
+  letter-spacing: 3px
   color: white
 
 .Menus
@@ -70,10 +75,14 @@ html body
   display: flex
   justify-content: space-between
   align-items: center
+  margin: 10px 0
+
+.Menus-dish.alt
+  margin-top: -10px !important
 
 .Menus-dish > p
-  font-family: marker-mark
-  font-size: 24px
+  //font-family: marker-mark
+  //font-size: 24px
   margin: 0
   text-align: left
 
@@ -95,3 +104,38 @@ html body
   padding-bottom: 5px
   flex-shrink: 0
   align-self: flex-end
+
+.Booking
+  padding: 128px 64px
+  background: white
+  display: flex
+  align-items: center
+  flex-direction: column
+
+.Booking-form
+  max-width: 360px
+  width: 100%
+
+.Booking-label
+  font-size: 20px
+  margin: 20px 0 10px 0
+  margin-left: 10px
+  color: $black
+
+.Booking input
+  font-size: 14px
+  font-family: MTT
+  margin: 0
+  border: 0
+  width: calc(100% - 32px)
+  border-radius: 3px
+  padding: 16px
+  display: inline-block
+  vertical-align: middle
+  white-space: normal
+  background-color: rgb(247, 247, 247)
+
+.Booking input:focus
+  background-color: rgb(237, 237, 237)
+  outline: none
+  border: 0

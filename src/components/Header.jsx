@@ -1,9 +1,9 @@
-import React from 'react'
+import * as React from 'react';
 import * as R from 'ramda';
 
 const toKey = R.compose(R.concat('header-'), R.prop('title'));
 const toStyle = props => ({
-  'background-image': `url(${props.src})`
+  backgroundImage: `url(${props.src})`,
 });
 
 const Header = props => (
