@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "lib": ["dom", "es6", "ScriptHost", "es2016"],
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "rootDirs": ["src", "stories"],
+    "target": "es6"
+  },
+  "include": [
+    "./src"
+  ],
+  "exclude": [
+    "./node_modules/*"
+  ]
+}

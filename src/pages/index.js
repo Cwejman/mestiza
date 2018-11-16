@@ -1,11 +1,12 @@
-import { graphql } from 'gatsby'
+import { graphql } from 'gatsby';
 import { compose, applyTo, map, path } from 'ramda';
+import { cold } from 'react-hot-loader';
 
-import { Menu, Cover, Intro, Booking } from '../components';
+import { Nav, Menu, Cover, Intro, Booking } from '../components';
 
 // Constants
 
-const sections = [Cover, Intro, Menu, Booking];
+const sections = [Nav, Cover, Intro, Menu, Booking];
 const frontmatterPath = ['data', 'markdownRemark', 'frontmatter'];
 
 // Composition: Main Page
@@ -14,7 +15,7 @@ const toTemplate = sections => data => map(applyTo(data), sections);
 
 export const Template = toTemplate(sections)
 
-export default compose(Template, path(frontmatterPath));
+export default cold(compose(Template, path(frontmatterPath)));
 
 // Gatsby AST GQL
 

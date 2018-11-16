@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import { v4 } from 'uuid';
 import * as R from 'ramda';
 
@@ -8,8 +8,8 @@ import Header from './Header';
 // Components
 
 const Menus = ({ children }) => [
-  <Header title="MENY" src="/img/plate2.jpg" />,
-  <Sections children={children} />,
+  <Header key="header-menu" id="Menu" title="MENY" src="/img/plate2.jpg" />,
+  <Sections key="sections">{children}</Sections>,
 ];
 
 const Sections = ({ children }) => (
@@ -19,21 +19,23 @@ const Sections = ({ children }) => (
 );
 
 const Section = ({ children }) => (
-  <div className="Menus-section" key={'menu' + v4()}>
+  <div className="Menus-section" key={`menu${v4()}`}>
     {children}
   </div>
 );
 
 const Dish = ({ price, name, isAlternative }) => (
-  <div className={'Menus-dish' + (isAlternative ? ' alt' : '')} key={name}>
+  <div className={`Menus-dish${isAlternative ? ' alt' : ''}`} key={name}>
     {!isAlternative && <p className="Menus-dish-bullet">*</p>}
-    <p className={'Menus-dish-name' + (isAlternative ? ' alt' : '')}>{name}</p>
-    <p className="Menus-dish-price">{price} :-</p>
+    <p className={`Menus-dish-name${isAlternative ? ' alt' : ''}`}>{name}</p>
+    <p className="Menus-dish-price">
+      {`${price}$`}
+    </p>
   </div>
 );
 
 const Seperator = () => (
-  <div className="Menus-seperator" key={'seperator' + v4()} />
+  <p className="Menus-seperator" key={`seperator${v4()}`}>=</p>
 );
 
 // Composition: Export

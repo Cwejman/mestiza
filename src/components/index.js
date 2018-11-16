@@ -1,5 +1,6 @@
-import './all.sass';
+import './all.scss';
 
+export { default as Nav } from './Nav';
 export { default as Menu } from './Menu';
 export { default as Cover } from './Cover';
 export { default as Intro } from './Intro';
