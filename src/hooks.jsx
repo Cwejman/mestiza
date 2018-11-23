@@ -6,20 +6,20 @@ import * as U from './utils';
 // Composition: Server side safe use event
 
 export const useEvent = R.curry((base, type, fn) => useEffect(() => {
-  base && base.addEventListener(type, fn);
-  return () => base && base.removeEventListener(type, fn);
+  global[base] && global[base].addEventListener(type, fn);
+  return () => global[base] && global[base].removeEventListener(type, fn);
 }, []));
 
 // Composition: Prebound use events with time controlling
 
-export const useResize = R.pipe(U.debounce(100), useEvent(window, 'resize'));
-export const useScroll = R.pipe(U.throttle(100), useEvent(document, 'scroll'));
+export const useResize = R.pipe(U.debounce(100), useEvent('window', 'resize'));
+export const useScroll = R.pipe(U.throttle(100), useEvent('document', 'scroll'));
 
 // Composition: Use viewport size
 
 const toViewportSize = () => ({
-  width: window && window.innerWidth || 0,
-  height: window && window.innerHeight || 0,
+  width: global.window && window.innerWidth || 0,
+  height: global.window && window.innerHeight || 0,
 });
 
 export const useViewportSize = () => {
@@ -31,8 +31,8 @@ export const useViewportSize = () => {
 // Composition: Use viewport position
 
 const toViewportPos = () => ({
-  y: window && window.scrollY || 0,
-  x: window && window.scrollX || 0,
+  y: global.window && window.scrollY || 0,
+  x: global.window && window.scrollX || 0,
 });
 
 export const useViewportPos = () => {
