@@ -1,6 +1,8 @@
 $black: rgb(20, 20, 20);
+$smoke: rgb(244, 244, 244);
+$smoke-dark: rgb(235, 235, 235);
 $max-w: 400px;
-$small: 488px;
+$small: 550px;
 
 @mixin pad () {
    @media screen and (min-width: $small) {
@@ -28,7 +30,7 @@ html body {
 }
 
 *::selection {
-   background: rgb(245, 245, 245)
+   background: $smoke;
 }
 
 
@@ -144,11 +146,24 @@ input::selection {
   background-repeat: no-repeat;
   background-size: cover;
   user-select: none;
+  @media (max-width: $small) {
+    background-attachment: scroll;
+    height: 80vh;
+  }
+  @media (min-width: $small) {
+    background-attachment: fixed;
+    height: 100vh;
+  }
 }
 
 .Cover-logo {
    width: 100%;
-   max-width: 400px;
+  @media (max-width: $small) {
+    max-width: 66vw;
+  }
+  @media (min-width: $small) {
+    max-width: 400px;
+  }
 }
 
 .Cover > p {
@@ -182,7 +197,14 @@ input::selection {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  @media (max-width: $small) {
+    background-attachment: scroll;
+    background-size: 100%;
+  }
+  @media (min-width: $small) {
+    background-attachment: fixed;
+    background-size: cover;
+  }
 }
 
 .Header-title {
@@ -201,6 +223,35 @@ input::selection {
   flex-direction: column;
 }
 
+.Menus-cateringSwitch {
+  display: flex;
+  font-size: 14px;
+  user-select: none;
+  cursor: pointer;
+}
+
+.Menus-cateringSwitch-el {
+  padding: 8px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid $smoke;
+}
+
+.Menus-cateringSwitch-el:first-child {
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+
+.Menus-cateringSwitch-el:last-child {
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+
+.Menus-cateringSwitch-el.off {
+  background-color: $smoke;
+}
+
 .Menus-seperator {
   font-family: kiki;
   font-size: 36px;
@@ -211,6 +262,15 @@ input::selection {
 .Menus-section {
   max-width: $max-w;
   width: 100%;
+}
+
+.Menus-section-cateringSwitch {
+  max-width: $max-w;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: -52px;
+  margin-bottom: 16px;
 }
 
 .Menus-dish {
@@ -269,6 +329,30 @@ input::selection {
   flex-direction: column;
 }
 
+// .Booking-seperator {
+//   width: calc(100% - 64px);
+//   border-radius: 1px;
+//   margin: 32px 24px;
+//   background: $smoke;
+//   height: 2px;
+// }
+
+// .Booking-seperator:before, .Booking-seperator:after {
+//   content: "";
+//   position: absolute;
+//   background-image: linear-gradient(#000, transparent);
+//   top: -3px;
+//   bottom: -3px;
+//   width: 3px;
+// }
+
+// .ps-top-to-bottom:before {
+//   left: -3px;
+// }
+// .ps-top-to-bottom:after {
+//   right: -3px;
+// }
+
 .Booking-form {
   max-width: $max-w;
   width: 100%;
@@ -302,7 +386,7 @@ input::selection {
 
 .Booking-label {
   font-size: 20px;
-  margin: 20px 0 10px 0;
+  margin: 10px 0;
   margin-left: 10px;
   color: $black;
 }
@@ -319,11 +403,11 @@ input::selection {
   display: inline-block;
   vertical-align: middle;
   white-space: normal;
-  background-color: rgb(247, 247, 247);
+  background-color: $smoke;
 }
 
 .Booking input:focus {
-  background-color: rgb(237, 237, 237);
+  background-color: $smoke-dark;
   outline: none;
   border: 0;
 }
@@ -331,21 +415,22 @@ input::selection {
 .Booking button {
   font-size: 20px;
   font-family: MTT;
-  margin: 36px 8px 0 8px;
   line-height: 20px;
   border: 0;
   width: calc(100% - 16px);
   border-radius: 3px;
+  margin: 8px;
+  margin-top: 32px;
   padding: 16px;
   display: inline-block;
   vertical-align: middle;
   white-space: normal;
-  background-color: rgb(247, 247, 247);
+  background-color: $smoke;
   height: 50px;
 }
 
 .Booking button:hover {
-  background-color: rgb(237, 237, 227);
+  background-color: $smoke-dark;
   outline: none;
   border: 0;
   cursor: pointer;

@@ -71,3 +71,11 @@ export const useShowHide = (delay, init = false) => {
     value: pre,
   };
 };
+
+// Composition: Toggleable boolean
+
+export const useBool = (init = false) => {
+  const [bool, setBool] = React.useState(init);
+  const toogleBool = () => setBool(R.not);
+  return [bool, toogleBool];
+};

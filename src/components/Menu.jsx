@@ -2,15 +2,32 @@ import React from 'react';
 import { v4 } from 'uuid';
 import * as R from 'ramda';
 
+import * as H from '../hooks';
 import * as U from '../utils';
 import Header from './Header';
 
 // Components
 
-const Menus = ({ children }) => [
-  <Header key="header-menu" id="Menu" title="MENY" src="/img/plate2.jpg" />,
-  <Sections key="sections">{children}</Sections>,
-];
+const Menus = ({ catering, normal }) => {
+  const [onCatering, toogleOnCatering] = H.useBool()
+
+  return [
+    <Header key="header-menu" id="Menu" title="MENY" src="/img/plate2.jpg" />,
+    <Sections key="sections">
+      <CateringSwitch onClick={toogleOnCatering} value={onCatering} />
+      {onCatering ? catering : normal}
+    </Sections>,
+  ];
+};
+
+const CateringSwitch = ({ value, onClick }) => (
+  <div className="Menus-section-cateringSwitch">
+    <div className="Menus-cateringSwitch" onClick={onClick}>
+      <div className={`Menus-cateringSwitch-el${value ? ' off' : ' on'}`}>Vanlig</div>
+      <div className={`Menus-cateringSwitch-el${value ? ' on' : ' off'}`}>Catering</div>
+    </div>
+  </div>
+);
 
 const Sections = ({ children }) => (
   <div className="Menus" key="menus">
@@ -54,12 +71,15 @@ const selectSectionChildren = R.compose(
 
 const toSection = R.compose(Section, U.toChildren, selectSectionChildren);
 
-const selectMenusChildren = R.compose(
+const toMenuChildren = R.compose(
   U.intersperseComponent(Seperator),
   R.map(toSection),
-  R.prop('menus'),
 );
 
-const toMenus = R.compose(Menus, U.toChildren, selectMenusChildren);
+const toMenuProps = R.applySpec({
+  normal: R.pipe(R.prop('menus'), toMenuChildren),
+  catering: R.pipe(R.prop('menusCatering'), toMenuChildren),
+});
+const toMenus = R.compose(Menus, toMenuProps);
 
 export default toMenus;
