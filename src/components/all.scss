@@ -1,0 +1,437 @@
+$black: rgb(20, 20, 20);
+$smoke: rgb(244, 244, 244);
+$smoke-dark: rgb(235, 235, 235);
+$max-w: 400px;
+$small: 550px;
+
+@mixin pad () {
+   @media screen and (min-width: $small) {
+    padding: 128px 64px;
+  }
+  @media screen and (max-width: $small) {
+    padding: 96px 32px;
+  }
+}
+
+@font-face {
+  font-family: "kiki";
+  src: url('/fonts/NewFont-Regular.otf');
+}
+
+@font-face {
+  font-family: "mtt";
+  src: url('/fonts/MTT.otf');
+}
+
+html body {
+  margin: 0;
+  font-family: mtt;
+  color: $black;
+}
+
+*::selection {
+   background: $smoke;
+}
+
+
+input::selection {
+   background: rgb(255, 255, 255);
+   opacity: 1;
+}
+
+.Nav-bar.trans {
+   background-color: rgba(247, 247, 247, 0);
+   color: white;
+}
+
+.Nav-bar.opaque {
+   background-color: rgba(255, 255, 255, 255);
+   color: black;
+}
+
+.Nav-bar {
+   z-index: 100;
+   height: 48px;
+   width: 100vw;
+   top: 0;
+   left: 0;
+   position: fixed;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.Nav-link {
+   text-decoration: none;
+   letter-spacing: 1px;
+   font-size: 16px;
+   color: inherit;
+  font-family: MTT;
+  border: 0;
+  display: inline-block;
+  vertical-align: middle;
+  white-space: normal;
+  height: 50px;
+  outline: none;
+  background: none;
+  margin: 0;
+  padding: 0;
+  cursor: pointer;
+}
+
+.Nav-bar-logo.trans {
+   opacity: 0;
+}
+
+.Nav-bar-logo.opaque {
+   opacity: 1;
+   cursor: pointer;
+}
+
+.Nav-bar-logo {
+   height: 16px;
+   padding-left: 16px;
+   z-index: 200;
+}
+
+.Nav-bar.trans > Nav-bar-logo {
+   opacity: 0;
+}
+
+.Nav-bar.trans > Nav-bar-logo {
+   opacity: 1;
+}
+
+.Nav-bar-links {
+   display: flex;
+   flex-wrap: no-wrap;
+   align-items: center;
+   height: 16px;
+   padding-right: 16px;
+}
+
+.Nav-bar-seperator {
+   padding: 0 8px;
+}
+
+.Nav-bar-stack {
+   height: 26px;
+   cursor: pointer;
+   padding-right: 16px;
+}
+
+.Nav-mobile {
+  transition: opacity 0.2s;
+  background-color: white;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.Cover {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(/img/wide2.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  user-select: none;
+  @media (max-width: $small) {
+    background-attachment: scroll;
+    height: 80vh;
+  }
+  @media (min-width: $small) {
+    background-attachment: fixed;
+    height: 100vh;
+  }
+}
+
+.Cover-logo {
+   width: 100%;
+  @media (max-width: $small) {
+    max-width: 66vw;
+  }
+  @media (min-width: $small) {
+    max-width: 400px;
+  }
+}
+
+.Cover > p {
+  font-size: 64px;
+  letter-spacing: 10px;
+  color: white;
+}
+
+.Intro {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  background: white;
+  color: $black;
+}
+
+.Intro > p {
+  @include pad();
+  margin: 0;
+  font-size: 17px;
+  line-height: 24px;
+  max-width: $max-w;
+}
+
+.Header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  @media (max-width: $small) {
+    background-attachment: scroll;
+    background-size: 100%;
+  }
+  @media (min-width: $small) {
+    background-attachment: fixed;
+    background-size: cover;
+  }
+}
+
+.Header-title {
+  @include pad();
+  margin: 0;
+  font-size: 26px;
+  letter-spacing: 3px;
+  color: white;
+}
+
+.Menus {
+  @include pad();
+  background: white;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.Menus-cateringSwitch {
+  display: flex;
+  font-size: 14px;
+  user-select: none;
+  cursor: pointer;
+}
+
+.Menus-cateringSwitch-el {
+  padding: 8px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid $smoke;
+}
+
+.Menus-cateringSwitch-el:first-child {
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+
+.Menus-cateringSwitch-el:last-child {
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+
+.Menus-cateringSwitch-el.off {
+  background-color: $smoke;
+}
+
+.Menus-seperator {
+  font-family: kiki;
+  font-size: 36px;
+  line-height: 20px;
+  margin: 0;
+}
+
+.Menus-section {
+  max-width: $max-w;
+  width: 100%;
+}
+
+.Menus-section-cateringSwitch {
+  max-width: $max-w;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: -52px;
+  margin-bottom: 16px;
+}
+
+.Menus-dish {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px 0;
+}
+
+.Menus-dish.alt {
+  margin-top: -10px !important;
+}
+
+.Menus-dish > p {
+  font-family: kiki;
+  font-size: 28px;
+  line-height: 28px;
+  margin: 0;
+  text-align: left;
+}
+
+.Menus-dish-bullet {
+  padding-right: 10px;
+  line-height: 26px;
+  align-self: flex-start;
+}
+
+.Menus-dish-name {
+  padding-right: 10px;
+  width: 100%;
+}
+
+.Menus-dish-name.alt {
+  text-align: right;
+  padding-right: 20px !important;
+}
+
+.Menus-dish-price {
+  font-size: 18px;
+  padding-bottom: 5px;
+  flex-shrink: 0;
+  width: 50px;
+  align-self: flex-end;
+}
+
+.Booking {
+  @media screen and (min-width: $small) {
+    padding: 128px 72px 128px 54px;
+  }
+  @media screen and (max-width: $small) {
+    padding: 96px 40px 96px 24px;
+  }
+  background: white;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+// .Booking-seperator {
+//   width: calc(100% - 64px);
+//   border-radius: 1px;
+//   margin: 32px 24px;
+//   background: $smoke;
+//   height: 2px;
+// }
+
+// .Booking-seperator:before, .Booking-seperator:after {
+//   content: "";
+//   position: absolute;
+//   background-image: linear-gradient(#000, transparent);
+//   top: -3px;
+//   bottom: -3px;
+//   width: 3px;
+// }
+
+// .ps-top-to-bottom:before {
+//   left: -3px;
+// }
+// .ps-top-to-bottom:after {
+//   right: -3px;
+// }
+
+.Booking-form {
+  max-width: $max-w;
+  width: 100%;
+}
+
+.Booking-row {
+  display: flex;
+  @media screen and (max-width: $small) {
+    flex-direction: column;
+  }
+}
+
+.Booking-group {
+  padding: 8px;
+  @media screen and (max-width: $small) {
+    width: 100%;
+  }
+}
+
+.Booking-group:last-child {
+  @media screen and (min-width: $small) {
+    width: #{368 * 0.39}px;
+  }
+}
+
+.Booking-group:first-child {
+  @media screen and (min-width: $small) {
+    width: #{368 * 0.61}px;
+  }
+}
+
+.Booking-label {
+  font-size: 20px;
+  margin: 10px 0;
+  margin-left: 10px;
+  color: $black;
+}
+
+.Booking input {
+  font-size: 16px;
+  height: 18px;
+  font-family: MTT;
+  margin: 0;
+  border: 0;
+  width: calc(100% - 32px);
+  border-radius: 3px;
+  padding: 16px;
+  display: inline-block;
+  vertical-align: middle;
+  white-space: normal;
+  background-color: $smoke;
+}
+
+.Booking input:focus {
+  background-color: $smoke-dark;
+  outline: none;
+  border: 0;
+}
+
+.Booking button {
+  font-size: 20px;
+  font-family: MTT;
+  line-height: 20px;
+  border: 0;
+  width: calc(100% - 16px);
+  border-radius: 3px;
+  margin: 8px;
+  margin-top: 32px;
+  padding: 16px;
+  display: inline-block;
+  vertical-align: middle;
+  white-space: normal;
+  background-color: $smoke;
+  height: 50px;
+}
+
+.Booking button:hover {
+  background-color: $smoke-dark;
+  outline: none;
+  border: 0;
+  cursor: pointer;
+}

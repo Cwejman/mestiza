@@ -5,11 +5,11 @@ menus:
   - dishes:
     - name: Räk & kokoscroquetas, krabbsallad m. passion & habanerodressing.
       price: 150
-    - name: Halstrad tonfisk, rosépeppar, majs, blancherad tomat m. kapris
+    - name: Halstrad tonfisk, rosepeppar, majs, blancherad tomat m. kapris
       price: 150
     - name: Spicy Wagu Carpaccio toppad m. tomat & rabarbersallad
       price: 150
-    - name: Vit Sparris m. brynt smör & valnötter
+    - name: Vit sparris m. brynt smör & valnötter
       price: 100
       alternatives:
       - name: ... m. Iberico
@@ -23,9 +23,21 @@ menus:
       price: 100
     - name: Hel kronärtskocka, m. citron & vitlöksdressing samt rödbetsmajo dipp
       price: 100
-    - name: Sotad sötpotatis m. citroncrèmefraiche
+    - name: Sotad sötpotatis m. citroncremefraiche
       price: 100
     - name: Färska bär i Sabayon toppad m. mkukmaräng & fänkålssocker
       price: 90
-
+menusCatering:
+  - dishes:
+    - name: Räk & kokoscroquetas, krabbsallad m. passion & habanerodressing.
+      price: 150
+    - name: Halstrad tonfisk, rosepeppar, majs, blancherad tomat m. kapris
+      price: 150
+    - name: Spicy Wagu Carpaccio toppad m. tomat & rabarbersallad
+      price: 150
+    - name: Vit Sparris m. brynt smör & valnötter
+      price: 100
+      alternatives:
+      - name: ... m. Iberico
+        price: 175
 ---

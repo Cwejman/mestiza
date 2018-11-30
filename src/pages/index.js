@@ -1,20 +1,17 @@
-import { graphql } from 'gatsby'
-import { compose, applyTo, map, path } from 'ramda';
+import { graphql } from 'gatsby';
+import { cold } from 'react-hot-loader';
+import * as R from 'ramda';
 
-import { Menu, Cover, Intro } from '../components';
+import { Nav, Menu, Cover, Intro, Booking } from '../components';
 
-// Constants
-
-const sections = [Cover, Intro, Menu];
 const frontmatterPath = ['data', 'markdownRemark', 'frontmatter'];
 
-// Composition: Main Page
+const toTemplate = sections => data => R.map(R.applyTo(data), sections);
 
-const toTemplate = sections => data => map(applyTo(data), sections);
+export const Template = () => <div>Preview can not be enabled at this time</div>
+export const Site = toTemplate([Nav, Cover, Intro, Menu, Booking]);
 
-export const Template = toTemplate(sections)
-
-export default compose(Template, path(frontmatterPath));
+export default cold(R.compose(Site, x => { console.log(x); return x }, R.path(frontmatterPath)));
 
 // Gatsby AST GQL
 
@@ -33,7 +30,17 @@ export const query = graphql`
             }
           }
         }
+        menusCatering {
+          dishes {
+            price
+            name
+            alternatives {
+              price
+              name
+            }
+          }
+        }
       }
     }
   }
-`
+`;
