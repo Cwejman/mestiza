@@ -73,6 +73,8 @@ const Nav = () => {
   const links = R.map(toLink(onLinkClick), linkList);
   const barLinks = U.intersperseComponent(Seperator, links);
 
+  console.log(vPos.y, vSize.height);
+
   return [
     <div key="mobile" className="Nav-mobile" style={menuStore.style}>{links}</div>,
     <div key="stack" className={withTrans('Nav-bar')}>

@@ -13,7 +13,7 @@ const frontmatterPath = ['data', 'markdownRemark', 'frontmatter'];
 
 const toTemplate = sections => data => map(applyTo(data), sections);
 
-export const Template = toTemplate(sections)
+export const Template = toTemplate(sections);
 
 export default cold(compose(Template, path(frontmatterPath)));
 
@@ -37,4 +37,4 @@ export const query = graphql`
       }
     }
   }
-`
+`;

@@ -7,6 +7,7 @@ import * as U from './utils';
 
 export const useEvent = R.curry((base, type, fn) => useEffect(() => {
   global[base] && global[base].addEventListener(type, fn);
+  global[base] && fn();
   return () => global[base] && global[base].removeEventListener(type, fn);
 }, []));
 
@@ -18,8 +19,8 @@ export const useScroll = R.pipe(U.throttle(100), useEvent('document', 'scroll'))
 // Composition: Use viewport size
 
 const toViewportSize = () => ({
-  width: global.window && window.innerWidth || 0,
-  height: global.window && window.innerHeight || 0,
+  width: global.window && window.innerWidth || 320,
+  height: global.window && window.innerHeight || 480,
 });
 
 export const useViewportSize = () => {
