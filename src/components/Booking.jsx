@@ -33,7 +33,7 @@ const Booking = () => {
     <div className="Booking" key="booking">
       <form className="Booking-form" data-netlify-honeypot="4bots" data-netlify="true">
         <p style={{ display: 'none' }}>
-          <input name="4bots" />
+          <input name="4bots" type="hidden" />
         </p>
         <div className="Booking-row">
           <Input {...date} name="date" label="Datum" type="date" />
