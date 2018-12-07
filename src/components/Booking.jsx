@@ -31,21 +31,21 @@ const Booking = () => {
   return [
     <Header id="Booking" key="header-booking" title="BOKA BORD" src="/img/wide2.jpg" />,
     <div className="Booking" key="booking">
-      <form className="Booking-form" netlify-honeypot="4bots" netlify>
+      <form className="Booking-form" netlify-honeypot="4bots" method="POST" netlify>
         <p style={{ display: 'none' }}>
           <input name="4bots" />
         </p>
         <div className="Booking-row">
-          <Input {...date} label="Datum" type="date" />
-          <Input {...time} label="Tid" type="time" />
+          <Input {...date} name="date" label="Datum" type="date" />
+          <Input {...time} name="time" label="Tid" type="time" />
         </div>
         <div className="Booking-row">
-          <Input {...name} label="För och efternamn" type="text" />
-          <Input {...amount} label="Antal" type="number" min="1" max="6" />
+          <Input {...name} name="name" label="För och efternamn" type="text" />
+          <Input {...amount} name="people" label="Antal" type="number" min="1" max="6" />
         </div>
         <div className="Booking-row">
-          <Input {...mail} label="Mejl" type="email" />
-          <Input {...phone} label="Telefon-nr" type="tel" />
+          <Input {...mail} name="mail" label="Mejl" type="email" />
+          <Input {...phone} name="phone" label="Telefon-nr" type="tel" />
         </div>
         <button type="submit">Boka</button>
       </form>
