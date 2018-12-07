@@ -435,3 +435,19 @@ input::selection {
   border: 0;
   cursor: pointer;
 }
+
+.Contact {
+  @include pad();
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.Contact-line {
+  font-size: 17px;
+  line-height: 32px;
+  max-width: $max-w;
+  text-align: center;
+  margin: 0;
+}
