@@ -31,7 +31,7 @@ const Booking = () => {
   return [
     <Header id="Booking" key="header-booking" title="BOKA BORD" src="/img/wide2.jpg" />,
     <div className="Booking" key="booking">
-      <form className="Booking-form" method="post" data-netlify-honeypot="4bots" data-netlify="true">
+      <form className="Booking-form" name="booking" method="post" data-netlify-honeypot="4bots" data-netlify="true">
         <p style={{ display: 'none' }}>
           <input name="4bots" />
           <input type="hidden" name="form-name" value="booking" />
