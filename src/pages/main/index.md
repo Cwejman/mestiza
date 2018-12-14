@@ -40,4 +40,6 @@ menusCatering:
       alternatives:
       - name: ... m. Iberico
         price: 175
+number: 031 55 06 62
+address: Skanstorget 10, 411 22
 ---

@@ -1,6 +1,13 @@
 import * as React from 'react';
 import * as R from 'ramda';
 
+export const inspect = (tag, f) => (...args) => {
+  console.log(tag, 'args:', R.clone(args));
+  const res = f(...args);
+  console.log(tag, 'res:', R.clone(res));
+  return res;
+};
+
 export const trace = msg => R.tap(x => console.log(msg, x));
 
 export const toChildren = R.applySpec({ children: R.identity });

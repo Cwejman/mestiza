@@ -23,6 +23,10 @@ $small: 550px;
   src: url('/fonts/MTT.otf');
 }
 
+a {
+  color: $black;
+}
+
 html body {
   margin: 0;
   font-family: mtt;
@@ -404,6 +408,7 @@ input::selection {
   vertical-align: middle;
   white-space: normal;
   background-color: $smoke;
+  appearance: none;
 }
 
 .Booking input:focus {

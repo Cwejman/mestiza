@@ -1,3 +1,4 @@
+import React from 'react';
 import { graphql } from 'gatsby';
 import { cold } from 'react-hot-loader';
 import * as R from 'ramda';
@@ -40,6 +41,8 @@ export const query = graphql`
             }
           }
         }
+        number
+        address
       }
     }
   }

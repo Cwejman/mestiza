@@ -14,4 +14,4 @@ const MainPagePreview = ({ entry }) => {
   );
 };
 
-CMS.registerPreviewTemplate('main', MainPagePreview)
+CMS.registerPreviewTemplate('main', MainPagePreview);
