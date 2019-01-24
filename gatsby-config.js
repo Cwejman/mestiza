@@ -1,3 +1,22 @@
+const R = require('ramda');
+const $yaml = require('js-yaml');
+
+const transfMenu = R.evolve({
+  dishes: R.map(R.mergeRight({
+    alternatives: [{ name: 'PLACEHOLDER', price: 0 }],
+  })),
+});
+
+const transfRemark = R.evolve({
+  menus: R.map(transfMenu),
+  menusCatering: R.map(transfMenu),
+});
+
+const yaml = {
+  parse: R.pipe($yaml.safeLoad.bind($yaml), transfRemark),
+  stringify: $yaml.safeDump.bind($yaml),
+};
+
 module.exports = {
   siteMetadata: {
     title: 'Gatsby',
@@ -25,6 +44,9 @@ module.exports = {
       resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [],
+        engines: {
+          yaml,
+        }
       },
     },
     {

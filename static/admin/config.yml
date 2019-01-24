@@ -36,6 +36,7 @@ collections:
                         name: name
                         widget: string
                       - label: Price
+                        widget: number
                         name: price
           - label: Catering Menus
             name: menusCatering
@@ -59,6 +60,7 @@ collections:
                         name: name
                         widget: string
                       - label: Price
+                        widget: number
                         name: price
           - {label: Number, name: number, widget: string}
           - {label: Address, name: address, widget: string}

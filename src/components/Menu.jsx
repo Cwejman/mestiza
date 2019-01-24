@@ -63,9 +63,14 @@ const ejectAlternatives = (xs, x) => R.concat(
   R.map(toAlternative, x.alternatives || []),
 );
 
+const alternativesPlaceholder = [{ name: 'PLACEHOLDER', price: 0 }]
+
 const selectSectionChildren = R.compose(
   R.map(Dish),
   R.reduce(ejectAlternatives, []),
+  R.map(R.evolve({
+    alternatives: R.when(R.equals(alternativesPlaceholder), x => []),
+  })),
   R.prop('dishes'),
 );
 
