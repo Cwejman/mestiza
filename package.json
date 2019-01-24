@@ -20,9 +20,9 @@
     "netlify-cms": "^2.1.1",
     "node-sass": "^4.9.2",
     "parcel-bundler": "^1.9.4",
-    "ramda": "^0.25.0",
-    "react": "^16.7.0-alpha.0",
-    "react-dom": "^16.7.0-alpha.0",
+    "ramda": "^0.26.0",
+    "react": "^16.8.0-alpha.0",
+    "react-dom": "^16.8.0-alpha.0",
     "react-helmet": "^5.2.0",
     "react-hot-loader": "^4.3.12",
     "uuid": "^3.2.1"
