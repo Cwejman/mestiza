@@ -1,22 +1,23 @@
 ---
+path: /
 intro: Hej bbananannn
 menus:
   - dishes:
       - name: 'Räk & kokoscroquetas, krabbsallad m. passion & habanerodressing.'
-        price: '3350'
+        price: 3350
       - name: 'Halstrad tonfisk, rosepeppar, majs, blancherad tomat m. kapris'
         price: 150
       - name: Spicy Wagu Carpaccio toppad m. tomat & rabarbersallad
         price: 150
       - name: Vit sparris m. brynt smör & valnötter
         price: 100
-      - 'alternatives,':
+      - 'alternatives':
           - name: special
-            price: '50'
+            price: 50
           - name: speciallll
-            price: '0'
+            price: 0
         name: Test
-        price: '200'
+        price: 200
   - dishes:
       - name: Spicy avokadotahini m. Ash Tanur (sotat bröd)
         price: 100
