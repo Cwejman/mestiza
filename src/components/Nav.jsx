@@ -54,8 +54,6 @@ const Nav = () => {
   const vPos = H.useViewportPos();
   const vSize = H.useViewportSize();
 
-  // console.log(vSize.width)
-
   const isOnMobile = vSize.width < 500;
   const isOnCover = vPos.y < vSize.height - 48;
   const darkStack = menuStore.value || !isOnCover;
@@ -73,8 +71,6 @@ const Nav = () => {
 
   const links = R.map(toLink(onLinkClick), linkList);
   const barLinks = U.intersperseComponent(Seperator, links);
-
-  console.log(vPos.y, vSize.height);
 
   return [
     <div key="mobile" className="Nav-mobile" style={menuStore.style}>{links}</div>,
