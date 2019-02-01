@@ -6,8 +6,8 @@ import Header from './Header';
 
 const toEventVal = R.path(['target', 'value']);
 
-const useFormInput = (trafo = x => x) => {
-  const [value, setValue] = React.useState('');
+const useFormInput = (trafo = x => x, init) => {
+  const [value, setValue] = React.useState(trafo(init));
 
   return {
     value,
@@ -36,7 +36,7 @@ const toInterpolDate = (minIsoDay, maxIsoDay) => date => {
 
 const roundMoment = (input) => {
   const rounded = Math.round(input.minute() / 15) * 15;
-  return moment().minute(rounded).second(0);
+  return input.minute(rounded)
 };
 
 const hourToDate = hour => `${hour}:00`;
@@ -63,8 +63,8 @@ const Booking = () => {
   const timeMin = hourToDate(hourMin);
   const timeMax = hourToDate(hourMax);
 
-  const date = useFormInput(interpolDate);
-  const time = useFormInput(interpolTime);
+  const date = useFormInput(interpolDate, Date.now());
+  const time = useFormInput(interpolTime, Date.now());
   const amount = useFormInput();
   const phone = useFormInput();
   const name = useFormInput();
