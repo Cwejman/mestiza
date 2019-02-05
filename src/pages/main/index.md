@@ -10,6 +10,8 @@ menus:
         price: '140'
       - name: Gulbeta med Burrata och rostade macadamiannötter
         price: '150'
+      - name: Mole Blanco med pocherad Romanesco
+        price: '170'
 menusCatering:
   - dishes:
       - alternatives: []
