@@ -2,7 +2,7 @@
 path: /
 intro: >-
   Här äter vi & delar på god mat. Mestiza står för blandning. Mariuxi Ingber
-  Robles har komponerat mellanrätter från alla världens hörn i en ända röra som
+  Robles har komponerat mellanrätter från alla världens hörn i en enda röra som
   hon tagit med sig från barndom och resor världen över och gjort till sin egna
   version.  Vi dricker grymma viner av alla dess slag, ölsorter av alla dess
   slag & cider från Basqueland som Kiki Ingber valt ut med omsorg. Kaos på
