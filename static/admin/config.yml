@@ -29,7 +29,7 @@ collections:
                     name: price
                     widget: number
                   - label: Alternatives
-                    name: alternatives,
+                    name: alternatives
                     widget: list
                     fields:
                       - label: Name
@@ -53,7 +53,7 @@ collections:
                     name: price
                     widget: number
                   - label: Alternatives
-                    name: alternatives,
+                    name: alternatives
                     widget: list
                     fields:
                       - label: Name
