@@ -58,8 +58,6 @@ menusCatering:
         name: Catering meny kommer inom kort.
         price: '0'
 number: 031 55 06 62
-address: >-
-  Skanstorget 10, 411 22                            
-  https://www.facebook.com/Mestiza-145298906128565/
+address: 'Skanstorget 10, 411 22                             '
 ---
 
