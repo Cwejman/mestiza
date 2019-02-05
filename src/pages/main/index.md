@@ -1,4 +1,5 @@
 ---
+path: /
 intro: Hej bbananannn
 menus:
   - dishes:
