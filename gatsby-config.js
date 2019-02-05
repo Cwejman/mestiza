@@ -2,8 +2,8 @@ const R = require('ramda');
 const $yaml = require('js-yaml');
 
 const transfMenu = R.evolve({
-  dishes: R.map(R.mergeRight({
-    alternatives: [{ name: 'PLACEHOLDER', price: 0 }],
+  dishes: R.map(R.evolve({
+    alternatives: R.when(R.isEmpty, () => [{ name: 'PLACEHOLDER', price: 0 }])
   })),
 });
 
