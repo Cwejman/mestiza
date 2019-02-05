@@ -58,6 +58,8 @@ menusCatering:
         name: Catering meny kommer inom kort.
         price: '0'
 number: 031 55 06 62
-address: 'Skanstorget 10, 411 22                             '
+address: >-
+  Skanstorget 10, 411 22                       Öppet: Ons-tors 17.00-23.00,
+  Fre-lör 16.00-23.00
 ---
 
