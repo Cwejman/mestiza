@@ -1,6 +1,10 @@
 ---
 path: /
-intro: Hej bbananannn
+intro: >-
+  Här äter vi & delar på god mat. Mellanrätter från alla världens hörn i en ända
+  röra. Vi dricker grymma viner av alla dess slag, ölsorter av alla dess slag
+  och cider från Basqueland. Kaos på bordet är valet vi gör. Lämna mobilerna i
+  fickorna. Äta, dricka, prata, äta dricka, prata...
 menus:
   - dishes:
       - alternatives: []
