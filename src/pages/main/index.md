@@ -13,8 +13,8 @@ menus:
       - name: Mole Blanco med pocherad Romanesco (innehåller nötter)
         price: '170'
       - name: >-
-          Svenska kräftstjärtar, Mole Verdura, Hummer och Chokladreduktion &
-          pocherad Savoykol
+          Svenska kräftstjärtar, Mole Verdura (innehåller nötter), Hummer och
+          Chokladreduktion & pocherad Savoykol
         price: '220'
       - name: >-
           Aqua Chile - Färsk gulfenad tonfisk, Chili Cascabel, aktivt kol &
