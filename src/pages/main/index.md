@@ -37,7 +37,7 @@ menus:
         price: '360'
   - dishes:
       - name: >-
-          Sardeller, sadiner, Pulpo, Blåmusslor eller hjärtmusslor mm. i
+          Sardeller, sardiner, Pulpo, Blåmusslor eller hjärtmusslor mm. i
           konserver, serveras med vitlöksbröd och citron. Priser finner ni på
           bardisken.
   - dishes:
