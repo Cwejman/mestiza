@@ -24,6 +24,13 @@ menus:
         price: '190'
       - name: BönGnochi med Oxsvansragu & Chimichurri
         price: '170'
+  - dishes:
+      - name: Kallskuret & Ostar liten
+        price: '180'
+      - name: stor
+        price: '250'
+      - name: Jätte stor
+        price: '400'
 menusCatering:
   - dishes:
       - alternatives: []
