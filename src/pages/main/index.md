@@ -4,7 +4,7 @@ intro: Hej bbananannn
 menus:
   - dishes:
       - alternatives: []
-        name: Ash Tanur (Israeliskt sotat bröd) Med frön
+        name: Ash Tanur (Israeliskt sotat bröd) med frön
         price: '45'
 menusCatering:
   - dishes:
