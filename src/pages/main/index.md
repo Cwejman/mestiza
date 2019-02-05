@@ -40,6 +40,11 @@ menus:
           Sardeller, sadiner, Pulpo, Blåmusslor eller hjärtmusslor mm. i
           konserver, serveras med vitlöksbröd och citron. Priser finner ni på
           bardisken.
+  - dishes:
+      - name: 'Bär i Zabaione, toppad med mjuk maräng & fänkolssocker'
+        price: '117'
+      - name: 'Egen Cannoli fylld med ricotta & majskräm, pinjenötter'
+        price: '120'
 menusCatering:
   - dishes:
       - alternatives: []
