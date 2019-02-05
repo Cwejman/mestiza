@@ -2,16 +2,12 @@
 intro: Hej bbananannn
 menus:
   - dishes:
-      - 'alternatives,':
-          - name: Test123
-            price: '123'
+      - 'alternatives,': []
         name: Ash Tanur (Israeliskt sotat bröd)
         price: '45'
 menusCatering:
   - dishes:
-      - 'alternatives,':
-          - name: Test2
-            price: '123'
+      - 'alternatives,': []
         name: Catering meny kommer inom kort.
         price: '0'
 number: 031 55 06 62
