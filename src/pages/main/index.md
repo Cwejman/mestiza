@@ -5,9 +5,8 @@ intro: >-
   Robles har komponerat mellanrätter från alla världens hörn i en ända röra som
   hon tagit med sig från barndom och resor världen över och gjort till sin egna
   version.  Vi dricker grymma viner av alla dess slag, ölsorter av alla dess
-  slag och cider från Basqueland som Kiki Ingber valt ut. Kaos på bordet är
-  valet vi gör. Lämna mobilerna i fickorna. Äta, dricka, prata, äta dricka,
-  prata...
+  slag & cider från Basqueland som Kiki Ingber valt ut. Kaos på bordet är valet
+  vi gör. Lämna mobilerna i fickorna. Äta, dricka, prata, äta dricka, prata...
 menus:
   - dishes:
       - alternatives: []
