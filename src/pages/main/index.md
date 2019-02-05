@@ -35,6 +35,11 @@ menus:
         price: '190'
       - name: 'Jamon Iberico de Bellota, 5J, Hel tallrik'
         price: '360'
+  - dishes:
+      - name: >-
+          Sardeller, sadiner, Pulpo, Blåmusslor eller hjärtmusslor mm. i
+          konserver, serveras med vitlöksbröd och citron. Priser finner ni på
+          bardisken.
 menusCatering:
   - dishes:
       - alternatives: []
