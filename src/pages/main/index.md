@@ -20,6 +20,8 @@ menus:
           Aqua Chile - Färsk gulfenad tonfisk, Chili Cascabel, aktivt kol &
           gurka
         price: '180'
+      - name: 'Anka Al Pastor med favapuré toppad med örter '
+        price: '190'
 menusCatering:
   - dishes:
       - alternatives: []
