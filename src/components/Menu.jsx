@@ -12,7 +12,7 @@ const Menus = ({ catering, normal }) => {
   const [onCatering, toogleOnCatering] = H.useBool()
 
   return [
-    <Header key="header-menu" id="Menu" title="MENY" src="/img/plate2.jpg" />,
+    <Header key="header-menu" id="Menu" title="MENY" src="/img/plate3.jpg" />,
     <Sections key="sections">
       <CateringSwitch onClick={toogleOnCatering} value={onCatering} />
       {onCatering ? catering : normal}
