@@ -22,6 +22,8 @@ menus:
         price: '180'
       - name: 'Anka Al Pastor med favapuré toppad med örter '
         price: '190'
+      - name: BönGnochi med Oxsvansragu & Chimichurri
+        price: '170'
 menusCatering:
   - dishes:
       - alternatives: []
