@@ -31,6 +31,10 @@ menus:
         price: '250'
       - name: Jätte stor
         price: '400'
+      - name: 'Jamon Iberico de Bellota, 5J, Halv tallrik'
+        price: '190'
+      - name: 'Jamon Iberico de Bellota, 5J, Hel tallrik'
+        price: '360'
 menusCatering:
   - dishes:
       - alternatives: []
