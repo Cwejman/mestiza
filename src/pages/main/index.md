@@ -7,6 +7,7 @@ menus:
 menusCatering:
   - dishes:
       - name: Catering meny kommer inom kort.
+        price: '0'
 number: 031 55 06 62
 address: 'Skanstorget 10, 411 22'
 ---
