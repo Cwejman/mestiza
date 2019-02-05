@@ -49,7 +49,7 @@ menus:
           bardisken.
   - dishes:
       - name: 'Bär i Zabaione, toppad med mjuk maräng & fänkolssocker'
-        price: '117'
+        price: '120'
       - name: 'Egen Cannoli fylld med ricotta & majskräm, pinjenötter'
         price: '120'
 menusCatering:
