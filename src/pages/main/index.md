@@ -16,6 +16,10 @@ menus:
           Svenska kräftstjärtar, Mole Verdura, Hummer och Chokladreduktion &
           pocherad Savoykol
         price: '220'
+      - name: >-
+          Aqua Chile - Färsk gulfenad tonfisk, Chili Cascabel, aktivt kol &
+          gurka
+        price: '180'
 menusCatering:
   - dishes:
       - alternatives: []
