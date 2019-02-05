@@ -6,8 +6,10 @@ menus:
       - alternatives: []
         name: Ash Tanur (Israeliskt sotat bröd) med frön
         price: '45'
-      - name: 'Palo Santorökt auberginetartar, toppad med jordnötter'
+      - name: 'Palo Santorökt auberginetartar, toppad med rostade jordnötter'
         price: '140'
+      - name: Gulbeta med Burrata och rostade macadamiannötter
+        price: '150'
 menusCatering:
   - dishes:
       - alternatives: []
