@@ -8,10 +8,14 @@ menus:
         price: '45'
       - name: 'Palo Santorökt auberginetartar, toppad med rostade jordnötter'
         price: '140'
-      - name: Gulbeta med Burrata och rostade macadamiannötter
+      - name: Gulbeta med Burrata & rostade macadamiannötter
         price: '150'
-      - name: Mole Blanco med pocherad Romanesco
+      - name: Mole Blanco med pocherad Romanesco (innehåller nötter)
         price: '170'
+      - name: >-
+          Svenska kräftstjärtar, Mole Verdura, Hummer och Chokladreduktion &
+          pocherad Savoykol
+        price: '220'
 menusCatering:
   - dishes:
       - alternatives: []
