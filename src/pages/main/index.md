@@ -49,7 +49,7 @@ menus:
   - dishes:
       - name: 'Bär i Zabaione, toppad med mjuk maräng & fänkolssocker'
         price: '120'
-      - name: 'Egen Cannoli fylld med ricotta & majskräm, pinjenötter'
+      - name: 'Egen Cannoli fylld med ricotta & majskräm, pecannötter'
         price: '120'
 menusCatering:
   - dishes:
