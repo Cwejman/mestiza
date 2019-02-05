@@ -2,12 +2,12 @@
 intro: Hej bbananannn
 menus:
   - dishes:
-      - 'alternatives,': []
+      - 'alternatives': []
         name: Ash Tanur (Israeliskt sotat bröd)
         price: '45'
 menusCatering:
   - dishes:
-      - 'alternatives,': []
+      - 'alternatives': []
         name: Catering meny kommer inom kort.
         price: '0'
 number: 031 55 06 62
