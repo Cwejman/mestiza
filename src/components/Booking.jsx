@@ -90,7 +90,7 @@ const Booking = () => {
           <Input {...mail} name="mail" label="Mejl" type="email" />
           <Input {...phone} name="phone" label="Telefon-nr" type="tel" />
         </div>
-        <button type="submit">Skicka förfrågan</button>
+        <button type="submit">Skicka bokningsförfrågan</button>
       </form>
     </div>,
   ];
