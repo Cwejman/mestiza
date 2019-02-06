@@ -32,16 +32,18 @@ menus:
       - name: BönGnocchi med Oxsvansragu & Chimichurri
         price: '170'
   - dishes:
-      - name: Kallskuret & Ostar liten
+      - alternatives:
+          - name: Stor
+            price: '250'
+          - name: Jätte stor
+            price: '400'
+        name: 'Kallskuret & Ostar, Liten'
         price: '180'
-      - name: stor
-        price: '250'
-      - name: Jätte stor
-        price: '400'
-      - name: 'Jamon Iberico de Bellota, 5J, Halv tallrik'
+      - alternatives:
+          - name: Hel trallrik
+            price: '360'
+        name: 'Jamon Iberico de Bellota, 5J, Halv tallrik'
         price: '190'
-      - name: 'Jamon Iberico de Bellota, 5J, Hel tallrik'
-        price: '360'
   - dishes:
       - name: >-
           Sardeller, sardiner, Pulpo, Blåmusslor eller hjärtmusslor mm. i
