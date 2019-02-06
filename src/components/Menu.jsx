@@ -23,7 +23,7 @@ const Menus = ({ catering, normal }) => {
 const CateringSwitch = ({ value, onClick }) => (
   <div className="Menus-section-cateringSwitch">
     <div className="Menus-cateringSwitch" onClick={onClick}>
-      <div className={`Menus-cateringSwitch-el${value ? ' off' : ' on'}`}>Vanlig</div>
+      <div className={`Menus-cateringSwitch-el${value ? ' off' : ' on'}`}>Meny</div>
       <div className={`Menus-cateringSwitch-el${value ? ' on' : ' off'}`}>Catering</div>
     </div>
   </div>
