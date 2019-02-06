@@ -1,10 +1,19 @@
 const R = require('ramda');
 const $yaml = require('js-yaml');
 
+const replEmptyPrice = R.merge({ price: '123456' });
+
 const transfMenu = R.evolve({
-  dishes: R.map(R.evolve({
-    alternatives: R.when(R.isEmpty, () => [{ name: 'PLACEHOLDER', price: 0 }])
-  })),
+  dishes: R.map(R.pipe(
+    R.evolve({
+      alternatives: R.ifElse(
+        R.isEmpty,
+        () => [{ name: 'PLACEHOLDER', price: '123456' }],
+        R.map(replEmptyPrice),
+      ),
+    }),
+    replEmptyPrice,
+  )),
 });
 
 const transfRemark = R.evolve({
@@ -46,7 +55,7 @@ module.exports = {
         plugins: [],
         engines: {
           yaml,
-        }
+        },
       },
     },
     {
@@ -57,4 +66,4 @@ module.exports = {
     },
     'gatsby-plugin-netlify',
   ],
-}
+};

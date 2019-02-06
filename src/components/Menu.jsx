@@ -45,9 +45,11 @@ const Dish = ({ price, name, isAlternative }) => (
   <div className={`Menus-dish${isAlternative ? ' alt' : ''}`} key={name}>
     {!isAlternative && <p className="Menus-dish-bullet">*</p>}
     <p className={`Menus-dish-name${isAlternative ? ' alt' : ''}`}>{name}</p>
-    <p className="Menus-dish-price">
-      {`${price}$`}
-    </p>
+    {price !== '123456' && (
+      <p className="Menus-dish-price">
+        {`${price}$`}
+      </p>
+    )}
   </div>
 );
 
@@ -63,7 +65,7 @@ const ejectAlternatives = (xs, x) => R.concat(
   R.map(toAlternative, x.alternatives || []),
 );
 
-const alternativesPlaceholder = [{ name: 'PLACEHOLDER', price: 0 }]
+const alternativesPlaceholder = [{ name: 'PLACEHOLDER', price: '123456' }]
 
 const selectSectionChildren = R.compose(
   R.map(Dish),
