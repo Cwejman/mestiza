@@ -34,15 +34,15 @@ menus:
           Aqua Chile - Färsk gulfenad tonfisk, Chili Cascabel, aktivt kol &
           gurka
         price: '180'
+      - name: >-
+          Quesadillas toppad med Svenska räkor, queso Oaxaca, passion-,
+          basilika- & Jalapenosalsa
+        price: '170'
       - alternatives: []
         name: 'Anka Al Pastor med favapuré toppad med örter '
         price: '190'
       - alternatives: []
         name: BönGnocchi med Oxsvansragu & Chimichurri
-        price: '170'
-      - name: >-
-          Quesadillas toppad med Svenska räkor, queso Oaxaca, passion-,
-          basilika- & Jalapenosalsa
         price: '170'
   - dishes:
       - alternatives:
