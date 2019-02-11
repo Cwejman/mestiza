@@ -22,6 +22,8 @@ menus:
       - alternatives: []
         name: Mole Blanco med pocherad Romanesco (innehåller nötter)
         price: '170'
+      - name: Canariska anyapotatisar med Iberico de bellotamajo & mojo rojo
+        price: '120'
       - alternatives: []
         name: >-
           Svenska kräftstjärtar, Mole Verdura (innehåller nötter), Hummer och
@@ -38,8 +40,6 @@ menus:
       - alternatives: []
         name: BönGnocchi med Oxsvansragu & Chimichurri
         price: '170'
-      - name: Canariska anyapotatisar med Iberico de bellotamajo & mojo rojo
-        price: '120'
   - dishes:
       - alternatives:
           - name: Stor
