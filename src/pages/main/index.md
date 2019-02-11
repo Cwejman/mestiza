@@ -40,6 +40,10 @@ menus:
       - alternatives: []
         name: BönGnocchi med Oxsvansragu & Chimichurri
         price: '170'
+      - name: >-
+          Quesadillas toppad med Svenska räkor, queso Oaxaca, passion-,
+          basilika- & Jalapenosalsa
+        price: '170'
   - dishes:
       - alternatives:
           - name: Stor
