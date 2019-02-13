@@ -19,9 +19,6 @@ menus:
       - alternatives: []
         name: Gulbeta med Burrata & rostade macadamiannötter
         price: '150'
-      - alternatives: []
-        name: Mole Blanco med pocherad Romanesco (innehåller nötter)
-        price: '170'
       - name: Canariska anyapotatisar med Iberico de bellotamajo & mojo rojo
         price: '120'
       - alternatives: []
