@@ -41,6 +41,10 @@ menus:
       - alternatives: []
         name: BönGnocchi med Oxsvansragu & Chimichurri
         price: '170'
+      - name: >-
+          Svenska färska havskräftor serveras Cajunstyle, toppad med färska
+          örter. 
+        price: '260'
   - dishes:
       - alternatives:
           - name: Stor
