@@ -29,7 +29,7 @@ const App = (props) => {
         <title>Mestiza</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="description" content={description} />
-        <script async src="https:www.googletagmanager.com/gtag/js?id=UA-134942206-1" />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-134942206-1" />
         <script>{gtag}</script>
       </Helmet>
       {content}
