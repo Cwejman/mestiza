@@ -34,6 +34,8 @@ menus:
           Quesadillas toppad med Svenska räkor, queso Oaxaca, passion-,
           basilika- & Jalapenosalsa
         price: '170'
+      - name: Pizzette bianche med ricotta & sardeller från Kantabrien
+        price: '150'
       - alternatives: []
         name: 'Anka Al Pastor med favapuré toppad med örter '
         price: '190'
