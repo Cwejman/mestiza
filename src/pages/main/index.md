@@ -23,14 +23,13 @@ menus:
         price: '120'
       - alternatives: []
         name: >-
-          Svenska kräftstjärtar, Mole Verdura (innehåller nötter), Hummer och
-          Chokladreduktion & pocherad Savoykol
-        price: '220'
-      - alternatives: []
-        name: >-
           Aqua Chile - Färsk gulfenad tonfisk, Chili Cascabel, aktivt kol &
           gurka
         price: '180'
+      - name: >-
+          Svenska färska havskräftor serveras Cajunstyle, toppad med färska
+          örter. 
+        price: '260'
       - name: >-
           Quesadillas toppad med Svenska räkor, queso Oaxaca, passion-,
           basilika- & Jalapenosalsa
@@ -38,13 +37,13 @@ menus:
       - alternatives: []
         name: 'Anka Al Pastor med favapuré toppad med örter '
         price: '190'
+      - name: >-
+          Fläsklägg från spädgris, serveras med smörpocherad romanesco &
+          savoykål
+        price: '170'
       - alternatives: []
         name: BönGnocchi med Oxsvansragu & Chimichurri
         price: '170'
-      - name: >-
-          Svenska färska havskräftor serveras Cajunstyle, toppad med färska
-          örter. 
-        price: '260'
   - dishes:
       - alternatives:
           - name: Stor
