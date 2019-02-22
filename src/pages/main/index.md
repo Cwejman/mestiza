@@ -67,9 +67,7 @@ menus:
       - alternatives: []
         name: 'Bär i Zabaione, toppad med mjuk maräng & fänkolssocker'
         price: '120'
-      - alternatives: []
-        name: 'Egen Cannoli fylld med ricotta & majskräm, pecannötter'
-        price: '120'
+      - name: Kastanj & choklad smörtårta med calvados & pecannötter
 menusCatering:
   - dishes:
       - alternatives: []
