@@ -27,10 +27,6 @@ menus:
           gurka
         price: '180'
       - name: >-
-          Svenska färska havskräftor serveras Cajunstyle, toppad med färska
-          örter. 
-        price: '260'
-      - name: >-
           Quesadillas toppad med Svenska räkor, queso Oaxaca, passion-,
           basilika- & Jalapenosalsa
         price: '170'
@@ -42,9 +38,6 @@ menus:
       - name: >-
           Fläsklägg från spädgris, serveras med smörpocherad romanesco &
           savoykål
-        price: '170'
-      - alternatives: []
-        name: BönGnocchi med Oxsvansragu & Chimichurri
         price: '170'
   - dishes:
       - alternatives:
