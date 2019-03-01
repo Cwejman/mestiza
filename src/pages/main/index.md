@@ -38,7 +38,11 @@ menus:
       - name: >-
           Fläsklägg från spädgris, serveras med smörpocherad romanesco &
           savoykål
-        price: '170'
+        price: '180'
+      - name: >-
+          Cuban sandwish Mestiza style - långbakad karré, pancetta, rökt
+          cheddar, senap & cornichoner
+        price: '150'
   - dishes:
       - alternatives:
           - name: Stor
