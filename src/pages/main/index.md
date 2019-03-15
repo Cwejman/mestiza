@@ -68,7 +68,8 @@ menus:
       - alternatives: []
         name: 'Bär i Zabaione, toppad med mjuk maräng & fänkolssocker'
         price: '120'
-      - name: Kastanj & choklad smörtårta med calvados & pecannötter
+      - name: 'Smörtårta på choklad, valnötter, rosor, lavendel, pisttage & rom'
+        price: '120'
 menusCatering:
   - dishes:
       - alternatives: []
