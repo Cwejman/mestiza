@@ -41,6 +41,10 @@ menus:
           Cuban sandwish Mestiza style - långbakad karré, pancetta, rökt
           cheddar, senap & cornichoner
         price: '150'
+      - name: >-
+          Ångad torskrygg - Thai style i grön curry & bananblad toppad med en
+          papayasallad
+        price: '180'
   - dishes:
       - alternatives:
           - name: Stor
