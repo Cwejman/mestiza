@@ -17,7 +17,7 @@ menus:
         name: 'Palo Santorökt auberginetartar, toppad med rostade jordnötter'
         price: '140'
       - alternatives: []
-        name: Gulbeta med Burrata & rostade macadamiannötter
+        name: Marinerad Buffalo mozzarella med zucchiniblomma
         price: '150'
       - name: Canariska anyapotatisar med Iberico de bellotamajo & mojo rojo
         price: '120'
