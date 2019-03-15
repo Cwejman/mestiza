@@ -30,6 +30,10 @@ menus:
         price: '170'
       - name: Pizzette bianche med ricotta & sardeller från Kantabrien
         price: '150'
+      - name: >-
+          Ångad torskrygg - Thai style i grön curry & bananblad toppad med en
+          papayasallad
+        price: '180'
       - alternatives: []
         name: 'Carpaccio på kalvfilé, spicy majo, toppad med en örtsallad'
         price: '190'
@@ -41,10 +45,6 @@ menus:
           Cuban sandwish Mestiza style - långbakad karré, pancetta, rökt
           cheddar, senap & cornichoner
         price: '150'
-      - name: >-
-          Ångad torskrygg - Thai style i grön curry & bananblad toppad med en
-          papayasallad
-        price: '180'
   - dishes:
       - alternatives:
           - name: Stor
