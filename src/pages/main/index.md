@@ -66,7 +66,7 @@ menus:
           bardisken.
   - dishes:
       - alternatives: []
-        name: 'Bär i Zabaione, toppad med mjuk maräng & fänkolssocker'
+        name: 'Bär i Zabaione, toppad med mjuk maräng & fänkålssocker'
         price: '120'
       - name: 'Smörtårta på choklad, valnötter, rosor, lavendel, pisttage & rom'
         price: '120'
