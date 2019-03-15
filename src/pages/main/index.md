@@ -19,8 +19,6 @@ menus:
       - alternatives: []
         name: Marinerad Buffalo mozzarella med zucchiniblomma
         price: '150'
-      - name: Canariska anyapotatisar med Iberico de bellotamajo & mojo rojo
-        price: '120'
       - alternatives: []
         name: >-
           Aqua Chile - Färsk gulfenad tonfisk, Chili Cascabel, aktivt kol &
@@ -33,7 +31,7 @@ menus:
       - name: Pizzette bianche med ricotta & sardeller från Kantabrien
         price: '150'
       - alternatives: []
-        name: 'Anka Al Pastor med favapuré toppad med örter '
+        name: 'Carpaccio på kalvfilé, spicy majo, toppad med en örtsallad'
         price: '190'
       - name: >-
           Fläsklägg från spädgris, serveras med smörpocherad romanesco &
