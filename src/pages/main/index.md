@@ -25,7 +25,7 @@ menus:
           gurka
         price: '180'
       - name: >-
-          Quesadillas toppad med Svenska räkor, queso Oaxaca, passion-,
+          Quesadillas toppad med Svenska räkor, chorizo, queso Oaxaca, passion-,
           basilika- & Jalapenosalsa
         price: '170'
       - name: Pizzette bianche med ricotta & sardeller från Kantabrien
