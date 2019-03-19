@@ -70,8 +70,8 @@ menus:
 menusCatering:
   - dishes:
       - alternatives: []
-        name: Catering meny kommer inom kort.
-        price: '0'
+        name: Pintxos minst 50st pris per st. (beställ 48timmar innan)
+        price: ''
 number: 031 55 06 62
 address: 'Skanstorget 10, 411 22 Göteborg                                     '
 ---
