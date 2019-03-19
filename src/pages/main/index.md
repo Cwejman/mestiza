@@ -70,8 +70,31 @@ menus:
 menusCatering:
   - dishes:
       - alternatives: []
-        name: Pintxos minst 50st pris per st. (beställ 48timmar innan)
+        name: Pintxos minst 50st. (beställ 48timmar innan)
         price: ''
+      - alternatives: []
+        name: 'Anklevermousse, clever och bränt socker'
+        price: '30'
+      - name: Tortilla de patata
+        price: '30'
+      - name: Bonito (tonfisk) med boquerones
+        price: '30'
+      - name: Serrano & Manchego
+        price: '30'
+      - name: 'Tapenad, inlagd kronärtskocka & Boquerones'
+        price: '30'
+      - name: 'Röt makrill, färskost & löjrom'
+        price: '30'
+      - name: 'Valdeon, valnötter & marmelad'
+        price: '30'
+      - name: 'Ensaladilla Rusa, tonfisksallad med potatis & majonäs i inlagd paprika'
+        price: '30'
+      - name: Pulpo al la vinagreta (bläckfiskspett)
+        price: '30'
+      - name: Pulpo con mojo verde
+        price: '30'
+      - name: Champinjoner fylld med chimichurri
+        price: '30'
 number: 031 55 06 62
 address: 'Skanstorget 10, 411 22 Göteborg                                     '
 ---
