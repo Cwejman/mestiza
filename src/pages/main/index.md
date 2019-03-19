@@ -19,11 +19,6 @@ menus:
       - alternatives: []
         name: Marinerad Buffalo mozzarella med zucchiniblomma
         price: '150'
-      - alternatives: []
-        name: >-
-          Aqua Chile - Färsk gulfenad tonfisk, Chili Cascabel, aktivt kol &
-          gurka
-        price: '180'
       - name: >-
           Quesadillas toppad med Svenska räkor, chorizo, queso Oaxaca, passion-,
           basilika- & Jalapenosalsa
@@ -45,6 +40,8 @@ menus:
           Cuban sandwish Mestiza style - långbakad karré, pancetta, rökt
           cheddar, senap & cornichoner
         price: '150'
+      - name: Hel kronärtskocka med citron & vitlöksdressing samt rödbetsmajodipp
+        price: '120'
   - dishes:
       - alternatives:
           - name: Stor
