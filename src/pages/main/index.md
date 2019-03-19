@@ -39,7 +39,7 @@ menus:
           savoykål
         price: '180'
       - name: >-
-          Cuban sandwish Mestiza style - långbakad karré, pancetta, rökt
+          Cuban sandwich Mestiza style - långbakad karré, pancetta, rökt
           cheddar, senap & cornichoner
         price: '150'
   - dishes:
@@ -114,7 +114,7 @@ menusCatering:
           savoykål
         price: '170'
       - name: >-
-          Cuban sandwish Mestiza style - långbakad karré, pancetta, rökt
+          Cuban sandwich Mestiza style - långbakad karré, pancetta, rökt
           cheddar, senap & cornichoner
         price: '150'
       - name: Långkokt lammlägg i chili serveras med egengjorda majstortillas
