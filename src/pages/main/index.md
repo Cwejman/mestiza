@@ -123,6 +123,10 @@ menusCatering:
         price: '120'
       - name: Ash Tanur (Israeliskt sotat bröd) med frön
         price: '40'
+      - name: >-
+          Mestizas Räkcroquetas med passion & habanerosalsa, samt
+          basilikamajonäs
+        price: '170'
   - dishes:
       - name: Kallskuret & ostar per person
         price: '100'
