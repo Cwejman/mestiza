@@ -11,7 +11,7 @@ intro: >-
 menus:
   - dishes:
       - alternatives: []
-        name: Ash Tanur (Israeliskt sotat bröd) med frön
+        name: 'Ash Tanur (Israeliskt sotat bröd) med frön           '
         price: '45'
       - alternatives: []
         name: 'Palo Santorökt auberginetartar, toppad med rostade jordnötter'
@@ -19,6 +19,8 @@ menus:
       - alternatives: []
         name: Marinerad Buffalo mozzarella med zucchiniblomma
         price: '150'
+      - name: Hel kronärtskocka med citron & vitlöksdressing samt rödbetsmajodipp
+        price: '120'
       - name: >-
           Quesadillas toppad med Svenska räkor, chorizo, queso Oaxaca, passion-,
           basilika- & Jalapenosalsa
@@ -40,8 +42,6 @@ menus:
           Cuban sandwish Mestiza style - långbakad karré, pancetta, rökt
           cheddar, senap & cornichoner
         price: '150'
-      - name: Hel kronärtskocka med citron & vitlöksdressing samt rödbetsmajodipp
-        price: '120'
   - dishes:
       - alternatives:
           - name: Stor
