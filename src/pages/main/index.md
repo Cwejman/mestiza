@@ -123,6 +123,19 @@ menusCatering:
         price: '120'
       - name: Ash Tanur (Israeliskt sotat bröd) med frön
         price: '40'
+  - dishes:
+      - name: Kallskuret & ostar per person
+        price: '100'
+      - name: Sardeller i olivolja från Kantabrien lite konserv med vitlöksbröd
+        price: '100'
+      - name: Sardeller i olivolja från Kantabrien stor konserv med vitlöksbröd
+        price: '140'
+      - name: >-
+          Sardeller i extra virgin olivolja från Kantabrien stor konserv med
+          vitlöksbröd
+        price: '160'
+      - name: 'Iberico de Bellota, 100% svartfot, 5J (märket), handskuren, per person'
+        price: '190'
 number: 031 55 06 62
 address: 'Skanstorget 10, 411 22 Göteborg                                     '
 ---
