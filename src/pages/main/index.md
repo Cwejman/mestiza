@@ -73,7 +73,7 @@ menusCatering:
         name: Pintxos minst 50st. (beställ 48timmar innan)
         price: ''
       - alternatives: []
-        name: 'Anklevermousse, clever och bränt socker'
+        name: 'Anklevermousse, chevre och bränt socker'
         price: '30'
       - name: Tortilla de patata
         price: '30'
@@ -83,7 +83,7 @@ menusCatering:
         price: '30'
       - name: 'Tapenad, inlagd kronärtskocka & Boquerones'
         price: '30'
-      - name: 'Röt makrill, färskost & löjrom'
+      - name: 'Rökt makrill, färskost & löjrom'
         price: '30'
       - name: 'Valdeon, valnötter & marmelad'
         price: '30'
