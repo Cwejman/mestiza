@@ -107,6 +107,10 @@ menusCatering:
           Agua chile - gulfenad tonfisk tillagad i limejuice, chili cascabel och
           aktivtkol toppad med rödbetsmarinerad gurka
         price: '180'
+      - name: >-
+          Mestizas Räkcroquetas med passion & habanerosalsa, samt
+          basilikamajonäs
+        price: '170'
       - name: 'Carpaccio på kalvfilé, spicy majo, toppad med en örtsallad'
         price: '190'
       - name: >-
@@ -123,11 +127,9 @@ menusCatering:
         price: '120'
       - name: Ash Tanur (Israeliskt sotat bröd) med frön
         price: '40'
-      - name: >-
-          Mestizas Räkcroquetas med passion & habanerosalsa, samt
-          basilikamajonäs
-        price: '170'
   - dishes:
+      - name: 'Iberico de Bellota, 100% svartfot, 5J (märket), handskuren, per person'
+        price: '190'
       - name: Kallskuret & ostar per person
         price: '100'
       - name: Sardeller i olivolja från Kantabrien lite konserv med vitlöksbröd
@@ -138,8 +140,6 @@ menusCatering:
           Sardeller i extra virgin olivolja från Kantabrien stor konserv med
           vitlöksbröd
         price: '160'
-      - name: 'Iberico de Bellota, 100% svartfot, 5J (märket), handskuren, per person'
-        price: '190'
 number: 031 55 06 62
 address: 'Skanstorget 10, 411 22 Göteborg                                     '
 ---
