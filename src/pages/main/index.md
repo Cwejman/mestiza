@@ -96,7 +96,7 @@ menusCatering:
       - name: Champinjoner fylld med chimichurri
         price: '30'
   - dishes:
-      - name: Mellanrätter mins 10 st (beställ 48 timmar innan)
+      - name: Mellanrätter minst 10 st (beställ 48 timmar innan)
       - name: 'Palo Santorökt auberginetartar, toppad med rostade jordnötter'
         price: '140'
       - name: Marinerad Buffalo mozzarella med zucchiniblomma
