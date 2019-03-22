@@ -141,6 +141,8 @@ menusCatering:
           vitlöksbröd
         price: '160'
 number: 031 55 06 62
-address: 'Skanstorget 10, 411 22 Göteborg                                     '
+address: >-
+  Skanstorget 10, 411 22 Göteborg                                     öppet:
+  Tis-Tors 17:00-23:00 Fre-Lör 16:00-23:00                 info@mestizagbg.se
 ---
 
