@@ -21,16 +21,16 @@ menus:
         price: '150'
       - name: Hel kronärtskocka med citron & vitlöksdressing samt rödbetsmajodipp
         price: '120'
+      - name: 'Guacmole med Chili Tepin, Macadamiannötte & egna majstortillas'
+        price: '120'
+      - name: Vit sparris med lökhollandaise & pocherat ägg
+        price: '160'
+      - name: 'Lobsterroll med vitlök & Chili Guaillomajo '
+        price: '190'
       - name: >-
           Quesadillas toppad med Svenska räkor, chorizo, queso Oaxaca, passion-,
           basilika- & Jalapenosalsa
         price: '170'
-      - name: Pizzette bianche med ricotta & sardeller från Kantabrien
-        price: '150'
-      - name: >-
-          Ångad torskrygg - Thai style i grön curry & bananblad toppad med en
-          papayasallad
-        price: '180'
       - alternatives: []
         name: 'Carpaccio på kalvfilé, spicy majo, toppad med en örtsallad'
         price: '190'
