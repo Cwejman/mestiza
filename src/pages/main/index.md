@@ -62,7 +62,7 @@ menus:
       - alternatives: []
         name: 'Bär i Zabaione, toppad med mjuk maräng & fänkålssocker'
         price: '120'
-      - name: 'Smörtårta på choklad, valnötter, rosor, lavendel, pisttage & rom'
+      - name: 'Smörtårta på mörk choklad, valnötter &mörk rom'
         price: '120'
 menusCatering:
   - dishes:
