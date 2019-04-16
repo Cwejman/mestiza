@@ -14,9 +14,6 @@ menus:
         name: 'Ash Tanur (Israeliskt sotat bröd) med frön           '
         price: '45'
       - alternatives: []
-        name: 'Palo Santorökt auberginetartar, toppad med rostade jordnötter'
-        price: '140'
-      - alternatives: []
         name: Marinerad Buffalo mozzarella med zucchiniblomma
         price: '150'
       - name: Hel kronärtskocka med citron & vitlöksdressing samt rödbetsmajodipp
@@ -28,9 +25,9 @@ menus:
       - name: 'Lobsterroll med vitlök & Chili Guaillomajo '
         price: '190'
       - name: >-
-          Quesadillas toppad med Svenska räkor, chorizo, queso Oaxaca, passion-,
-          basilika- & Jalapenosalsa
-        price: '170'
+          Marulkscarpaccio med apelsin, oliver & ramslök, toppad med 
+          lavendeldressing
+        price: '180'
       - alternatives: []
         name: 'Carpaccio på kalvfilé, spicy majo, toppad med en örtsallad'
         price: '190'
