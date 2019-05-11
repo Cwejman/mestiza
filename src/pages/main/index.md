@@ -22,6 +22,11 @@ menus:
         price: '120'
       - name: Vit sparris med lökhollandaise & pocherat ägg
         price: '160'
+      - name: >-
+          Potato expotion! Nedhammrad bakpotatis fylld med purjolök, vitlök,
+          smör, kapris & riven Asiago. (kan även få det med Iberico de
+          bellotaströssel)
+        price: '130'
       - name: 'Lobsterroll med vitlök & Chili Guaillomajo '
         price: '190'
       - name: >-
@@ -31,10 +36,6 @@ menus:
       - alternatives: []
         name: 'Carpaccio på kalvfilé, spicy majo, toppad med en örtsallad'
         price: '190'
-      - name: >-
-          Fläsklägg från spädgris, serveras med smörpocherad romanesco &
-          savoykål
-        price: '180'
       - name: >-
           Cuban sandwich Mestiza style - långbakad karré, pancetta, rökt
           cheddar, senap & cornichoner
