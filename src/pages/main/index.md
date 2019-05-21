@@ -27,8 +27,8 @@ menus:
           smör, kapris & riven Asiago. (kan även få det med Iberico de
           bellotaströssel)
         price: '130'
-      - name: 'Lobsterroll med vitlök & Chili Guaillomajo '
-        price: '190'
+      - name: 'Lobster Tacos med Guaillomajo '
+        price: '180'
       - name: >-
           Marulkscarpaccio med apelsin, oliver & ramslök, toppad med 
           lavendeldressing
@@ -36,10 +36,8 @@ menus:
       - alternatives: []
         name: 'Carpaccio på kalvfilé, spicy majo, toppad med en örtsallad'
         price: '190'
-      - name: >-
-          Cuban sandwich Mestiza style - långbakad karré, pancetta, rökt
-          cheddar, senap & cornichoner
-        price: '150'
+      - name: Långbakade Kamben i mole Negro (innehåller nötter)
+        price: '160'
   - dishes:
       - alternatives:
           - name: Stor
