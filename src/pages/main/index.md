@@ -22,6 +22,8 @@ menus:
         price: '120'
       - name: Vit sparris med lökhollandaise & pocherat ägg
         price: '160'
+      - name: 'Kastanjfalafel i egengjord pita, jalapeno- & lökdreessing'
+        price: '150'
       - name: >-
           Potato expotion! Nedhammrad bakpotatis fylld med purjolök, vitlök,
           smör, kapris & riven Asiago. (kan även få det med Iberico de
@@ -33,6 +35,10 @@ menus:
           Marulkscarpaccio med apelsin, oliver & ramslök, toppad med 
           lavendeldressing
         price: '180'
+      - name: >-
+          Räk & kokoscroquetter med grön currymajo, passion- &
+          vattenmelonsdressing
+        price: '170'
       - alternatives: []
         name: 'Carpaccio på kalvfilé, spicy majo, toppad med en örtsallad'
         price: '190'
