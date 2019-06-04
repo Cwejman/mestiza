@@ -26,7 +26,7 @@ menus:
         price: '150'
       - name: >-
           Potato expotion! Nedhammrad bakpotatis fylld med purjolök, vitlök,
-          smör, kapris & riven Asiago. (kan även få det med Iberico de
+          smör, kapris & riven vedrökt Pecorino. (kan även få det med Iberico de
           bellotaströssel)
         price: '130'
       - name: 'Lobster Tacos med Guaillomajo '
