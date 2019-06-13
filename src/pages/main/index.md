@@ -28,9 +28,9 @@ menus:
           Potato expotion! Nedhammrad bakpotatis fylld med purjolök, vitlök,
           smör, kapris & riven vedrökt Pecorino. (kan även få det med Iberico de
           bellotaströssel)
-        price: '130'
+        price: '150'
       - name: 'Lobster Tacos med Guaillomajo '
-        price: '180'
+        price: '200'
       - name: >-
           Marulkscarpaccio med apelsin, oliver & ramslök, toppad med 
           lavendeldressing
