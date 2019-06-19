@@ -142,16 +142,12 @@ menusCatering:
           Sardeller i extra virgin olivolja från Kantabrien stor konserv med
           vitlöksbröd
         price: '160'
-info: >-
+info: |-
   Tis-Tors 17:00-23:00
-
   Fre-Lör 16:00-23:00
-
-
+    
   031 55 06 62
-
   info@mestizagbg.se
-
   Skanstorget 10, 411 22 Göteborg
 ---
 
