@@ -14,7 +14,7 @@ collections:
         name: "main"
         fields:
           - {label: Path, name: path, widget: hidden, default: '/'}
-          - {label: Intro, name: intro, widget: string}
+          - {label: Intro, name: intro, widget: text}
           - label: Menus
             name: menus
             widget: list
@@ -65,5 +65,4 @@ collections:
                       - label: Price
                         widget: number
                         name: price
-          - {label: Number, name: number, widget: string}
-          - {label: Address, name: address, widget: string}
+          - {label: Info, name: info, widget: text}

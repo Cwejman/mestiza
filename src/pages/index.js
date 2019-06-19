@@ -4,10 +4,10 @@ import { graphql } from 'gatsby';
 import { cold } from 'react-hot-loader';
 import * as R from 'ramda';
 
-import { Nav, Menu, Cover, Intro, Booking, Contact } from '../components';
+import { Nav, Menu, Cover, Intro, Booking, Info } from '../components';
 
 const matterPath = ['data', 'markdownRemark', 'frontmatter'];
-const sections = [Nav, Cover, Intro, Menu, Booking, Contact];
+const sections = [Nav, Cover, Intro, Menu, Booking, Info];
 
 const description = 'Här äter vi & delar på god mat i form av mellanrätter. '
   + 'Mestiza står för blandning. Mariuxi Ingber Robles har komponerat mellanrätter från...';
@@ -67,8 +67,7 @@ export const query = graphql`
             }
           }
         }
-        number
-        address
+        info
       }
     }
   }
