@@ -440,7 +440,7 @@ input::selection {
   cursor: pointer;
 }
 
-.Contact {
+.Info {
   @include pad();
   display: flex;
   align-items: center;
@@ -448,7 +448,7 @@ input::selection {
   flex-direction: column;
 }
 
-.Contact-line {
+.Info-line {
   font-size: 17px;
   line-height: 32px;
   max-width: $max-w;

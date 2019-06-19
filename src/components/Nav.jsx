@@ -16,7 +16,7 @@ setConfig({ pureSFC: true });
 const linkList = [
   { key: 'Menu', title: 'MENY' },
   { key: 'Booking', title: 'BOKA BORD' },
-  { key: 'Contact', title: 'KONTAKT' },
+  { key: 'Info', title: 'INFO' },
 ];
 
 // Components
