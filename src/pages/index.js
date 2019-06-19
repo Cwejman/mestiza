@@ -6,8 +6,17 @@ import * as R from 'ramda';
 
 import { Nav, Menu, Cover, Intro, Booking, Info } from '../components';
 
-const matterPath = ['data', 'markdownRemark', 'frontmatter'];
+// Template
+
 const sections = [Nav, Cover, Intro, Menu, Booking, Info];
+
+const toComponentByList = list => props => list.map(fn => fn(props));
+
+export const Template = toComponentByList(sections);
+
+// App
+
+const matterPath = ['data', 'markdownRemark', 'frontmatter'];
 
 const description = 'Här äter vi & delar på god mat i form av mellanrätter. '
   + 'Mestiza står för blandning. Mariuxi Ingber Robles har komponerat mellanrätter från...';
@@ -19,25 +28,19 @@ const gtag = `
   gtag('config', 'UA-134942206-1');
 `;
 
-const App = (props) => {
-  const matter = R.path(matterPath, props);
-  const content = R.map(fn => fn(matter), sections);
+const App = (props) => (
+  <>
+    <Helmet>
+      <title>Mestiza</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1" />
+      <meta name="description" content={description} />
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-134942206-1" />
+      <script>{gtag}</script>
+    </Helmet>
+    <Template {...R.path(matterPath, props)}/>
+  </>
+);
 
-  return (
-    <>
-      <Helmet>
-        <title>Mestiza</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="description" content={description} />
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-134942206-1" />
-        <script>{gtag}</script>
-      </Helmet>
-      {content}
-    </>
-  );
-};
-
-export const Template = () => <div>Preview can not be enabled at this time</div>;
 export default cold(App);
 
 // Gatsby AST GQL

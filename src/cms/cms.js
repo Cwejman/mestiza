@@ -1,17 +1,9 @@
-import CMS from 'netlify-cms';
+import CMS from 'netlify-cms-app';
 import React from 'react';
 import { Template } from '../pages';
 
-const MainPagePreview = ({ entry }) => {
-  const entryMenus = entry.getIn(['data', 'menus', 'dishes']);
-  const menus = entryMenus ? entryMenus.toJS() : [];
+CMS.init();
 
-  return (
-    <Template
-      intro={entry.getIn(['data', 'intro'])}
-      menus={menus}
-    />
-  );
-};
+const MainPagePreview = ({ entry }) => <Template {...entry.toJS().data} />;
 
 CMS.registerPreviewTemplate('main', MainPagePreview);
