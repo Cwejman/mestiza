@@ -28,6 +28,7 @@ collections:
                     widget: string
                   - label: Price
                     name: price
+                    required: false
                     widget: number
                   - label: Alternatives
                     name: alternatives
@@ -39,6 +40,7 @@ collections:
                         widget: string
                       - label: Price
                         widget: number
+                        required: false
                         name: price
           - label: Catering Menus
             name: menusCatering
@@ -53,6 +55,7 @@ collections:
                     widget: string
                   - label: Price
                     name: price
+                    required: false
                     widget: number
                   - label: Alternatives
                     name: alternatives
@@ -64,5 +67,6 @@ collections:
                         widget: string
                       - label: Price
                         widget: number
+                        required: false
                         name: price
           - {label: Info, name: info, widget: text}
