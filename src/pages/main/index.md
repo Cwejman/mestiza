@@ -61,8 +61,10 @@ menus:
       - alternatives: []
         name: 'Bär i Zabaione, toppad med mjuk maräng & fänkålssocker'
         price: '120'
-      - name: 'Smörtårta på mörk choklad, valnötter &mörk rom'
+      - name: 'Smörtårta på mörk choklad, pistagenötter, lavende & roml'
         price: '120'
+      - name: Cavainlagda päron/rabarber & romcoulis/valnötsparfait/kolakaksmulor
+        price: 135
 menusCatering:
   - dishes:
       - alternatives: []
