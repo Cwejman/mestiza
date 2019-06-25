@@ -6,4 +6,4 @@ CMS.init();
 
 const MainPagePreview = ({ entry }) => <Template {...entry.toJS().data} />;
 
-CMS.registerPreviewTemplate('main', MainPagePreview);
+CMS.registerPreviewTemplate('main', () => 'disabled');

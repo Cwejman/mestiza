@@ -12,7 +12,7 @@ const sections = [Nav, Cover, Intro, Menu, Booking, Info];
 
 const toComponentByList = list => props => list.map(fn => fn(props));
 
-export const Template = () => 'disabled'; //toComponentByList(sections);
+export const Template = toComponentByList(sections);
 
 // App
 
