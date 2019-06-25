@@ -7,7 +7,7 @@ intro: >-
   världen över och gjort till sin egen version.  Vi dricker grymma viner av alla
   dess slag, ölsorter av alla dess slag & cider från Basqueland som Kiki Ingber
   valt ut med omsorg. Kaos på bordet är valet vi gör. Lämna mobilerna i
-  fickorna. Äta, dricka, prata, äta dricka, prata....
+  fickorna. Äta, dricka, prata, äta dricka, prata...
 menus:
   - dishes:
       - alternatives: []
