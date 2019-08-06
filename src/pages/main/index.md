@@ -20,13 +20,6 @@ menus:
         price: '120'
       - name: 'Guacmole med Chili Tepin, Macadamiannötte & egna majstortillas'
         price: '120'
-      - name: 'Kastanjfalafel i egengjord pita, jalapeno- & lökdreessing'
-        price: '150'
-      - name: >-
-          Potato expotion! Nedhammrad bakpotatis fylld med purjolök, vitlök,
-          smör, kapris & riven vedrökt Pecorino. (kan även få det med Iberico de
-          bellotaströssel)
-        price: '150'
       - name: 'Lobster Tacos med Guaillomajo '
         price: '200'
       - name: >-
@@ -36,14 +29,12 @@ menus:
       - alternatives: []
         name: 'Carpaccio på kalvfilé, spicy majo, toppad med en örtsallad'
         price: '190'
-      - name: Långbakade Kamben i mole Negro (innehåller nötter)
-        price: '160'
   - dishes:
       - alternatives:
           - name: Stor
             price: '250'
-          - name: Jätte stor
-            price: '400'
+          - name: Gigantisk med delikatesser + extra allt
+            price: 750
         name: 'Kallskuret & Ostar, Liten'
         price: '180'
       - alternatives:
@@ -61,10 +52,6 @@ menus:
       - alternatives: []
         name: 'Bär i Zabaione, toppad med mjuk maräng & fänkålssocker'
         price: '120'
-      - name: 'Smörtårta på mörk choklad, pistagenötter, lavende & roml'
-        price: '120'
-      - name: Cavainlagda päron/rabarber & romcoulis/valnötsparfait/kolakaksmulor
-        price: 135
 menusCatering:
   - dishes:
       - alternatives: []
