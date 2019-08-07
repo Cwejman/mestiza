@@ -32,7 +32,7 @@ menus:
   - dishes:
       - alternatives:
           - name: Stor
-            price: '250'
+            price: 280
           - name: Gigantisk med delikatesser + extra allt
             price: 750
         name: 'Kallskuret & Ostar, Liten'
