@@ -32,9 +32,9 @@ menus:
   - dishes:
       - alternatives:
           - name: Stor
-            price: 280
+            price: '280'
           - name: Gigantisk med delikatesser + extra allt
-            price: 750
+            price: '750'
         name: 'Kallskuret & Ostar, Liten'
         price: '180'
       - alternatives:
@@ -56,7 +56,7 @@ menusCatering:
   - dishes:
       - alternatives: []
         name: Pintxos minst 50st. (beställ 48timmar innan)
-        price: ''
+        price:
       - alternatives: []
         name: 'Anklevermousse, chevre och bränt socker'
         price: '30'
