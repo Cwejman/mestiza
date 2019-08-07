@@ -29,7 +29,7 @@ collections:
                   - label: Price
                     name: price
                     required: false
-                    widget: number
+                    widget: string
                   - label: Alternatives
                     name: alternatives
                     default: []
@@ -39,7 +39,7 @@ collections:
                         name: name
                         widget: string
                       - label: Price
-                        widget: number
+                        widget: string
                         required: false
                         name: price
           - label: Catering Menus
@@ -56,7 +56,7 @@ collections:
                   - label: Price
                     name: price
                     required: false
-                    widget: number
+                    widget: string
                   - label: Alternatives
                     name: alternatives
                     default: []
@@ -66,7 +66,7 @@ collections:
                         name: name
                         widget: string
                       - label: Price
-                        widget: number
+                        widget: string
                         required: false
                         name: price
           - {label: Info, name: info, widget: text}

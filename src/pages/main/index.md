@@ -12,36 +12,36 @@ menus:
   - dishes:
       - alternatives: []
         name: 'Ash Tanur (Israeliskt sotat bröd) med frön           '
-        price: 45
+        price: '45'
       - alternatives: []
         name: Marinerad Buffalo mozzarella med zucchiniblomma
-        price: 150
+        price: '150'
       - name: Hel kronärtskocka med citron & vitlöksdressing samt rödbetsmajodipp
-        price: 120
+        price: '120'
       - name: 'Guacmole med Chili Tepin, Macadamiannötte & egna majstortillas'
-        price: 120
+        price: '120'
       - name: 'Lobster Tacos med Guaillomajo '
-        price: 200
+        price: '200'
       - name: >-
           Marulkscarpaccio med apelsin, oliver & ramslök, toppad med
           lavendeldressing
-        price: 180
+        price: '180'
       - alternatives: []
         name: 'Carpaccio på kalvfilé, spicy majo, toppad med en örtsallad'
-        price: 190
+        price: '190'
   - dishes:
       - alternatives:
           - name: Stor
-            price: 280
+            price: '280'
           - name: Gigantisk med delikatesser + extra allt
-            price: 750
+            price: '750'
         name: 'Kallskuret & Ostar, Liten'
-        price: 180
+        price: '180'
       - alternatives:
           - name: Hel trallrik
-            price: 360
+            price: '360'
         name: 'Jamon Iberico de Bellota, 5J, Halv tallrik'
-        price: 190
+        price: '190'
   - dishes:
       - alternatives: []
         name: >-
@@ -51,7 +51,7 @@ menus:
   - dishes:
       - alternatives: []
         name: 'Bär i Zabaione, toppad med mjuk maräng & fänkålssocker'
-        price: 120
+        price: '120'
 menusCatering:
   - dishes:
       - alternatives: []
@@ -59,72 +59,72 @@ menusCatering:
         price:
       - alternatives: []
         name: 'Anklevermousse, chevre och bränt socker'
-        price: 30
+        price: '30'
       - name: Tortilla de patata
-        price: 30
+        price: '30'
       - name: Bonito (tonfisk) med boquerones
-        price: 30
+        price: '30'
       - name: Serrano & Manchego
-        price: 30
+        price: '30'
       - name: 'Tapenad, inlagd kronärtskocka & Boquerones'
-        price: 30
+        price: '30'
       - name: 'Rökt makrill, färskost & löjrom'
-        price: 30
+        price: '30'
       - name: 'Valdeon, valnötter & marmelad'
-        price: 30
+        price: '30'
       - name: 'Ensaladilla Rusa, tonfisksallad med potatis & majonäs i inlagd paprika'
-        price: 30
+        price: '30'
       - name: Pulpo al la vinagreta (bläckfiskspett)
-        price: 30
+        price: '30'
       - name: Pulpo con mojo verde
-        price: 30
+        price: '30'
       - name: Champinjoner fylld med chimichurri
-        price: 30
+        price: '30'
   - dishes:
       - name: Mellanrätter minst 10 st (beställ 48 timmar innan)
       - name: 'Palo Santorökt auberginetartar, toppad med rostade jordnötter'
-        price: 140
+        price: '140'
       - name: Marinerad Buffalo mozzarella med zucchiniblomma
-        price: 150
+        price: '150'
       - name: Hel kronärtskocka med citron & vitlöksdressing samt rödbetsmajodipp
-        price: 120
+        price: '120'
       - name: >-
           Agua chile - gulfenad tonfisk tillagad i limejuice, chili cascabel och
           aktivtkol toppad med rödbetsmarinerad gurka
-        price: 180
+        price: '180'
       - name: >-
           Mestizas Räkcroquetas med passion & habanerosalsa, samt
           basilikamajonäs
-        price: 170
+        price: '170'
       - name: 'Carpaccio på kalvfilé, spicy majo, toppad med en örtsallad'
-        price: 190
+        price: '190'
       - name: >-
           Fläsklägg från spädgris, serveras med smörpocherad romanesco &
           savoykål
-        price: 170
+        price: '170'
       - name: >-
           Cuban sandwich Mestiza style - långbakad karré, pancetta, rökt
           cheddar, senap & cornichoner
-        price: 150
+        price: '150'
       - name: Långkokt lammlägg i chili serveras med egengjorda majstortillas
-        price: 200
+        price: '200'
       - name: Kanariska anyapotatisar med Iberico de Bellota Majonäs & Mojorojo
-        price: 120
+        price: '120'
       - name: Ash Tanur (Israeliskt sotat bröd) med frön
-        price: 40
+        price: '40'
   - dishes:
       - name: 'Iberico de Bellota, 100% svartfot, 5J (märket), handskuren, per person'
-        price: 190
+        price: '190'
       - name: Kallskuret & ostar per person
-        price: 100
+        price: '100'
       - name: Sardeller i olivolja från Kantabrien lite konserv med vitlöksbröd
-        price: 100
+        price: '100'
       - name: Sardeller i olivolja från Kantabrien stor konserv med vitlöksbröd
-        price: 140
+        price: '140'
       - name: >-
           Sardeller i extra virgin olivolja från Kantabrien stor konserv med
           vitlöksbröd
-        price: 160
+        price: '160'
 info: |-
   Tis-Tors 17:00-23:00
   Fre-Lör 16:00-23:00
