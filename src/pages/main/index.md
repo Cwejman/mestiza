@@ -29,6 +29,11 @@ menus:
       - alternatives: []
         name: 'Carpaccio på kalvfilé, spicy majo, toppad med en örtsallad'
         price: '190'
+      - alternatives: []
+        name: >-
+          Mestizas Causa - Peruansk potatiskaka fylld med aji amarillo marinerad
+          krabba, sjösparris, & koriander, toppad med ett pocherat ägg
+        price: '210'
   - dishes:
       - alternatives:
           - name: Stor
@@ -56,7 +61,6 @@ menusCatering:
   - dishes:
       - alternatives: []
         name: Pintxos minst 50st. (beställ 48timmar innan)
-        price:
       - alternatives: []
         name: 'Anklevermousse, chevre och bränt socker'
         price: '30'
