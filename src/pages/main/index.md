@@ -18,10 +18,18 @@ menus:
         price: '150'
       - name: Hel kronärtskocka med citron & vitlöksdressing samt rödbetsmajodipp
         price: '120'
+      - alternatives: []
+        name: >-
+          Nachoplate med kantareller, portobello, ostonskivling, queso oaxaca,
+          tomatillosalsa & creme fraiche
+        price: '170'
       - name: 'Guacmole med Chili Tepin, Macadamiannötte & egna majstortillas'
         price: '120'
-      - name: 'Lobster Tacos med Guaillomajo '
-        price: '200'
+      - alternatives: []
+        name: >-
+          Mestizas Causa - Peruansk potatiskaka fylld med aji amarillo marinerad
+          krabba, sjösparris, & koriander, toppad med ett pocherat ägg
+        price: '210'
       - name: >-
           Marulkscarpaccio med apelsin, oliver & ramslök, toppad med
           lavendeldressing
@@ -31,9 +39,9 @@ menus:
         price: '190'
       - alternatives: []
         name: >-
-          Mestizas Causa - Peruansk potatiskaka fylld med aji amarillo marinerad
-          krabba, sjösparris, & koriander, toppad med ett pocherat ägg
-        price: '210'
+          Ugnsbakad Cote de boeuf med salsa på persija, oregano, grön sparris &
+          chili Charapita
+        price: '320'
   - dishes:
       - alternatives:
           - name: Stor
