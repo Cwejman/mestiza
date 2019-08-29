@@ -14,7 +14,9 @@ menus:
         name: 'Ash Tanur (Israeliskt sotat bröd) med frön           '
         price: '45'
       - alternatives: []
-        name: Marinerad Buffalo mozzarella med zucchiniblomma
+        name: >-
+          Nanas Buffalo Mozzarellamed en sallad på tomater, aji limon, koriander
+          & basilika
         price: '150'
       - name: Hel kronärtskocka med citron & vitlöksdressing samt rödbetsmajodipp
         price: '120'
