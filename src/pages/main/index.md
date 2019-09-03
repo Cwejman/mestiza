@@ -15,6 +15,11 @@ menus:
         price: '45'
       - alternatives: []
         name: >-
+          Het apelsinmarinerad aubergin i tahini, paranötter, pumpakänor &
+          fikon-, calvadosreduktion
+        price: '160'
+      - alternatives: []
+        name: >-
           Nanas Buffalo Mozzarellamed en sallad på tomater, aji limon, koriander
           & basilika
         price: '150'
@@ -25,8 +30,6 @@ menus:
           Nachoplate med kantareller, portobello, ostonskivling, queso oaxaca,
           tomatillosalsa & creme fraiche
         price: '170'
-      - name: 'Guacmole med Chili Tepin, Macadamiannötte & egna majstortillas'
-        price: '120'
       - alternatives: []
         name: >-
           Mestizas Causa - Peruansk potatiskaka fylld med aji amarillo marinerad
