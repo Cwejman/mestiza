@@ -14,6 +14,9 @@ menus:
         name: 'Ash Tanur (Israeliskt sotat bröd) med frön           '
         price: '45'
       - alternatives: []
+        name: Hummus med svart tryffel
+        price: '150'
+      - alternatives: []
         name: >-
           Het apelsinmarinerad aubergin i tahini, paranötter, pumpakänor &
           fikon-, calvadosreduktion
