@@ -35,12 +35,15 @@ menus:
         price: '170'
       - alternatives: []
         name: >-
+          Sotade stora vildfångade argentinska räkor med aji panco, spiskummin &
+          senap-, vitlöksdressing
+        price: '120'
+      - alternatives: []
+        name: >-
           Mestizas Causa - Peruansk potatiskaka fylld med aji amarillo marinerad
           krabba, sjösparris, & koriander, toppad med ett pocherat ägg
         price: '210'
-      - name: >-
-          Marulkscarpaccio med apelsin, oliver & ramslök, toppad med
-          lavendeldressing
+      - name: 'Marulkscarpaccio med apelsin, oliver, toppad med lavendeldressing'
         price: '180'
       - alternatives: []
         name: 'Carpaccio på kalvfilé, spicy majo, toppad med en örtsallad'
