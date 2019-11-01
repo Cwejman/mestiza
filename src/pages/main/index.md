@@ -14,6 +14,9 @@ menus:
         name: 'Ash Tanur (Israeliskt sotat bröd) med frön           '
         price: '45'
       - alternatives: []
+        name: Majsgnocchis på en blomkål- & chile Arbolcremé/ rostade valmofrön
+        price: '150'
+      - alternatives: []
         name: >-
           Het apelsinmarinerad aubergin i tahini, paranötter, pumpakänor &
           fikon-, calvadosreduktion
@@ -45,6 +48,11 @@ menus:
           Twisted Tiradito - Hamach, Leche de tigre, sesamolja, Yuzu,
           fingerlime, shiuso, sanshopeppar
         price: '220'
+      - alternatives: []
+        name: >-
+          Pumpkinexposion/ myntadressing/ pekannötter/ sotad salladslök/
+          muskotnöt /krispig ankcarnitas
+        price: '170'
       - alternatives: []
         name: >-
           Ugnsbakad Cote de boeuf med salsa på persija, oregano, grön sparris &
