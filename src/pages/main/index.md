@@ -23,18 +23,6 @@ menus:
         price: '160'
       - alternatives: []
         name: >-
-          Nanas Buffalo Mozzarellamed en sallad på tomater, aji limon, koriander
-          & basilika
-        price: '150'
-      - name: Hel kronärtskocka med citron & vitlöksdressing samt rödbetsmajodipp
-        price: '120'
-      - alternatives: []
-        name: >-
-          Nachoplate med kantareller, portobello, ostonskivling, queso oaxaca,
-          tomatillosalsa & creme fraiche
-        price: '170'
-      - alternatives: []
-        name: >-
           Sotade stora vildfångade argentinska räkor med aji panco, spiskummin &
           senap-, vitlöksdressing
         price: '120'
