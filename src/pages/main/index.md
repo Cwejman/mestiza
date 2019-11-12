@@ -23,14 +23,14 @@ menus:
         price: '160'
       - alternatives: []
         name: >-
+          Västkustskräftor - Cajunstye med sydostasiatiska örter, okra & gott
+          doppbröd (ca 600 gram)
+        price: '370'
+      - alternatives: []
+        name: >-
           Sotade stora vildfångade argentinska räkor med aji panco, spiskummin &
           senap-, vitlöksdressing
         price: '120'
-      - alternatives: []
-        name: >-
-          Mestizas Causa - Peruansk potatiskaka fylld med aji amarillo marinerad
-          krabba, sjösparris, & koriander, toppad med ett pocherat ägg
-        price: '210'
       - alternatives: []
         name: >-
           Twisted Tiradito - Hamach, Leche de tigre, sesamolja, Yuzu,
