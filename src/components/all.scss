@@ -333,96 +333,11 @@ input::selection {
   flex-direction: column;
 }
 
-// .Booking-seperator {
-//   width: calc(100% - 64px);
-//   border-radius: 1px;
-//   margin: 32px 24px;
-//   background: $smoke;
-//   height: 2px;
-// }
-
-// .Booking-seperator:before, .Booking-seperator:after {
-//   content: "";
-//   position: absolute;
-//   background-image: linear-gradient(#000, transparent);
-//   top: -3px;
-//   bottom: -3px;
-//   width: 3px;
-// }
-
-// .ps-top-to-bottom:before {
-//   left: -3px;
-// }
-// .ps-top-to-bottom:after {
-//   right: -3px;
-// }
-
-.Booking-form {
-  max-width: $max-w;
-  width: 100%;
-}
-
-.Booking-row {
-  display: flex;
-  @media screen and (max-width: $small) {
-    flex-direction: column;
-  }
-}
-
-.Booking-group {
-  padding: 8px;
-  @media screen and (max-width: $small) {
-    width: 100%;
-  }
-}
-
-.Booking-group:last-child {
-  @media screen and (min-width: $small) {
-    width: #{368 * 0.39}px;
-  }
-}
-
-.Booking-group:first-child {
-  @media screen and (min-width: $small) {
-    width: #{368 * 0.61}px;
-  }
-}
-
-.Booking-label {
-  font-size: 20px;
-  margin: 10px 0;
-  margin-left: 10px;
-  color: $black;
-}
-
-.Booking input {
-  font-size: 16px;
-  height: 18px;
-  font-family: MTT;
-  margin: 0;
-  border: 0;
-  width: calc(100% - 32px);
-  border-radius: 3px;
-  padding: 16px;
-  display: inline-block;
-  vertical-align: middle;
-  white-space: normal;
-  background-color: $smoke;
-  appearance: none;
-}
-
-.Booking input:focus {
-  background-color: $smoke-dark;
-  outline: none;
-  border: 0;
-}
-
 .Booking button {
   font-size: 20px;
   font-family: MTT;
   line-height: 20px;
   border: 0;
-  width: calc(100% - 16px);
   border-radius: 3px;
   margin: 8px;
   margin-top: 32px;
