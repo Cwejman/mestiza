@@ -14,6 +14,9 @@ menus:
         name: 'Ash Tanur (Israeliskt sotat bröd) med frön           '
         price: '45'
       - alternatives: []
+        name: 'Buffalo Mozzarella på Ash Tanur (Israeliskt sotat bröd) '
+        price: '140'
+      - alternatives: []
         name: Majsgnocchis på en blomkål- & chile Arbolcremé/ rostade valmofrön
         price: '150'
       - alternatives: []
@@ -31,6 +34,11 @@ menus:
           Sotade stora vildfångade argentinska räkor med aji panco, spiskummin &
           senap-, vitlöksdressing
         price: '120'
+      - alternatives: []
+        name: >-
+          Pastaknyten fyllda med krabba & koriander i en skaldjursfond med mango
+          & cognac
+        price: '170'
       - alternatives: []
         name: >-
           Twisted Tiradito - Hamach, Leche de tigre, sesamolja, Yuzu,
