@@ -26,11 +26,6 @@ menus:
         price: '160'
       - alternatives: []
         name: >-
-          Västkustskräftor - Cajunstye med sydostasiatiska örter, okra & gott
-          doppbröd (ca 600 gram)
-        price: '370'
-      - alternatives: []
-        name: >-
           Sotade stora vildfångade argentinska räkor med aji panco, spiskummin &
           senap-, vitlöksdressing
         price: '120'
