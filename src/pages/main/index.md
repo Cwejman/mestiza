@@ -17,13 +17,18 @@ menus:
         name: 'Buffalo Mozzarella på Ash Tanur (Israeliskt sotat bröd) '
         price: '140'
       - alternatives: []
-        name: Majsgnocchis på en blomkål- & chile Arbolcremé/ rostade valmofrön
-        price: '150'
+        name: >-
+          Shiitake & ostronskivlingsallad med grön currysmör, chopsoy, quinoa,
+          toppad med hasselnötter
+        price: '165'
       - alternatives: []
         name: >-
           Het apelsinmarinerad aubergin i tahini, paranötter, pumpakänor &
           fikon-, calvadosreduktion
         price: '160'
+      - alternatives: []
+        name: 'Potatisbollar med koriander & chile Rocoto/ bönsalsa, avokado Tatemado'
+        price: '145'
       - alternatives: []
         name: >-
           Sotade stora vildfångade argentinska räkor med aji panco, spiskummin &
