@@ -23,8 +23,8 @@ menus:
         price: '165'
       - alternatives: []
         name: >-
-          Het apelsinmarinerad aubergin i tahini, paranötter, pumpakänor &
-          fikon-, calvadosreduktion
+          Tahini med mixade nötter & kakaobönor / vaniljmarinerade gulbetor /
+          söt nötströssel / serveras med Ash Tanur
         price: '160'
       - alternatives: []
         name: 'Potatisbollar med koriander & chile Rocoto/ bönsalsa, avokado Tatemado'
@@ -48,6 +48,11 @@ menus:
         name: >-
           Pumpkinexposion/ myntadressing/ pekannötter/ sotad salladslök/
           muskotnöt /krispig ankcarnitas
+        price: '170'
+      - alternatives: []
+        name: >-
+          Porchetta Tacos / chili Pasillatortillas / Avokadocreme med bränd
+          habanero /tomatillo / rostad lök
         price: '170'
       - alternatives: []
         name: >-
