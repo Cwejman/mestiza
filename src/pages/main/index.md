@@ -41,24 +41,9 @@ menus:
         price: '170'
       - alternatives: []
         name: >-
-          Twisted Tiradito - Hamach, Leche de tigre, sesamolja, Yuzu,
-          fingerlime, shiuso, sanshopeppar
-        price: '220'
-      - alternatives: []
-        name: >-
-          Pumpkinexposion/ myntadressing/ pekannötter/ sotad salladslök/
-          muskotnöt /krispig ankcarnitas
-        price: '170'
-      - alternatives: []
-        name: >-
           Porchetta Tacos / chili Pasillatortillas / Avokadocreme med bränd
           habanero /tomatillo / rostad lök
         price: '170'
-      - alternatives: []
-        name: >-
-          Ugnsbakad Cote de boeuf med salsa på persija, oregano, grön sparris &
-          chili Charapita
-        price: '320'
   - dishes:
       - alternatives:
           - name: Stor
