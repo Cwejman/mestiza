@@ -70,51 +70,7 @@ menus:
       - alternatives: []
         name: 'Bär i Zabaione, toppad med mjuk maräng & fänkålssocker'
         price: '120'
-menusCatering:
-  - dishes:
-      - alternatives: []
-        name: Pintxos minst 50st. (beställ 48timmar innan)
-      - alternatives: []
-        name: 'Anklevermousse, chevre och bränt socker'
-        price: '30'
-      - name: Tortilla de patata
-        price: '30'
-      - name: Bonito (tonfisk) med boquerones
-        price: '30'
-      - name: Serrano & Manchego
-        price: '30'
-      - name: 'Tapenad, inlagd kronärtskocka & Boquerones'
-        price: '30'
-      - name: 'Rökt makrill, färskost & löjrom'
-        price: '30'
-      - name: 'Valdeon, valnötter & marmelad'
-        price: '30'
-      - name: 'Ensaladilla Rusa, tonfisksallad med potatis & majonäs i inlagd paprika'
-        price: '30'
-      - name: Pulpo al la vinagreta (bläckfiskspett)
-        price: '30'
-      - name: Pulpo con mojo verde
-        price: '30'
-      - name: Champinjoner fylld med chimichurri
-        price: '30'
-  - dishes:
-      - alternatives: []
-        name: >-
-          För varma och kalla rätter från köket, ber vi er att kontakta oss då
-          vi konstant byter meny.
-  - dishes:
-      - name: 'Iberico de Bellota, 100% svartfot, 5J (märket), handskuren, per person'
-        price: '190'
-      - name: Kallskuret & ostar per person
-        price: '100'
-      - name: Sardeller i olivolja från Kantabrien lite konserv med vitlöksbröd
-        price: '100'
-      - name: Sardeller i olivolja från Kantabrien stor konserv med vitlöksbröd
-        price: '140'
-      - name: >-
-          Sardeller i extra virgin olivolja från Kantabrien stor konserv med
-          vitlöksbröd
-        price: '160'
+menusCatering: []
 info: |-
   Tis-Tors 17:00-23:00
   Fre-Lör 16:00-23:00
