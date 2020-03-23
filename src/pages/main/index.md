@@ -14,36 +14,39 @@ menus:
         name: 'Ash Tanur (Israeliskt sotat bröd) med frön           '
         price: '45'
       - alternatives: []
-        name: 'Buffalo Mozzarella på Ash Tanur (Israeliskt sotat bröd) '
+        name: Burrata/ svamptapenade/ krossade vitlökskrutonger
         price: '140'
       - alternatives: []
+        name: "Aubergine i Vindaloo på en Doubles (friterat bröd från Trinidad)/ yoghurt/ Korianderfrön\t"
+        price: '140'
+      - alternatives: []
+        name: Sotad sötpotatis/ citroncreméfraiche & arbecino olja
+        price: '125'
+      - alternatives: []
         name: >-
-          Shiitake & ostronskivlingsallad med grön currysmör, chopsoy, quinoa,
-          toppad med hasselnötter
+          Fried Couscous/ Argentinska räkor/ krabba/ örter/  Chili / Pocherat
+          ägg  
+        price: '170'
+      - alternatives: []
+        name: >-
+          Halstrad Tonfisk som marinerats i chipotle, fänkol & shisosoya, 
+          /majskräm/ svart rättiksallad
+        price: '185'
+      - alternatives: []
+        name: >-
+          Carpaccio på hälleflundra/ Hjortrondressing/ örter/  Rostade
+          hasselnötter
         price: '165'
       - alternatives: []
         name: >-
-          Tahini med mixade nötter & kakaobönor / vaniljmarinerade gulbetor /
-          söt nötströssel / serveras med Ash Tanur
+          Kalv Carpaccio/yuzu & morotsdressing/ torkad olivströssel/ hyvlad
+          Bonitoflakes/ örter
+        price: '170'
+      - alternatives: []
+        name: >-
+          Oxsvandolmar i Savojkål & körsbärsblad/  Vitbön och sidfläskragu/
+          Mestizas Kimchi 
         price: '160'
-      - alternatives: []
-        name: 'Potatisbollar med koriander & chile Rocoto/ bönsalsa, avokado Tatemado'
-        price: '145'
-      - alternatives: []
-        name: >-
-          Sotade stora vildfångade argentinska räkor med aji panco, spiskummin &
-          senap-, vitlöksdressing
-        price: '120'
-      - alternatives: []
-        name: >-
-          Pastaknyten fyllda med krabba & koriander i en skaldjursfond med mango
-          & cognac
-        price: '170'
-      - alternatives: []
-        name: >-
-          Porchetta Tacos / chili Pasillatortillas / Avokadocreme med bränd
-          habanero /tomatillo / rostad lök
-        price: '170'
   - dishes:
       - alternatives:
           - name: Stor
