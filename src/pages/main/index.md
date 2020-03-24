@@ -70,7 +70,10 @@ menus:
       - alternatives: []
         name: 'Bär i Zabaione, toppad med mjuk maräng & fänkålssocker'
         price: '120'
-menusCatering: []
+menusCatering:
+  - dishes:
+      - alternatives: []
+        name: För ett tag fram över erbjuder vi ingen catering
 info: |-
   Tis-Tors 17:00-23:00
   Fre-Lör 16:00-23:00
