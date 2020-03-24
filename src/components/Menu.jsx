@@ -45,7 +45,7 @@ const Dish = ({ price, name, isAlternative }) => (
   <div className={`Menus-dish${isAlternative ? ' alt' : ''}`} key={name}>
     {!isAlternative && <p className="Menus-dish-bullet">*</p>}
     <p className={`Menus-dish-name${isAlternative ? ' alt' : ''}`}>{name}</p>
-    {price !== '123456' && (
+    {price !== '123456' && price && (
       <p className="Menus-dish-price">
         {`${price}$`}
       </p>
