@@ -11,6 +11,9 @@ intro: >-
 menus:
   - dishes:
       - alternatives: []
+        name: 20% rabbatt på take away för samtliga rätter
+  - dishes:
+      - alternatives: []
         name: 'Ash Tanur (Israeliskt sotat bröd) med frön           '
         price: '45'
       - alternatives: []
