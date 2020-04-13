@@ -23,18 +23,10 @@ menus:
         name: "Aubergine i Vindaloo på en Doubles (friterat bröd från Trinidad)/ yoghurt/ Korianderfrön\t"
         price: '140'
       - alternatives: []
-        name: Sotad sötpotatis/ citroncreméfraiche & arbecino olja
-        price: '125'
-      - alternatives: []
         name: >-
           Fried Couscous/ Argentinska räkor/ krabba/ örter/  Chili / Pocherat
           ägg  
         price: '170'
-      - alternatives: []
-        name: >-
-          Halstrad Tonfisk som marinerats i chipotle, fänkol & shisosoya, 
-          /majskräm/ svart rättiksallad
-        price: '185'
       - alternatives: []
         name: >-
           Carpaccio på hälleflundra/ Hjortrondressing/ örter/  Rostade
