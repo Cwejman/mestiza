@@ -17,10 +17,8 @@ menus:
         name: 'Ash Tanur (Israeliskt sotat bröd) med frön           '
         price: '45'
       - alternatives: []
-        name: >-
-          Pocherad Rabarber, rättiks & rödbetssallad med brynt smör och rostade
-          nötter
-        price: '140'
+        name: Burrata på svamptapenad med vitlökskrutonger
+        price: '145'
       - alternatives: []
         name: "Aubergine i Vindaloo på en Doubles (friterat bröd från Trinidad)/ yoghurt/ Korianderfrön\t"
         price: '140'
@@ -39,6 +37,11 @@ menus:
           Kalv Carpaccio/yuzu & morotsdressing/ torkad olivströssel/ hyvlad
           Bonitoflakes/ örter
         price: '170'
+      - alternatives: []
+        name: >-
+          Cuban Sandwich/ Långbakad fläsk/ Skinka/ Dijonsenap/ pickles/
+          Fribourgeois
+        price: '155     '
       - alternatives: []
         name: >-
           Oxsvandolmar i Savojkål & körsbärsblad/  Vitbön och sidfläskragu/
