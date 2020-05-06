@@ -20,8 +20,10 @@ menus:
         name: Burrata på svamptapenad med vitlökskrutonger
         price: '145'
       - alternatives: []
-        name: "Aubergine i Vindaloo på en Doubles (friterat bröd från Trinidad)/ yoghurt/ Korianderfrön\t"
-        price: '140'
+        name: >-
+          Vit sparris/ brynt sardellsmör eller (vegg brynt smör/ rostade nötter/
+          apelsin
+        price: '160'
       - alternatives: []
         name: >-
           Fried Couscous/ Argentinska räkor/ krabba/ örter/  Chili / Pocherat
@@ -39,14 +41,14 @@ menus:
         price: '170'
       - alternatives: []
         name: >-
+          Krispiga Flauta (Egna Majstortillas)/ Svensk gårdskyckling/ Het
+          avokadosalsa/ Queso Añejo
+        price: '150'
+      - alternatives: []
+        name: >-
           Cuban Sandwich/ Långbakad fläsk/ Skinka/ Dijonsenap/ pickles/
           Fribourgeois
         price: '155     '
-      - alternatives: []
-        name: >-
-          Oxsvandolmar i Savojkål & körsbärsblad/  Vitbön och sidfläskragu/
-          Mestizas Kimchi 
-        price: '160'
   - dishes:
       - alternatives:
           - name: Stor
