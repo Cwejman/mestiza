@@ -17,6 +17,9 @@ menus:
         name: 'Ash Tanur (Israeliskt sotat bröd) med frön           '
         price: '45'
       - alternatives: []
+        name: 'Hel kronärtskocka/ citron-, lavendel- & citrondressing/ blåbärsmajo'
+        price: '140'
+      - alternatives: []
         name: Burrata på svamptapenad med vitlökskrutonger
         price: '145'
       - alternatives: []
