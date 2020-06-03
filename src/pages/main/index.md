@@ -29,14 +29,17 @@ menus:
         price: '160'
       - alternatives: []
         name: >-
-          Fried Couscous/ Argentinska räkor/ krabba/ örter/  Chili / Pocherat
-          ägg  
-        price: '170'
+          Räk & kokoscroquettas / spicy majo / vattenmelon &
+          passionfruktsdressing
+        price: '185'
       - alternatives: []
         name: >-
           Carpaccio på hälleflundra/ Hjortrondressing/ örter/  Rostade
           hasselnötter
         price: '165'
+      - alternatives: []
+        name: Tacos med chilimarinerad hummer / riven grön papaya / chorizoströssel
+        price: '240'
       - alternatives: []
         name: >-
           Kalv Carpaccio/yuzu & morotsdressing/ torkad olivströssel/ hyvlad
