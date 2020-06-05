@@ -18,15 +18,15 @@ menus:
         price: '45'
       - alternatives: []
         name: 'Hel kronärtskocka/ citron-, lavendel- & citrondressing/ blåbärsmajo'
-        price: '140'
+        price: '150'
       - alternatives: []
         name: Burrata på svamptapenad med vitlökskrutonger
-        price: '145'
+        price: '155'
       - alternatives: []
         name: >-
           Vit sparris/ brynt sardellsmör eller (vegg brynt smör/ rostade nötter/
           apelsin
-        price: '160'
+        price: '195'
       - alternatives: []
         name: >-
           Räk & kokoscroquettas / spicy majo / vattenmelon &
@@ -39,17 +39,17 @@ menus:
         name: >-
           Kalv Carpaccio/yuzu & morotsdressing/ torkad olivströssel/ hyvlad
           Bonitoflakes/ örter
-        price: '170'
+        price: '175'
       - alternatives: []
         name: >-
           Krispiga Flauta (Egna Majstortillas)/ Svensk gårdskyckling/ Het
           avokadosalsa/ Queso Añejo
-        price: '150'
+        price: '165'
       - alternatives: []
         name: >-
           Cuban Sandwich/ Långbakad fläsk/ Skinka/ Dijonsenap/ pickles/
           Fribourgeois
-        price: '155     '
+        price: '165'
   - dishes:
       - alternatives:
           - name: Stor
