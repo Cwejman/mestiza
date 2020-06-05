@@ -33,11 +33,6 @@ menus:
           passionfruktsdressing
         price: '185'
       - alternatives: []
-        name: >-
-          Carpaccio på hälleflundra/ Hjortrondressing/ örter/  Rostade
-          hasselnötter
-        price: '165'
-      - alternatives: []
         name: Tacos med chilimarinerad hummer / riven grön papaya / chorizoströssel
         price: '240'
       - alternatives: []
