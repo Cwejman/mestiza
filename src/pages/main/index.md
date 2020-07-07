@@ -20,8 +20,11 @@ menus:
         name: 'Hel kronärtskocka/ citron-, lavendel- & citrondressing/ blåbärsmajo'
         price: '150'
       - alternatives: []
-        name: Burrata på svamptapenad med vitlökskrutonger
-        price: '155'
+        name: Anolotti fylld med ricotta & reducerad morot/ Burrata/ skirat smör
+        price: '185'
+      - alternatives: []
+        name: Machaomelett fylld & toppad med gula kantareller
+        price: '180:-   '
       - alternatives: []
         name: >-
           Vit sparris/ brynt sardellsmör eller (vegg brynt smör/ rostade nötter/
