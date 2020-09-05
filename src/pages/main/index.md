@@ -20,8 +20,8 @@ menus:
         price: "150"
       - alternatives: []
         name: "Mestizas polska piroger(pastaknyten) fyllda med potatis/ skirat smör/
-          köksbärssmetana "
-        price: "145"
+          körsbärssmetana "
+        price: "165"
       - alternatives: []
         name: Machaomelett fylld & toppad med gula kantareller
         price: "180:-   "
