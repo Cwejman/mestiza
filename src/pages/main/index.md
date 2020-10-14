@@ -19,9 +19,11 @@ menus:
         name: Hel kronärtskocka/ citron-, lavendel- & citrondressing/ blåbärsmajo
         price: "150"
       - alternatives: []
-        name: "Mestizas polska piroger(pastaknyten) fyllda med potatis/ skirat smör/
-          körsbärssmetana "
-        price: "165"
+        name: Bakad Blomkål, penslad med spicy citrusmisodressing
+        price: "160"
+      - alternatives: []
+        name: Chili & honungsmarinerad Aubergine/ fikontahini/ valnötter
+        price: "170"
       - alternatives: []
         name: Machaomelett fylld & toppad med gula kantareller
         price: "180:-   "
@@ -33,28 +35,26 @@ menus:
         name: Räk & kokoscroquettas / spicy majo / vattenmelon & passionfruktsdressing
         price: "185"
       - alternatives: []
-        name: Tacos med chilimarinerad hummer / riven grön papaya / chorizoströssel
-        price: "240"
-      - alternatives: []
-        name: Kalv Carpaccio/yuzu & morotsdressing/ torkad olivströssel/ hyvlad
-          Bonitoflakes/ örter
-        price: "175"
+        name: Arepas fylld med långbakad kammben/ pumpa & jalañodressing
+        price: "160"
       - alternatives: []
         name: Anka Al Pator, Pastel de Choclo (majskaka)/ friterad ananas
         price: "195"
   - dishes:
       - alternatives:
-          - name: Stor
-            price: "280"
-          - name: Gigantisk med delikatesser + extra allt
-            price: "750"
-        name: Kallskuret & Ostar, Liten
-        price: "180"
-      - alternatives:
           - name: Hel trallrik
             price: "360"
-        name: Jamon Iberico de Bellota, 5J, Halv tallrik
+        name: Jamon Iberico de Bellota, 42 månader, Halv tallrik
         price: "190"
+      - alternatives: []
+        name: Jamon Iberico de Bellota, 42 månader, Hel tallrik
+        price: "360"
+      - alternatives: []
+        name: Ostar liten tallrik
+        price: "120"
+      - alternatives: []
+        name: Ostar stor tallrik
+        price: "200"
   - dishes:
       - alternatives: []
         name: Sardeller, sardiner, Pulpo, Blåmusslor eller hjärtmusslor mm. i konserver,
