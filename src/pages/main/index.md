@@ -8,37 +8,39 @@ intro: Här äter vi & delar på god mat i form av mellanrätter. Mestiza står 
   valt ut med omsorg. Kaos på bordet är valet vi gör. Lämna mobilerna i
   fickorna. Äta, dricka, prata, äta dricka, prata...
 menus:
-  - dishes:
-      - alternatives: []
-        name: 20% rabbatt på take away för samtliga rätter
+  - dishes: []
   - dishes:
       - alternatives: []
         name: "Ash Tanur (Israeliskt sotat bröd) med frön           "
         price: "45"
       - alternatives: []
-        name: Hel kronärtskocka/ citron-, lavendel- & citrondressing/ blåbärsmajo
+        name: Hel kronärtskocka, citron-, lavendel- & citrondressing, blåbärsmajo
         price: "150"
       - alternatives: []
-        name: Bakad Blomkål, penslad med spicy citrusmisodressing
-        price: "160"
+        name: Hummus på gråbönor från GBG, gröna ärtor, ash tanur
+        price: "135"
       - alternatives: []
-        name: Chili & honungsmarinerad Aubergine/ fikontahini/ valnötter
+        name: Chili & honungsmarinerad Aubergine, fikontahini, valnötter
         price: "170"
       - alternatives: []
-        name: Machaomelett fylld & toppad med gula kantareller
-        price: "180:-   "
+        name: Polenta, hasselnötter, shiitake, charlottenlök, fermenterad bönbulong
+        price: "165"
       - alternatives: []
-        name: Rå tonfisk, penslad med svart tahini/ kryddig rabarberdressing/ pikant
-          rädissalsa
-        price: "210"
+        name: Smörtsekt Challahbröd, pocherat ägg, svart tryffel från Alba
+        price: "185"
       - alternatives: []
         name: Räk & kokoscroquettas / spicy majo / vattenmelon & passionfruktsdressing
         price: "185"
       - alternatives: []
-        name: Arepas fylld med långbakad kammben/ pumpa & jalañodressing
-        price: "160"
+        name: "Rå torskrygg, picklad tomatillo & jicamarot, sötsur savojkål, chili
+          chipothe, brynt smör "
+        price: "190"
       - alternatives: []
-        name: Anka Al Pator, Pastel de Choclo (majskaka)/ friterad ananas
+        name: Pljukanci (Istrisk pasta), pikant tomatsås, argentinska räkor,
+          hjärtmusslor
+        price: "210"
+      - alternatives: []
+        name: Anka Al Pator, Pastel de Choclo (majskaka), friterad ananas
         price: "195"
   - dishes:
       - alternatives:
