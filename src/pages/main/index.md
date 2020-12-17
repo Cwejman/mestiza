@@ -29,19 +29,19 @@ menus:
         name: Smörtsekt Challahbröd, pocherat ägg, svart tryffel från Alba
         price: "185"
       - alternatives: []
-        name: Räk & kokoscroquettas / spicy majo / vattenmelon & passionfruktsdressing
-        price: "185"
-      - alternatives: []
         name: "Rå torskrygg, picklad tomatillo & jicamarot, sötsur savojkål, chili
           chipothe, brynt smör "
         price: "190"
       - alternatives: []
-        name: Pljukanci (Istrisk pasta), pikant tomatsås, argentinska räkor,
-          hjärtmusslor
+        name: Vilda Argentinska Räkor, pikant tomatsås, argentinska räkor, hjärtmusslor
         price: "210"
       - alternatives: []
         name: Anka Al Pator, Pastel de Choclo (majskaka), friterad ananas
         price: "195"
+      - alternatives: []
+        name: Cordero De Mixiote/ långkokt lammlägg, chili,kanel, nejlika, kummin/
+          körsbär & majstortillas/ pico degallo med rädisa & apelsin
+        price: "285"
   - dishes:
       - alternatives:
           - name: Hel trallrik
