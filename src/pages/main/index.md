@@ -17,14 +17,11 @@ menus:
         name: Hel kronärtskocka, citron-, lavendel- & citrondressing, blåbärsmajo
         price: "150"
       - alternatives: []
-        name: Hummus på gråbönor från GBG, gröna ärtor, ash tanur
-        price: "135"
+        name: Agnolotti fyllda med majs & lök( skirat smör / salvia
+        price: "165"
       - alternatives: []
         name: Chili & honungsmarinerad Aubergine, fikontahini, valnötter
         price: "170"
-      - alternatives: []
-        name: Polenta, hasselnötter, shiitake, charlottenlök, fermenterad bönbulong
-        price: "165"
       - alternatives: []
         name: Smörtsekt Challahbröd, pocherat ägg, svart tryffel från Alba
         price: "185"
@@ -65,6 +62,7 @@ menus:
       - alternatives: []
         name: Bär i Zabaione, toppad med mjuk maräng & fänkålssocker
         price: "120"
+  - {}
 menusCatering:
   - dishes:
       - alternatives: []
