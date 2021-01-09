@@ -69,7 +69,8 @@ menusCatering:
         name: För ett tag fram över erbjuder vi ingen catering
 info: |-
   Ons-Tors 17:00-23:00
-  Fre-Lör 16:00-23:00
+  Fre-Lör 16:00-23:00 
+  Lör & Söndag Brunch 11:30-15:00
 
   031 55 06 62
   info@mestizagbg.se
