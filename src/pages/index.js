@@ -9,10 +9,18 @@ import { Nav, Menu, Cover, Intro, Booking, Info } from '../components';
 // Template
 
 const sections = [Nav, Cover, Intro, Menu, Booking, Info];
+const SectionsComponent = props => sections.map(fn => fn(props));
 
-const toComponentByList = list => props => list.map(fn => fn(props));
+// True for empty menu (CMS admin crashes on creation of menu) and
+// True for empty dishes (all dishes removed, don't want to render double seperators in component)
+const forbiddenMenu = list => R.isEmpty(list) || R.isEmpty(list.dishes);
 
-export const Template = toComponentByList(sections);
+const evolveProps = R.evolve({
+  menus: R.reject(forbiddenMenu),
+  menusCatering: R.reject(forbiddenMenu),
+});
+
+export const Template = R.pipe(evolveProps, SectionsComponent);
 
 // App
 
