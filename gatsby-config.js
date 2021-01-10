@@ -16,13 +16,15 @@ const transfMenu = R.evolve({
   )),
 });
 
-const transfRemark = R.evolve({
-  menus: R.map(transfMenu),
-  menusCatering: R.map(transfMenu),
+// Empty object are created in CMS Admin, reject them because they crash the build process
+
+const transMenuList = R.evolve({
+  menus: R.pipe(R.reject(R.isEmpty), R.map(transfMenu)),
+  menusCatering: R.pipe(R.reject(R.isEmpty), R.map(transfMenu)),
 });
 
 const yaml = {
-  parse: R.pipe($yaml.safeLoad.bind($yaml), transfRemark),
+  parse: R.pipe($yaml.safeLoad.bind($yaml), transMenuList),
   stringify: $yaml.safeDump.bind($yaml),
 };
 
