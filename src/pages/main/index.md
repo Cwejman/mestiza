@@ -62,7 +62,6 @@ menus:
       - alternatives: []
         name: Bär i Zabaione, toppad med mjuk maräng & fänkålssocker
         price: "120"
-  - {}
 menusCatering:
   - dishes:
       - alternatives: []
