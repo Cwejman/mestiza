@@ -8,7 +8,6 @@ intro: Här äter vi & delar på god mat i form av mellanrätter. Mestiza står 
   valt ut med omsorg. Kaos på bordet är valet vi gör. Lämna mobilerna i
   fickorna. Äta, dricka, prata, äta dricka, prata...
 menus:
-  - dishes: []
   - dishes:
       - alternatives: []
         name: "Ash Tanur (Israeliskt sotat bröd) med frön           "
@@ -62,7 +61,6 @@ menus:
       - alternatives: []
         name: Bär i Zabaione, toppad med mjuk maräng & fänkålssocker
         price: "120"
-  - {}
 menusCatering:
   - dishes:
       - alternatives: []
