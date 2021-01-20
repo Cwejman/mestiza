@@ -16,8 +16,8 @@ menus:
         name: Hel kronärtskocka, citron-, lavendel- & citrondressing, blåbärsmajo
         price: "150"
       - alternatives: []
-        name: Agnolotti fyllda med majs & lök( skirat smör / salvia
-        price: "165"
+        name: Nacho/ svamp/ Tomatillo/ Jalapeño/ smält ost/ smetana
+        price: "160"
       - alternatives: []
         name: Chili & honungsmarinerad Aubergine, fikontahini, valnötter
         price: "170"
@@ -38,6 +38,9 @@ menus:
         name: Cordero De Mixiote/ långkokt lammlägg, chili,kanel, nejlika, kummin/
           körsbär & majstortillas/ pico degallo med rädisa & apelsin
         price: "285"
+      - alternatives: []
+        name: Tonfisktartar/ frön/ spicy majo/ örter/ kalixlöjrom
+        price: "230"
   - dishes:
       - alternatives:
           - name: Hel trallrik
