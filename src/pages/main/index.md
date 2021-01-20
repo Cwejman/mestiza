@@ -32,15 +32,15 @@ menus:
         name: Vilda Argentinska Räkor, pikant tomatsås, argentinska räkor, hjärtmusslor
         price: "210"
       - alternatives: []
+        name: Tonfisktartar/ frön/ spicy majo/ örter/ kalixlöjrom
+        price: "230"
+      - alternatives: []
         name: Anka Al Pator, Pastel de Choclo (majskaka), friterad ananas
         price: "195"
       - alternatives: []
         name: Cordero De Mixiote/ långkokt lammlägg, chili,kanel, nejlika, kummin/
           körsbär & majstortillas/ pico degallo med rädisa & apelsin
         price: "285"
-      - alternatives: []
-        name: Tonfisktartar/ frön/ spicy majo/ örter/ kalixlöjrom
-        price: "230"
   - dishes:
       - alternatives:
           - name: Hel trallrik
