@@ -13,17 +13,15 @@ menus:
         name: "Ash Tanur (Israeliskt sotat bröd) med frön           "
         price: "45"
       - alternatives: []
-        name: Hel kronärtskocka, citron-, lavendel- & citrondressing, blåbärsmajo
-        price: "150"
-      - alternatives: []
-        name: Nacho/ svamp/ Tomatillo/ Jalapeño/ smält ost/ smetana
-        price: "160"
-      - alternatives: []
-        name: Chili & honungsmarinerad Aubergine, fikontahini, valnötter
+        name: Jerusalem Pizza/ Karamelliserad aubergine/ Pistage & Paranötter/ Örter/
+          Citrusdressing/ sesamolja
         price: "170"
       - alternatives: []
-        name: Smörtsekt Challahbröd, pocherat ägg, svart tryffel från Alba
-        price: "185"
+        name: Buffalo Mozzarella/ smörstekt gulbeta/ inlagd balkanchili/ valmofrön
+        price: 150.-
+      - alternatives: []
+        name: Nacho/ svamp/ Tomatillo/ Jalapeño/ smält ost/ smetana
+        price: "170"
       - alternatives: []
         name: "Rå torskrygg, picklad tomatillo & jicamarot, sötsur savojkål, chili
           chipothe, brynt smör "
@@ -35,8 +33,8 @@ menus:
         name: Tonfisktartar/ frön/ spicy majo/ örter/ kalixlöjrom
         price: "230"
       - alternatives: []
-        name: Anka Al Pator, Pastel de Choclo (majskaka), friterad ananas
-        price: "195"
+        name: Kammben i Mole Negro (innehåller nötter)
+        price: "175"
       - alternatives: []
         name: Cordero De Mixiote/ långkokt lammlägg, chili,kanel, nejlika, kummin/
           körsbär & majstortillas/ pico degallo med rädisa & apelsin
