@@ -27,8 +27,8 @@ menus:
           chipothe, brynt smör "
         price: "190"
       - alternatives: []
-        name: Vilda Argentinska Räkor, pikant tomatsås, argentinska räkor, hjärtmusslor
-        price: "210"
+        name: Vilda Argentinska Räkor, pikant tomatsås
+        price: "185"
       - alternatives: []
         name: Tonfisktartar/ frön/ spicy majo/ örter/ kalixlöjrom
         price: "230"
@@ -65,7 +65,17 @@ menus:
 menusCatering:
   - dishes:
       - alternatives: []
-        name: För ett tag fram över erbjuder vi ingen catering
+        name: "I brunchen ingår följande: Kaffe/ te, Bloody Mary/ Mimosa, Kallskuret &
+          ostar, Surdegsbröd, Baskisk Cheesecake"
+        price: "390"
+      - alternatives:
+          - name: Spicy avokado med pocherat ägg
+          - name: French toast på challahbröd med bär & nötter
+          - name: Chakchuka
+          - name: Tuna Melt
+          - name: Huevos Rancheros med Chorizo
+          - name: Cuban Sandwich
+        name: "Val av rätter:"
 info: |-
   Ons-Tors 17:00-23:00
   Fre-Lör 16:00-23:00 
