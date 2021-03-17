@@ -13,25 +13,20 @@ menus:
         name: "Ash Tanur (Israeliskt sotat bröd) med frön           "
         price: "45"
       - alternatives: []
-        name: Jerusalem Pizza/ Karamelliserad aubergine/ Pistage & Paranötter/ Örter/
-          Citrusdressing/ sesamolja
-        price: "170"
-      - alternatives: []
-        name: Buffalo Mozzarella/ smörstekt gulbeta/ inlagd balkanchili/ valmofrön
-        price: 150.-
+        name: Tagliatelle/ pikant paprika & pistachpesto
+        price: "175"
       - alternatives: []
         name: Nacho/ svamp/ Tomatillo/ Jalapeño/ smält ost/ smetana
         price: "170"
       - alternatives: []
-        name: "Rå torskrygg, picklad tomatillo & jicamarot, sötsur savojkål, chili
-          chipothe, brynt smör "
-        price: "190"
-      - alternatives: []
-        name: Vilda Argentinska Räkor, pikant tomatsås
-        price: "185"
+        name: Hummerguacamole/ chile Morita/krispiga Tortillas
+        price: "250"
       - alternatives: []
         name: Tonfisktartar/ frön/ spicy majo/ örter/ kalixlöjrom
         price: "230"
+      - alternatives: []
+        name: Svensk bläckfisk/ svarta belugalinser/ chorizo/ krispig platanos
+        price: "180"
       - alternatives: []
         name: Kammben i Mole Negro (innehåller nötter)
         price: "175"
