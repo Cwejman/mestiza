@@ -19,17 +19,17 @@ menus:
         name: Nacho/ svamp/ Tomatillo/ Jalapeño/ smält ost/ smetana
         price: "170"
       - alternatives: []
+        name: Kastanjefalafel/ Spicy tahini/ Pita
+        price: "175"
+      - alternatives: []
         name: Hummerguacamole/ chile Morita/krispiga Tortillas
         price: "250"
       - alternatives: []
         name: Tonfisktartar/ frön/ spicy majo/ örter/ kalixlöjrom
         price: "230"
       - alternatives: []
-        name: Svensk bläckfisk/ svarta belugalinser/ chorizo/ krispig platanos
-        price: "180"
-      - alternatives: []
-        name: Kammben i Mole Negro (innehåller nötter)
-        price: "175"
+        name: Fried Couscous/ Argentinska rödräkor/ pocherat ägg/ sweet chili/ örter
+        price: "170"
       - alternatives: []
         name: Cordero De Mixiote/ långkokt lammlägg, chili,kanel, nejlika, kummin/
           körsbär & majstortillas/ pico degallo med rädisa & apelsin
