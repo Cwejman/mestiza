@@ -13,8 +13,8 @@ menus:
         name: "Ash Tanur (Israeliskt sotat bröd) med frön           "
         price: "45"
       - alternatives: []
-        name: Tagliatelle/ pikant paprika & pistachpesto
-        price: "175"
+        name: Hel kronärtskocka/ citron & vitlöksdressing/ blåbär & lavendelmajo
+        price: "150"
       - alternatives: []
         name: Nacho/ svamp/ Tomatillo/ Jalapeño/ smält ost/ smetana
         price: "170"
