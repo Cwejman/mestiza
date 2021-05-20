@@ -31,6 +31,12 @@ menus:
         name: Fried Couscous/ Argentinska rödräkor/ pocherat ägg/ sweet chili/ örter
         price: "170"
       - alternatives: []
+        name: Krabbtortellini/ skirat smör/ sjösparris/ Störrom
+        price: "265"
+      - alternatives: []
+        name: Wagyucarpaccio/ romansallad/ cesardressing/ riven tokat ägg
+        price: "255"
+      - alternatives: []
         name: Cordero De Mixiote/ långkokt lammlägg, chili,kanel, nejlika, kummin/
           körsbär & majstortillas/ pico degallo med rädisa & apelsin
         price: "285"
