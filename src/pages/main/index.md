@@ -19,8 +19,8 @@ menus:
         name: Nacho/ svamp/ Tomatillo/ Jalapeño/ smält ost/ smetana
         price: "170"
       - alternatives: []
-        name: Kastanjefalafel/ Spicy tahini/ Pita
-        price: "175"
+        name: Smörstekt Challahbröd/ pocherat ägg/ svart tryffel
+        price: "220"
       - alternatives: []
         name: Hummerguacamole/ chile Morita/krispiga Tortillas
         price: "250"
@@ -31,15 +31,14 @@ menus:
         name: Fried Couscous/ Argentinska rödräkor/ pocherat ägg/ sweet chili/ örter
         price: "170"
       - alternatives: []
-        name: Krabbtortellini/ skirat smör/ sjösparris/ Störrom
-        price: "265"
+        name: Tiradito på pilgrimsmussla/ litchi/ brynt smör/ rabarber/ ogräs
+        price: "165"
       - alternatives: []
-        name: Wagyucarpaccio/ romansallad/ cesardressing/ riven tokat ägg
-        price: "255"
+        name: Panerad & fylld jalapeños med kyckling/ platanos/ scamorza
+        price: "150"
       - alternatives: []
-        name: Cordero De Mixiote/ långkokt lammlägg, chili,kanel, nejlika, kummin/
-          körsbär & majstortillas/ pico degallo med rädisa & apelsin
-        price: "285"
+        name: Empanadas med långbakad fläsk/ lök & ingefärssås/ poblano & persikosalsa
+        price: "165"
   - dishes:
       - alternatives:
           - name: Hel trallrik
