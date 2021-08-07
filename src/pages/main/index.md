@@ -16,17 +16,18 @@ menus:
         name: Hel kronärtskocka/ citron & vitlöksdressing/ blåbär & lavendelmajo
         price: "150"
       - alternatives: []
-        name: Nacho/ svamp/ Tomatillo/ Jalapeño/ smält ost/ smetana
-        price: "170"
+        name: Vaxbönor & hericots Verts/ Fava & Chili Guaillodressing/ Citronverbena/
+          lökfriterade cashews
+        price: "130"
       - alternatives: []
         name: Smörstekt Challahbröd/ pocherat ägg/ svart tryffel
         price: "220"
       - alternatives: []
-        name: Hummerguacamole/ chile Morita/krispiga Tortillas
-        price: "250"
+        name: Aubergine Wellington/ Smördeg/ Plommonreduktion/ Kantareller
+        price: "170"
       - alternatives: []
-        name: Tonfisktartar/ frön/ spicy majo/ örter/ kalixlöjrom
-        price: "230"
+        name: Marulks Carpaccio/ Apelsinsmör/ Spetskålssallad/ Leche de tigre
+        price: "180"
       - alternatives: []
         name: Fried Couscous/ Argentinska rödräkor/ pocherat ägg/ sweet chili/ örter
         price: "170"
@@ -34,11 +35,11 @@ menus:
         name: Tiradito på pilgrimsmussla/ litchi/ brynt smör/ rabarber/ ogräs
         price: "165"
       - alternatives: []
-        name: Panerad & fylld jalapeños med kyckling/ platanos/ scamorza
-        price: "150"
+        name: Flapsteaksalad på filodeg/ granatäppelmiso/ Pepparrot
+        price: "180"
       - alternatives: []
-        name: Empanadas med långbakad fläsk/ lök & ingefärssås/ poblano & persikosalsa
-        price: "165"
+        name: Ankgyros (anklår)/ avokadotzatziki/ Jalapenodressing/ Pita
+        price: "195"
   - dishes:
       - alternatives:
           - name: Hel trallrik
