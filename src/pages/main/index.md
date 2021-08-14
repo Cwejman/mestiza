@@ -20,9 +20,6 @@ menus:
           lökfriterade cashews
         price: "130"
       - alternatives: []
-        name: Smörstekt Challahbröd/ pocherat ägg/ svart tryffel
-        price: "220"
-      - alternatives: []
         name: Aubergine Wellington/ Smördeg/ Plommonreduktion/ Kantareller
         price: "170"
       - alternatives: []
