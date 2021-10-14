@@ -38,6 +38,9 @@ menus:
       - alternatives: []
         name: Ankgyros (anklår)/ avokadotzatziki/ Jalapenodressing/ Pita
         price: "195"
+      - alternatives: []
+        name: Tortellini/ Chevré/ hasselnötter/ honung/ sherry/ brynt smör/ peperocini
+        price: "165"
   - dishes:
       - alternatives:
           - name: Hel trallrik
