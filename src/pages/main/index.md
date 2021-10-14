@@ -26,8 +26,9 @@ menus:
         name: Marulks Carpaccio/ Apelsinsmör/ Spetskålssallad/ Leche de tigre
         price: "180"
       - alternatives: []
-        name: Fried Couscous/ Argentinska rödräkor/ pocherat ägg/ sweet chili/ örter
-        price: "170"
+        name: Majscannoli/ krabba/ sötpotatis/ majo/ svart störrom (liten rackare men
+          för jävla go)
+        price: "135"
       - alternatives: []
         name: Tiradito på pilgrimsmussla/ litchi/ brynt smör/ rabarber/ ogräs
         price: "165"
