@@ -1,12 +1,12 @@
 ---
 path: /
-intro: Här äter vi & delar på god mat i form av mellanrätter. Mestiza står för
-  blandning. Mariuxi Ingber Robles har komponerat mellanrätter från alla
+intro: Här äter vi & delar på god mat i form av lite mindre rätter. Mestiza står
+  för blandning. Mariuxi Ingber Robles har komponerat mellanrätter från alla
   världens hörn i en enda röra som hon tagit med sig från barndom och resor
-  världen över och gjort till sin egen version.  Vi dricker grymma viner av alla
-  dess slag, ölsorter av alla dess slag & cider från Basqueland som Kiki Ingber
-  valt ut med omsorg. Kaos på bordet är valet vi gör. Lämna mobilerna i
-  fickorna. Äta, dricka, prata, äta dricka, prata...
+  världen över och gjort till sin egen version.  Hon använder från mer enkla
+  ingredienser till lite mer luxiösa. Vi dricker grymma viner av alla dess slag,
+  som Kiki Ingber valt ut med omsorg. Kaos på bordet är valet vi gör. Lämna
+  mobilerna i fickorna. Äta, dricka, prata, äta dricka, prata...
 menus:
   - dishes:
       - alternatives: []
