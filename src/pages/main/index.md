@@ -16,31 +16,31 @@ menus:
         name: Hel kronärtskocka/ citron & vitlöksdressing/ blåbär & lavendelmajo
         price: "150"
       - alternatives: []
-        name: Vaxbönor & hericots Verts/ Fava & Chili Guaillodressing/ Citronverbena/
-          lökfriterade cashews
-        price: "130"
+        name: Sotad sötpotatis/ citron creme fraiche/ olivolja
+        price: "125"
       - alternatives: []
-        name: Aubergine Wellington/ Smördeg/ Plommonreduktion/ Kantareller
-        price: "170"
+        name: Smörstekt Challahbröd/ pocherat ägg/ svart tryffel
+        price: "240"
       - alternatives: []
-        name: Marulks Carpaccio/ Apelsinsmör/ Spetskålssallad/ Leche de tigre
-        price: "180"
-      - alternatives: []
-        name: Majscannoli/ krabba/ sötpotatis/ majo/ svart störrom (liten rackare men
-          för jävla go)
-        price: "135"
-      - alternatives: []
-        name: Tiradito på pilgrimsmussla/ litchi/ brynt smör/ rabarber/ ogräs
+        name: safransagnolotti / Katanje/ brynt kryddigt smör
         price: "165"
       - alternatives: []
-        name: Flapsteaksalad på filodeg/ granatäppelmiso/ Pepparrot
+        name: Rå havsaborre/ blodgrape/ dressing på havtorn, ingefära, sanchopeppear &
+          lime
         price: "180"
       - alternatives: []
-        name: Ankgyros (anklår)/ avokadotzatziki/ Jalapenodressing/ Pita
-        price: "195"
+        name: Räk & kokoscroquetter (vildfångad)/ plommondip
+        price: "185"
       - alternatives: []
-        name: Tortellini/ Chevré/ hasselnötter/ honung/ sherry/ brynt smör/ peperocini
-        price: "165"
+        name: Halv Hummer/ Hummerbisque/ Pomelo & fänkålsalsa
+        price: "340"
+      - alternatives: []
+        name: Ank BLT tostada/ Anka/ vedrökt sidfläsk/ krispig sallad/ majo/ krispig
+          majstortillas
+        price: "185"
+      - alternatives: []
+        name: Flappsteks sallad/ miso & sojadressing/ äpple & pepparrot
+        price: 195:-
   - dishes:
       - alternatives:
           - name: Hel trallrik
