@@ -52,10 +52,10 @@ menus:
         price: "360"
       - alternatives: []
         name: Ostar liten tallrik
-        price: "120"
+        price: "150"
       - alternatives: []
         name: Ostar stor tallrik
-        price: "200"
+        price: "250"
   - dishes:
       - alternatives: []
         name: Sardeller, sardiner, Pulpo, Blåmusslor eller hjärtmusslor mm. i konserver,
