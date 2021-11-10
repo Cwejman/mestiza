@@ -27,10 +27,10 @@ menus:
       - alternatives: []
         name: Rå havsaborre/ blodgrape/ dressing på havtorn, ingefära, sanchopeppear &
           lime
-        price: "180"
+        price: "170"
       - alternatives: []
         name: Räk & kokoscroquetter (vildfångad)/ plommondip
-        price: "185"
+        price: "169"
       - alternatives: []
         name: Halv Hummer/ Hummerbisque/ Pomelo & fänkålsalsa
         price: "340"
