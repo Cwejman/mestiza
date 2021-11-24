@@ -61,20 +61,7 @@ menus:
       - alternatives: []
         name: Bär i Zabaione, toppad med mjuk maräng & fänkålssocker
         price: "120"
-menusCatering:
-  - dishes:
-      - alternatives: []
-        name: "I brunchen ingår följande: Kaffe/ te, Bloody Mary/ Mimosa, Kallskuret &
-          ostar, Surdegsbröd, Baskisk Cheesecake"
-        price: "390"
-      - alternatives:
-          - name: Spicy avokado med pocherat ägg
-          - name: French toast på challahbröd med bär & nötter
-          - name: Chakchuka
-          - name: Tuna Melt
-          - name: Huevos Rancheros med Chorizo
-          - name: Cuban Sandwich
-        name: "Val av rätter:"
+menusCatering: []
 info: |-
   Ons-Tors 17:00-23:00
   Fre-Lör 16:00-23:00 
