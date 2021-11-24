@@ -22,7 +22,7 @@ menus:
         name: Smörstekt Challahbröd/ pocherat ägg/ svart tryffel
         price: "240"
       - alternatives: []
-        name: safransagnolotti / Katanje/ brynt kryddigt smör
+        name: safransagnolotti / Kastanj/ brynt kryddigt smör
         price: "165"
       - alternatives: []
         name: Rå havsaborre/ blodgrape/ dressing på havtorn, ingefära, sanchopeppear &
@@ -31,9 +31,6 @@ menus:
       - alternatives: []
         name: Räk & kokoscroquetter (vildfångad)/ plommondip
         price: "169"
-      - alternatives: []
-        name: Halv Hummer/ Hummerbisque/ Pomelo & fänkålsalsa
-        price: "340"
       - alternatives: []
         name: Ank BLT tostada/ Anka/ vedrökt sidfläsk/ krispig sallad/ majo/ krispig
           majstortillas
