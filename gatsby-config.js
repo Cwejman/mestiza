@@ -1,6 +1,10 @@
 const R = require('ramda');
 const $yaml = require('js-yaml');
 
+const replEmptyMenus = menu => (menu.length ? menu : [{
+  dishes: [{ name: 'Här är det tomt just nu', price: '', alternatives: [] }],
+}]);
+
 const replEmptyPrice = R.merge({ price: '123456' });
 
 const transfMenu = R.evolve({
@@ -16,15 +20,22 @@ const transfMenu = R.evolve({
   )),
 });
 
-// Empty object are created in CMS Admin, reject them because they crash the build process
 
-const transMenuList = R.evolve({
-  menus: R.pipe(R.reject(R.isEmpty), R.map(transfMenu)),
-  menusCatering: R.pipe(R.reject(R.isEmpty), R.map(transfMenu)),
+const transfMenuList = R.pipe(
+  // Empty menus crash the build as well
+  replEmptyMenus,
+  // Empty object are created in CMS Admin, reject them because they crash the build process
+  R.reject(R.isEmpty),
+  R.map(transfMenu),
+);
+
+const transfYaml = R.evolve({
+  menus: transfMenuList,
+  menusCatering: transfMenuList,
 });
 
 const yaml = {
-  parse: R.pipe($yaml.safeLoad.bind($yaml), transMenuList),
+  parse: R.pipe($yaml.safeLoad.bind($yaml), transfYaml),
   stringify: $yaml.safeDump.bind($yaml),
 };
 
