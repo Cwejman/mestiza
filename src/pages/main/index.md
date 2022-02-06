@@ -19,11 +19,14 @@ menus:
         name: Sotad sötpotatis/ citron creme fraiche/ olivolja
         price: "125"
       - alternatives: []
-        name: Smörstekt Challahbröd/ pocherat ägg/ svart tryffel
-        price: "240"
+        name: Jicama & kvittensallad/ agretti/rostade jordnötter/ örter/ kvittendressing
+        price: "150"
       - alternatives: []
         name: safransagnolotti / Kastanj/ brynt kryddigt smör
         price: "165"
+      - alternatives: []
+        name: Blomkålstacos/ miso & Tomatillo dressing/ ramslökkapris
+        price: "150"
       - alternatives: []
         name: Rå havsaborre/ blodgrape/ dressing på havtorn, ingefära, sanchopeppear &
           lime
@@ -36,8 +39,8 @@ menus:
           majstortillas
         price: "185"
       - alternatives: []
-        name: Flappsteks sallad/ miso & sojadressing/ äpple & pepparrot
-        price: 195:-
+        name: Böngnocchi/ oxsvansragu/ chimichurri
+        price: "175"
   - dishes:
       - alternatives:
           - name: Hel trallrik
