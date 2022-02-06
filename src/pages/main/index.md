@@ -28,8 +28,8 @@ menus:
         name: Blomkålstacos/ miso & Tomatillo dressing/ ramslökkapris
         price: "150"
       - alternatives: []
-        name: Rå havsaborre/ blodgrape/ dressing på havtorn, ingefära, sanchopeppear &
-          lime
+        name: Rå havsaborre/ bergamot/blodgrape/ dressing på havtorn, ingefära,
+          sanchopeppear & lime
         price: "170"
       - alternatives: []
         name: Räk & kokoscroquetter (vildfångad)/ plommondip
