@@ -64,6 +64,9 @@ menus:
       - alternatives: []
         name: Bär i Zabaione, toppad med mjuk maräng & fänkålssocker
         price: "120"
+      - alternatives: []
+        name: "Baskisk Cheesecake "
+        price: "120"
 menusCatering: []
 info: |-
   Ons-Tors 17:00-23:00
