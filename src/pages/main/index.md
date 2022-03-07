@@ -16,14 +16,18 @@ menus:
         name: Hel kronärtskocka/ citron & vitlöksdressing/ blåbär & lavendelmajo
         price: "150"
       - alternatives: []
-        name: Sotad sötpotatis/ citron creme fraiche/ olivolja
-        price: "125"
+        name: Örtmarinerad Buffalo Mozzarella & Zucchiniblomma
+        price: "160"
       - alternatives: []
         name: Jicama & kvittensallad/ agretti/rostade jordnötter/ örter/ kvittendressing
         price: "150"
       - alternatives: []
         name: safransagnolotti / Kastanj/ brynt kryddigt smör
         price: "165"
+      - alternatives: []
+        name: Bakad Karameliserad Butternut Squash/ Rabarberredution/ rostade
+          pistagenötter
+        price: "140"
       - alternatives: []
         name: Blomkålstacos/ miso & Tomatillo dressing/ ramslökkapris
         price: "150"
@@ -35,9 +39,9 @@ menus:
         name: Räk & kokoscroquetter (vildfångad)/ plommondip
         price: "169"
       - alternatives: []
-        name: Ank BLT tostada/ Anka/ vedrökt sidfläsk/ krispig sallad/ majo/ krispig
-          majstortillas
-        price: "185"
+        name: Ugnsbakad Vaktel/ Örtsky/ Bakad Karameliserad Butternut Squash/
+          Rabarberredution/ rostade pistagenötter (Större rätt)
+        price: "260"
       - alternatives: []
         name: Böngnocchi/ oxsvansragu/ chimichurri
         price: "175"
