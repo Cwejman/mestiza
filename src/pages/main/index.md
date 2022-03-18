@@ -32,12 +32,15 @@ menus:
         name: Blomkålstacos/ miso & Tomatillo dressing/ ramslökkapris
         price: "150"
       - alternatives: []
+        name: Smörstekt Challahbröd/ pocherat ägg/ tryffel
+        price: "240"
+      - alternatives: []
         name: Rå havsaborre/ bergamot/blodgrape/ dressing på havtorn, ingefära,
           sanchopeppear & lime
         price: "170"
       - alternatives: []
-        name: Räk & kokoscroquetter (vildfångad)/ plommondip
-        price: "169"
+        name: Hummerguacamole/ chipotle/ krispiga majstortillas
+        price: "220"
       - alternatives: []
         name: Ugnsbakad Vaktel/ Örtsky/ Bakad Karameliserad Butternut Squash/
           Rabarberredution/ rostade pistagenötter (Större rätt)
