@@ -29,9 +29,6 @@ menus:
           pistagenötter
         price: "140"
       - alternatives: []
-        name: Blomkålstacos/ miso & Tomatillo dressing/ ramslökkapris
-        price: "150"
-      - alternatives: []
         name: Smörstekt Challahbröd/ pocherat ägg/ tryffel
         price: "240"
       - alternatives: []
