@@ -29,21 +29,16 @@ menus:
           pistagenötter
         price: "140"
       - alternatives: []
-        name: Smörstekt Challahbröd/ pocherat ägg/ tryffel
-        price: "240"
-      - alternatives: []
-        name: Rå havsaborre/ bergamot/blodgrape/ dressing på havtorn, ingefära,
-          sanchopeppear & lime
+        name: Pulpo/ Favaröra/ cubansk Mojo
         price: "170"
+      - alternatives: []
+        name: Rå hiramasa/ Hallon & lemongrassreduktion/ frystorkad soja/ umibudo
+        price: "180"
       - alternatives: []
         name: Hummerguacamole/ chipotle/ krispiga majstortillas
         price: "220"
       - alternatives: []
-        name: Ugnsbakad Vaktel/ Örtsky/ Bakad Karameliserad Butternut Squash/
-          Rabarberredution/ rostade pistagenötter (Större rätt)
-        price: "260"
-      - alternatives: []
-        name: Böngnocchi/ oxsvansragu/ chimichurri
+        name: Porchetta/ Örter/ Sky/ Murklor/ Vattenmelonrettika
         price: "175"
   - dishes:
       - alternatives:
