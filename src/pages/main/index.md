@@ -19,9 +19,6 @@ menus:
         name: Örtmarinerad Buffalo Mozzarella & Zucchiniblomma
         price: "160"
       - alternatives: []
-        name: Jicama & kvittensallad/ agretti/rostade jordnötter/ örter/ kvittendressing
-        price: "150"
-      - alternatives: []
         name: safransagnolotti / Kastanj/ brynt kryddigt smör
         price: "165"
       - alternatives: []
@@ -29,14 +26,17 @@ menus:
           pistagenötter
         price: "140"
       - alternatives: []
+        name: Tysk Vit Sparris/ Filippinska Pilinötter/ apelsinsmör
+        price: "185"
+      - alternatives: []
         name: Pulpo/ Favaröra/ cubansk Mojo
         price: "170"
       - alternatives: []
-        name: Rå hiramasa/ Hallon & lemongrassreduktion/ frystorkad soja/ umibudo
-        price: "180"
+        name: Svenska Havskräftor, Cajun style (begränsat antal)
+        price: ca 175
       - alternatives: []
-        name: Hummerguacamole/ chipotle/ krispiga majstortillas
-        price: "220"
+        name: Kalvcarpaccio/ Purjodressing/ Aji Limo/ Kapris/ Savoykål/ Agrietti
+        price: "165"
       - alternatives: []
         name: Porchetta/ Örter/ Sky/ Murklor/ Vattenmelonrettika
         price: "175"
