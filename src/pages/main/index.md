@@ -33,7 +33,7 @@ menus:
         price: "170"
       - alternatives: []
         name: Svenska Havskräftor, Cajun style (begränsat antal)
-        price: ca 175
+        price: "175"
       - alternatives: []
         name: Kalvcarpaccio/ Purjodressing/ Aji Limo/ Kapris/ Savoykål/ Agrietti
         price: "165"
