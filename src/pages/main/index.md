@@ -46,10 +46,10 @@ menus:
           - name: Hel trallrik
             price: "360"
         name: Jamon Iberico de Bellota, 42 månader, Halv tallrik
-        price: "190"
+        price: "220"
       - alternatives: []
         name: Jamon Iberico de Bellota, 42 månader, Hel tallrik
-        price: "360"
+        price: "390"
       - alternatives: []
         name: Ostar liten tallrik
         price: "150"
