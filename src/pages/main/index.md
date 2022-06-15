@@ -11,34 +11,35 @@ menus:
   - dishes:
       - alternatives: []
         name: "Ash Tanur (Israeliskt sotat bröd) med frön           "
-        price: "45"
+        price: "55"
       - alternatives: []
         name: Hel kronärtskocka/ citron & vitlöksdressing/ blåbär & lavendelmajo
-        price: "150"
+        price: "155"
       - alternatives: []
-        name: Örtmarinerad Buffalo Mozzarella & Zucchiniblomma
-        price: "160"
+        name: Örtmarinerad Buffalo Mozzarella
+        price: "155"
       - alternatives: []
         name: safransagnolotti / Kastanj/ brynt kryddigt smör
-        price: "165"
+        price: "170"
       - alternatives: []
         name: Bakad Karameliserad Butternut Squash/ Rabarberredution/ rostade
           pistagenötter
-        price: "140"
+        price: "150"
       - alternatives: []
         name: Tysk Vit Sparris/ Filippinska Pilinötter/ apelsinsmör
         price: "185"
       - alternatives: []
         name: Pulpo/ Favaröra/ cubansk Mojo
-        price: "170"
+        price: "175"
       - alternatives: []
         name: Svenska Havskräftor, Cajun style (begränsat antal)
         price: "175"
       - alternatives: []
         name: Kalvcarpaccio/ Purjodressing/ Aji Limo/ Kapris/ Savoykål/ Agrietti
-        price: "165"
+        price: "170"
       - alternatives: []
-        name: Porchetta/ Örter/ Sky/ Murklor/ Vattenmelonrettika
+        name: Cuban Sandwich/ Långbakad fläskkarré/ Rökt skinka/ Emmentaler/ Pickles/
+          Jalapenos/ Dijon/ Challahbröd
         price: "175"
   - dishes:
       - alternatives:
