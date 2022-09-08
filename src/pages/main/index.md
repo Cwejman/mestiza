@@ -16,31 +16,34 @@ menus:
         name: Hel kronärtskocka/ citron & vitlöksdressing/ blåbär & lavendelmajo
         price: "155"
       - alternatives: []
-        name: Örtmarinerad Buffalo Mozzarella
+        name: Stekt Karl Johansvamp/ pocherat ägg
         price: "155"
+      - alternatives: []
+        name: Bruschetta på Ash Tanur/ Fikon/ Chevre/ Lardo
+        price: "160"
+      - alternatives: []
+        name: Bakad Aubergin/ Tahini/ Apelsinsmör/ Aprikosreduktion/ Rostad Vitlök
+        price: "165"
       - alternatives: []
         name: safransagnolotti / Kastanj/ brynt kryddigt smör
         price: "170"
       - alternatives: []
-        name: Bakad Karameliserad Butternut Squash/ Rabarberredution/ rostade
-          pistagenötter
-        price: "150"
+        name: Nachos (Egna tortillas)/ Kantareller i buffalosås/ Rascal (smält ost)/
+          Fermenterade bönor/ Tomatillo
+        price: "189"
       - alternatives: []
-        name: Tysk Vit Sparris/ Filippinska Pilinötter/ apelsinsmör
-        price: "185"
-      - alternatives: []
-        name: Pulpo/ Favaröra/ cubansk Mojo
-        price: "175"
-      - alternatives: []
-        name: Svenska Havskräftor, Cajun style (begränsat antal)
-        price: "175"
-      - alternatives: []
-        name: Kalvcarpaccio/ Purjodressing/ Aji Limo/ Kapris/ Savoykål/ Agrietti
+        name: Ceviche på torsk/ Jalapenos/ Koriander/ Rödlök/ Lime
         price: "170"
+      - alternatives: []
+        name: Halstrad pilgrimsmussla/ ratatouille/ Belugalinser/ citronverbena
+        price: "190"
       - alternatives: []
         name: Cuban Sandwich/ Långbakad fläskkarré/ Rökt skinka/ Emmentaler/ Pickles/
           Jalapenos/ Dijon/ Challahbröd
         price: "175"
+      - alternatives: []
+        name: "Steaktacos/ Entrecote/ Avokadocreme "
+        price: "190"
   - dishes:
       - alternatives:
           - name: Hel trallrik
