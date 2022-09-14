@@ -72,6 +72,7 @@ menus:
         price: "120"
 menusCatering: []
 info: |-
+  Tis 18:00-23:00
   Ons-Tors 17:00-23:00
   Fre-Lör 16:00-23:00 
 
