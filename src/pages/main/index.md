@@ -25,22 +25,18 @@ menus:
         name: Bakad Aubergin/ Tahini/ Apelsinsmör/ Aprikosreduktion/ Rostad Vitlök
         price: "165"
       - alternatives: []
-        name: safransagnolotti / Kastanj/ brynt kryddigt smör
-        price: "170"
-      - alternatives: []
         name: Nachos (Egna tortillas)/ Kantareller i buffalosås/ Rascal (smält ost)/
           Fermenterade bönor/ Tomatillo
         price: "189"
       - alternatives: []
-        name: Ceviche på torsk/ Jalapenos/ Koriander/ Rödlök/ Lime
-        price: "170"
-      - alternatives: []
-        name: Halstrad pilgrimsmussla/ ratatouille/ Belugalinser/ citronverbena
+        name: Sotad bläckfisk/ Belugalinser/ chorizodressing/ friterad riven matbanan
         price: "190"
       - alternatives: []
-        name: Cuban Sandwich/ Långbakad fläskkarré/ Rökt skinka/ Emmentaler/ Pickles/
-          Jalapenos/ Dijon/ Challahbröd
-        price: "175"
+        name: Fried Couscous/ Argentinsk rödräka/ Asiatiska örter/ Chili/ Pocherat ägg
+        price: "180"
+      - alternatives: []
+        name: Ankgyros (Confiterad)/ Pita/ Avokadotzatziki/  Aji
+        price: "220"
       - alternatives: []
         name: "Steaktacos/ Entrecote/ Avokadocreme "
         price: "190"
