@@ -29,7 +29,10 @@ menus:
           Fermenterade bönor/ Tomatillo
         price: "189"
       - alternatives: []
-        name: Sotad bläckfisk/ Belugalinser/ chorizodressing/ friterad riven matbanan
+        name: Buffalo Mozzarella/ Betor/ Brynt smör/ Hasselnötter
+        price: "180"
+      - alternatives: []
+        name: "Tonfiskcarpaccio/ krossad tomat/ Litchi dressing/ Basilikaolja/ Oliver "
         price: "190"
       - alternatives: []
         name: Fried Couscous/ Argentinsk rödräka/ Asiatiska örter/ Chili/ Pocherat ägg
