@@ -36,10 +36,10 @@ menus:
         price: "180"
       - alternatives: []
         name: Ankgyros (Confiterad)/ Pita/ Avokadotzatziki/  Aji
-        price: "220"
+        price: "270"
       - alternatives: []
         name: "Steaktacos/ Entrecote/ Avokadocreme "
-        price: "190"
+        price: "220"
   - dishes:
       - alternatives:
           - name: Hel trallrik
