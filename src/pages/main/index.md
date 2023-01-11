@@ -16,18 +16,17 @@ menus:
         name: Hel kronärtskocka/ citron & vitlöksdressing/ blåbär & lavendelmajo
         price: "155"
       - alternatives: []
-        name: Stekt Karl Johansvamp/ pocherat ägg
-        price: "155"
-      - alternatives: []
-        name: Bruschetta på Ash Tanur/ Fikon/ Chevre/ Lardo
+        name: Sallad på bittra blad/ citrusdressing/ pekannötter/ Chokladapesin
         price: "160"
       - alternatives: []
-        name: Bakad Aubergin/ Tahini/ Apelsinsmör/ Aprikosreduktion/ Rostad Vitlök
-        price: "165"
+        name: Kastanjehumus med ash Tanur
+        price: "150"
       - alternatives: []
-        name: Nachos (Egna tortillas)/ Kantareller i buffalosås/ Rascal (smält ost)/
-          Fermenterade bönor/ Tomatillo
-        price: "189"
+        name: Bakad Aubergin/ Tahini/ Koriander/ Pistagenötter/ Kinesisk Chili
+        price: "175"
+      - alternatives: []
+        name: Limabönor/ Tahini/ Sivrichili/ Zaatar/ Hårdkokt ägg
+        price: "165"
       - alternatives: []
         name: Buffalo Mozzarella/ Betor/ Brynt smör/ Hasselnötter
         price: "180"
@@ -35,14 +34,12 @@ menus:
         name: "Tonfiskcarpaccio/ krossad tomat/ Litchi dressing/ Basilikaolja/ Oliver "
         price: "190"
       - alternatives: []
-        name: Fried Couscous/ Argentinsk rödräka/ Asiatiska örter/ Chili/ Pocherat ägg
-        price: "180"
+        name: Causa (Potatiskaka med snökrabba)/ koriander/ Aji amarillomajo/ pocherat
+          ägg
+        price: "220"
       - alternatives: []
         name: Ankgyros (Confiterad)/ Pita/ Avokadotzatziki/  Aji
         price: "270"
-      - alternatives: []
-        name: "Steaktacos/ Entrecote/ Avokadocreme "
-        price: "220"
   - dishes:
       - alternatives:
           - name: Hel trallrik
