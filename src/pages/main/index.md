@@ -71,8 +71,7 @@ info: |-
   Tis 18:00-23:00
   Ons-Tors 17:00-23:00
   Fre-Lör 16:00-23:00 
-
-
+  -
   031 55 06 62
   info@mestizagbg.se
   Skanstorget 10, 411 22 Göteborg
