@@ -50,11 +50,11 @@ menus:
         name: Jamon Iberico de Bellota, 42 månader, Hel tallrik
         price: "390"
       - alternatives: []
-        name: Ostar liten tallrik
-        price: "150"
+        name: Ost pet st
+        price: "75"
       - alternatives: []
-        name: Ostar stor tallrik
-        price: "250"
+        name: Ostartallrik för 2 pers
+        price: "285"
   - dishes:
       - alternatives: []
         name: Sardeller, sardiner, Pulpo, Blåmusslor eller hjärtmusslor mm. i konserver,
