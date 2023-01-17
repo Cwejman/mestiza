@@ -61,7 +61,7 @@ menus:
           serveras med vitlöksbröd och citron. Priser finner ni på bardisken.
   - dishes:
       - alternatives: []
-        name: Bär i Zabaione, toppad med mjuk maräng & fänkålssocker
+        name: Dagens dessert
         price: "120"
       - alternatives: []
         name: "Baskisk Cheesecake "
