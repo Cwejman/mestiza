@@ -10,14 +10,25 @@ intro: Här äter vi & delar på god mat i form av lite mindre rätter. Mestiza 
 menus:
   - dishes:
       - alternatives: []
+        name: "Sardeller eller Boquerones, serveras med vitlöksbröd och citron. "
+        price: "165"
+  - dishes:
+      - alternatives: []
+        name: Ost pet st
+        price: "75"
+      - alternatives: []
+        name: Ostartallrik för 2 pers
+        price: "285"
+      - alternatives: []
+        name: Ungersk välhängd korv
+        price: "95"
+  - dishes:
+      - alternatives: []
         name: "Ash Tanur (Israeliskt sotat bröd) med frön           "
         price: "55"
       - alternatives: []
         name: Hel kronärtskocka/ citron & vitlöksdressing/ blåbär & lavendelmajo
         price: "155"
-      - alternatives: []
-        name: Sallad på bittra blad/ citrusdressing/ pekannötter/ Chokladapesin
-        price: "160"
       - alternatives: []
         name: Kastanjehumus med ash Tanur
         price: "150"
@@ -25,8 +36,9 @@ menus:
         name: Bakad Aubergin/ Tahini/ Koriander/ Pistagenötter/ Kinesisk Chili
         price: "175"
       - alternatives: []
-        name: Limabönor/ Tahini/ Sivrichili/ Zaatar/ Hårdkokt ägg
-        price: "165"
+        name: Empanadas / Karl Johansvamp / Spetskål / Rascard / Aji Panka /
+          Plommondressing
+        price: "185"
       - alternatives: []
         name: Buffalo Mozzarella/ Betor/ Brynt smör/ Hasselnötter
         price: "180"
@@ -40,25 +52,9 @@ menus:
       - alternatives: []
         name: Ankgyros (Confiterad)/ Pita/ Avokadotzatziki/  Aji
         price: "270"
-  - dishes:
-      - alternatives:
-          - name: Hel trallrik
-            price: "360"
-        name: Jamon Iberico de Bellota, 42 månader, Halv tallrik
+      - alternatives: []
+        name: Långbakad revben / Friterad platanos / Spicy lök-& ananassalsa
         price: "220"
-      - alternatives: []
-        name: Jamon Iberico de Bellota, 42 månader, Hel tallrik
-        price: "390"
-      - alternatives: []
-        name: Ost pet st
-        price: "75"
-      - alternatives: []
-        name: Ostartallrik för 2 pers
-        price: "285"
-  - dishes:
-      - alternatives: []
-        name: Sardeller, sardiner, Pulpo, Blåmusslor eller hjärtmusslor mm. i konserver,
-          serveras med vitlöksbröd och citron. Priser finner ni på bardisken.
   - dishes:
       - alternatives: []
         name: Dagens dessert
