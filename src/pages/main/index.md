@@ -77,7 +77,7 @@ menusCatering:
         name: "Smörtårta med Pistage & rosor, Choklad & Valnötter (ca 15-18 bitar) "
         price: "1500"
       - alternatives: []
-        name: "Smårtårta med mörk choklad & Mezcal (ca 15-18 bitar) "
+        name: "Smörtårta med mörk choklad & Mezcal (ca 15-18 bitar) "
         price: 1500:-
       - alternatives: []
         name: "Smörtårta med kokos & Rom (ca 15-18 bitar) "
