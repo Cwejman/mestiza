@@ -40,15 +40,18 @@ menus:
           Plommondressing
         price: "185"
       - alternatives: []
-        name: Buffalo Mozzarella/ Betor/ Brynt smör/ Hasselnötter
-        price: "180"
+        name: Haricots verts / Gula linser & russindressing / Citron verbena /
+          Smörfriterade jordnötter
+        price: "165"
       - alternatives: []
-        name: "Tonfiskcarpaccio/ krossad tomat/ Litchi dressing/ Basilikaolja/ Oliver "
-        price: "190"
+        name: Grönkålsravioli / Salviasmör
+        price: "185"
       - alternatives: []
-        name: Causa (Potatiskaka med snökrabba)/ koriander/ Aji amarillomajo/ pocherat
-          ägg
-        price: "220"
+        name: Marulkscarpaccio / Passion-& achiotedressing / Habaneroolja
+        price: "195"
+      - alternatives: []
+        name: Pulpotaco / Potatis / Jalapeñodressing / Kapris / Koriander
+        price: "185"
       - alternatives: []
         name: Ankgyros (Confiterad)/ Pita/ Avokadotzatziki/  Aji
         price: "270"
