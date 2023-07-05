@@ -11,53 +11,53 @@ menus:
   - dishes:
       - alternatives: []
         name: "Sardeller eller Boquerones, serveras med vitlöksbröd och citron. "
-        price: "165"
+        price: "175"
   - dishes:
       - alternatives: []
-        name: Ost pet st
+        name: Oliver
         price: "75"
-      - alternatives: []
-        name: Ostartallrik för 2 pers
-        price: "285"
       - alternatives: []
         name: Ungersk välhängd korv
         price: "95"
+      - alternatives: []
+        name: 1 bit Comtéost
+        price: "85"
   - dishes:
       - alternatives: []
         name: "Ash Tanur (Israeliskt sotat bröd) med frön           "
         price: "55"
       - alternatives: []
-        name: Hel kronärtskocka/ citron & vitlöksdressing/ blåbär & lavendelmajo
-        price: "155"
+        name: Vit Sparris / Grön Curryhollandaise / Fänkål
+        price: "195"
       - alternatives: []
-        name: Kastanjehumus med ash Tanur
-        price: "150"
-      - alternatives: []
-        name: Bakad Aubergin/ Tahini/ Koriander/ Pistagenötter/ Kinesisk Chili
+        name: Bakad Blomkål / Tomatillo / Apelsinsmör / Hasselnötter
         price: "175"
       - alternatives: []
-        name: Empanadas / Karl Johansvamp / Spetskål / Rascard / Aji Panka /
-          Plommondressing
-        price: "185"
+        name: Kastanjehumus med ash Tanur
+        price: "155"
       - alternatives: []
-        name: Haricots verts / Gula linser & russindressing / Citron verbena /
-          Smörfriterade jordnötter
+        name: Hel kronärtskocka/ citron & vitlöksdressing/ blåbär & lavendelmajo
         price: "165"
       - alternatives: []
-        name: Grönkålsravioli / Salviasmör
-        price: "185"
+        name: Rostad Aubergin/ Tahini/ Koriander/ Pistagenötter/ Kinesisk Chili
+        price: "175"
       - alternatives: []
         name: Marulkscarpaccio / Passion-& achiotedressing / Habaneroolja
         price: "195"
       - alternatives: []
-        name: Pulpotaco / Potatis / Jalapeñodressing / Kapris / Koriander
-        price: "185"
+        name: Tonfisktostada / Mole Negro (innehåller nötter) / Hallonvinägrett /
+          Stjärnfrukt
+        price: "195"
+      - alternatives: []
+        name: Summerrolls / Sotade Cajunräkor / Grön mango & Papaya / Kimchi med
+          rabarber / Risnudlar /Plommonsås
+        price: "175"
+      - alternatives: []
+        name: Taco Al Pastor / Långbakat Fläsk / Chili Guaillo /Ananas / Koriander
+        price: "175"
       - alternatives: []
         name: Ankgyros (Confiterad)/ Pita/ Avokadotzatziki/  Aji
         price: "270"
-      - alternatives: []
-        name: Långbakad revben / Friterad platanos / Spicy lök-& ananassalsa
-        price: "220"
   - dishes:
       - alternatives: []
         name: Dagens dessert
