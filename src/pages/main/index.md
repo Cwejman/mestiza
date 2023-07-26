@@ -54,7 +54,7 @@ menus:
         price: "175"
       - alternatives: []
         name: Ankgyros (Confiterad)/ Pita/ Avokadotzatziki/  Aji
-        price: "270"
+        price: "295"
   - dishes:
       - alternatives: []
         name: "Baskisk Cheesecake "
