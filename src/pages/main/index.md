@@ -86,9 +86,9 @@ menusCatering:
         name: "Smörtårta med kokos & Rom (ca 15-18 bitar) "
         price: 1500:-
 info: |-
-  Tis 18:00-23:00
-  Ons-Tors 17:00-23:00
-  Fre-Lör 16:00-23:00 
+  Mån-Tis 18:00-23:00
+  Ons-Lör 17:00-23:00
+
   -
   031 55 06 62
   info@mestizagbg.se
