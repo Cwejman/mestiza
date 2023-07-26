@@ -27,9 +27,6 @@ menus:
         name: "Ash Tanur (Israeliskt sotat bröd) med frön           "
         price: "55"
       - alternatives: []
-        name: Vit Sparris / Grön Curryhollandaise / Fänkål
-        price: "195"
-      - alternatives: []
         name: Bakad Blomkål / Tomatillo / Apelsinsmör / Hasselnötter
         price: "175"
       - alternatives: []
@@ -59,9 +56,6 @@ menus:
         name: Ankgyros (Confiterad)/ Pita/ Avokadotzatziki/  Aji
         price: "270"
   - dishes:
-      - alternatives: []
-        name: Dagens dessert
-        price: "120"
       - alternatives: []
         name: "Baskisk Cheesecake "
         price: "120"
