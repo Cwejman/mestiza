@@ -8,10 +8,7 @@ intro: Här äter vi & delar på god mat i form av lite mindre rätter. Mestiza 
   som Kiki Ingber valt ut med omsorg. Kaos på bordet är valet vi gör. Lämna
   mobilerna i fickorna. Äta, dricka, prata, äta dricka, prata...
 menus:
-  - dishes:
-      - alternatives: []
-        name: "Sardeller eller Boquerones, serveras med vitlöksbröd och citron. "
-        price: "175"
+  - dishes: []
   - dishes:
       - alternatives: []
         name: Oliver
@@ -38,6 +35,9 @@ menus:
       - alternatives: []
         name: Rostad Aubergin/ Tahini/ Koriander/ Pistagenötter/ Kinesisk Chili
         price: "175"
+      - alternatives: []
+        name: KarlJohanssvamp / Pocherat ägg / Vitlök & Persilja
+        price: 180:-
       - alternatives: []
         name: Marulkscarpaccio / Passion-& achiotedressing / Habaneroolja
         price: "195"
