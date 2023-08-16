@@ -42,8 +42,7 @@ menus:
         name: Marulkscarpaccio / Passion-& achiotedressing / Habaneroolja
         price: "195"
       - alternatives: []
-        name: Tonfisktostada / Mole Negro (innehåller nötter) / Hallonvinägrett /
-          Stjärnfrukt
+        name: Nachotallrik / Kantareller / Svarta bönor / Rascard / Tomatillo
         price: "195"
       - alternatives: []
         name: Summerrolls / Sotade Cajunräkor / Grön mango & Papaya / Kimchi med
