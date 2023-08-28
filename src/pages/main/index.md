@@ -24,6 +24,9 @@ menus:
         name: "Ash Tanur (Israeliskt sotat bröd) med frön           "
         price: "55"
       - alternatives: []
+        name: Varm rödbets & persikosallad/ Stracciatella/ Brynt smör
+        price: "170"
+      - alternatives: []
         name: Bakad Blomkål / Tomatillo / Apelsinsmör / Hasselnötter
         price: "175"
       - alternatives: []
@@ -36,17 +39,16 @@ menus:
         name: Rostad Aubergin/ Tahini/ Koriander/ Pistagenötter/ Kinesisk Chili
         price: "175"
       - alternatives: []
-        name: KarlJohanssvamp / Pocherat ägg / Vitlök & Persilja
-        price: 180:-
-      - alternatives: []
-        name: Marulkscarpaccio / Passion-& achiotedressing / Habaneroolja
-        price: "195"
+        name: Bakad Purjolök/ Karamelliserad fikon/ Frystorkad soya
+        price: "165"
       - alternatives: []
         name: Nachotallrik / Kantareller / Svarta bönor / Rascard / Tomatillo
         price: "195"
       - alternatives: []
-        name: Summerrolls / Sotade Cajunräkor / Grön mango & Papaya / Kimchi med
-          rabarber / Risnudlar /Plommonsås
+        name: Marulkscarpaccio / Passion-& achiotedressing / Habaneroolja
+        price: "195"
+      - alternatives: []
+        name: Räktostada/ Krispig majstortilla/ Palsternacka & grön curryreme/ kokosmajo
         price: "175"
       - alternatives: []
         name: Taco Al Pastor / Långbakat Fläsk / Chili Guaillo /Ananas / Koriander
