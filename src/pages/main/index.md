@@ -36,14 +36,14 @@ menus:
         name: Hel kronärtskocka/ citron & vitlöksdressing/ blåbär & lavendelmajo
         price: "165"
       - alternatives: []
-        name: Rostad Aubergin/ Tahini/ Koriander/ Pistagenötter/ Kinesisk Chili
-        price: "175"
+        name: Sotad sötpotatis/ Yoghurt/ Zaatar/ Pistage
+        price: "155"
       - alternatives: []
-        name: Bakad Purjolök/ Karamelliserad fikon/ Frystorkad soya
-        price: "165"
-      - alternatives: []
-        name: Nachotallrik / Kantareller / Svarta bönor / Rascard / Tomatillo
+        name: Portobello & Misovåffla/ Kantareller/ Rökt Ricotta
         price: "195"
+      - alternatives: []
+        name: Callo en aguacile/ rå pilgrimsmussla/ gurka/ pico de gallo med physalis
+        price: "185"
       - alternatives: []
         name: Marulkscarpaccio / Passion-& achiotedressing / Habaneroolja
         price: "195"
@@ -51,11 +51,11 @@ menus:
         name: Räktostada/ Krispig majstortilla/ Palsternacka & grön curryreme/ kokosmajo
         price: "175"
       - alternatives: []
-        name: Taco Al Pastor / Långbakat Fläsk / Chili Guaillo /Ananas / Koriander
+        name: Hayacas - ångad majskaka i bananblad/ kyckling/ oliver/ paprika
         price: "175"
       - alternatives: []
-        name: Ankgyros (Confiterad)/ Pita/ Avokadotzatziki/  Aji
-        price: "295"
+        name: Savoykålsdolmar/ enrecote/vit majssalsa/ köttbuljong
+        price: "195"
   - dishes:
       - alternatives: []
         name: "Baskisk Cheesecake "
