@@ -24,37 +24,29 @@ menus:
         name: "Ash Tanur (Israeliskt sotat bröd) med frön           "
         price: "55"
       - alternatives: []
-        name: Varm rödbets & persikosallad/ Stracciatella/ Brynt smör
-        price: "170"
-      - alternatives: []
-        name: Bakad Blomkål / Tomatillo / Apelsinsmör / Hasselnötter
-        price: "175"
-      - alternatives: []
-        name: Kastanjehumus med ash Tanur
-        price: "155"
-      - alternatives: []
-        name: Hel kronärtskocka/ citron & vitlöksdressing/ blåbär & lavendelmajo
-        price: "165"
-      - alternatives: []
-        name: Sotad sötpotatis/ Yoghurt/ Zaatar/ Pistage
-        price: "155"
-      - alternatives: []
-        name: Portobello & Misovåffla/ Kantareller/ Rökt Ricotta
-        price: "195"
-      - alternatives: []
-        name: Callo en aguacile/ rå pilgrimsmussla/ gurka/ pico de gallo med physalis
+        name: Auberginröra/ äppledressing/ Tahini/ Pistage/ Tall
         price: "185"
       - alternatives: []
-        name: Marulkscarpaccio / Passion-& achiotedressing / Habaneroolja
+        name: Blomkål en Nogada/ Paprikadressing/ krämig valnötssås
+        price: "185"
+      - alternatives: []
+        name: Saffransagnolotti/ kastanj & ricotta/ brynt smör/ rostade pinjenötter
+        price: "235"
+      - alternatives: []
+        name: Hälleflundra carpaccio/ rostade kapris/ blodapelsin/ karljohansolja
+        price: "205"
+      - alternatives: []
+        name: Bläckravioli/ krabba/ reducerad kräftfond
+        price: "240"
+      - alternatives: []
+        name: Pulpo/ vit bönpuré/ klementin & salviasmör/ fänkål
+        price: "240"
+      - alternatives: []
+        name: Kladdig potatis/ ostronskivling/ Pak Choy/ reducerad kycklingsfond/ Chili/
+          Sanchoolja/ örter
         price: "195"
       - alternatives: []
-        name: Räktostada/ Krispig majstortilla/ Palsternacka & grön curryreme/ kokosmajo
-        price: "175"
-      - alternatives: []
-        name: Hayacas - ångad majskaka i bananblad/ kyckling/ oliver/ paprika
-        price: "175"
-      - alternatives: []
-        name: Savoykålsdolmar/ enrecote/vit majssalsa/ köttbuljong
+        name: Lammtaco/ Tabbouleh
         price: "195"
   - dishes:
       - alternatives: []
