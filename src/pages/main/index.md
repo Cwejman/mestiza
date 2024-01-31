@@ -21,7 +21,7 @@ menus:
         price: "85"
   - dishes:
       - alternatives: []
-        name: "Ash Tanur (Israeliskt sotat bröd) med frön           "
+        name: "Ash Tanur ( sotat bröd) med frön           "
         price: "55"
       - alternatives: []
         name: Auberginröra/ äppledressing/ Tahini/ Pistage/ Tall
