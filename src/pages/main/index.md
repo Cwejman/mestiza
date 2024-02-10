@@ -36,8 +36,8 @@ menus:
         name: Hälleflundra carpaccio/ rostade kapris/ blodapelsin/ karljohansolja
         price: "205"
       - alternatives: []
-        name: Bläckravioli/ krabba/ reducerad kräftfond
-        price: "240"
+        name: Räk & kokoskroketter/ Aji Amarillomajo
+        price: "195"
       - alternatives: []
         name: Pulpo/ vit bönpuré/ klementin & salviasmör/ fänkål
         price: "240"
