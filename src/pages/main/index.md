@@ -73,7 +73,7 @@ menusCatering:
         name: "Smörtårta med kokos & Rom (ca 15-18 bitar) "
         price: 1500:-
 info: |-
-  Mån-Tis 18:00-23:00
+  
   Ons-Lör 17:00-23:00
 
   -
