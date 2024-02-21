@@ -48,6 +48,10 @@ menus:
       - alternatives: []
         name: Lammtaco/ Tabbouleh
         price: "195"
+      - alternatives: []
+        name: "•\tCuban Sandwich/ Långbakad fläsk/ Rökt skinka/ Swiss Cheese/
+          Cornichons/ Senap & Majjo "
+        price: "210"
   - dishes:
       - alternatives: []
         name: "Baskisk Cheesecake "
