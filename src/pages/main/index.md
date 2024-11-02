@@ -11,50 +11,42 @@ menus:
   - dishes: []
   - dishes:
       - alternatives: []
-        name: Oliver
-        price: "75"
-      - alternatives: []
-        name: Ungersk välhängd korv
+        name: Dagens ost från Hilda Nilsson
         price: "95"
       - alternatives: []
-        name: 1 bit Comtéost
-        price: "85"
+        name: Dagens korv
+        price: "105"
   - dishes:
       - alternatives: []
-        name: "Ash Tanur ( sotat bröd) med frön           "
+        name: "Ash Tanur (sotad bröd) med frön           "
         price: "55"
       - alternatives: []
-        name: Auberginröra/ äppledressing/ Tahini/ Pistage/ Tall
+        name: Bakad Pumpa / Tamarind / Lök och Mandelkräm / Rostade mandlar
+        price: "165"
+      - alternatives: []
+        name: Portobello / Spicy Fava / Chimichurri med Grön Papaya
+        price: "165"
+      - alternatives: []
+        name: Kastanjehummus / Brynt Smör / Rostade Spicy Kikärtor
+        price: "165"
+      - alternatives: []
+        name: Cornbread / Stekt Kantarell / Svampkonsomme
         price: "185"
       - alternatives: []
-        name: Blomkål en Nogada/ Paprikadressing/ krämig valnötssås
-        price: "185"
+        name: Torskryggstostada / Apelsincremefraische / Grön Pico de Gallo
+        price: "210"
       - alternatives: []
-        name: Saffransagnolotti/ kastanj & ricotta/ brynt smör/ rostade pinjenötter
-        price: "235"
-      - alternatives: []
-        name: Hälleflundra carpaccio/ rostade kapris/ blodapelsin/ karljohansolja
-        price: "205"
-      - alternatives: []
-        name: Räk & kokoskroketter/ Aji Amarillomajo
+        name: Tonfisktartar / Ananas / Habanero / Dill / Pappadam
         price: "195"
       - alternatives: []
-        name: Pulpo/ vit bönpuré/ klementin & salviasmör/ fänkål
-        price: "240"
+        name: Carpaccio på Oxfile / N'duja majo / Kålrabbi / Fänkål / Ramslöksvinagrette
+        price: "170"
       - alternatives: []
-        name: Kladdig potatis/ ostronskivling/ Pak Choy/ reducerad kycklingsfond/ Chili/
-          Sanchoolja/ örter
-        price: "195"
-      - alternatives: []
-        name: Lammtaco/ Tabbouleh
-        price: "195"
-      - alternatives: []
-        name: "•\tCuban Sandwich/ Långbakad fläsk/ Rökt skinka/ Swiss Cheese/
-          Cornichons/ Senap & Majjo "
+        name: Pulled Confiterad Anka / Polenta / Rökt Cheddar
         price: "210"
   - dishes:
       - alternatives: []
-        name: "Baskisk Cheesecake "
+        name: Majs Flan med lavandelkaramell
         price: "120"
 menusCatering:
   - dishes:
