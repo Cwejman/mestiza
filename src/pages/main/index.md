@@ -70,8 +70,9 @@ menusCatering:
         price: 1500:-
 info: |-
   
-  Ons-Lör 17:00-23:00
-
+  Onsdag - Lördag
+   17:00-23:00
+  cash free restaurant
   -
   031 55 06 62
   info@mestizagbg.se
