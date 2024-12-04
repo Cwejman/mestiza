@@ -5,8 +5,8 @@ intro: Här äter vi & delar på god mat i form av lite mindre rätter. Mestiza 
   världens hörn i en enda röra som hon tagit med sig från barndom och resor
   världen över och gjort till sin egen version.  Hon använder från mer enkla
   ingredienser till lite mer luxiösa. Vi dricker grymma viner av alla dess slag,
-  som Kiki Ingber valt ut med omsorg. Kaos på bordet är valet vi gör. Lämna
-  mobilerna i fickorna. Äta, dricka, prata, äta dricka, prata...
+  som Kiki Ingber valt ut med omsorg. Kaos på bordet är valet vi gör. Äta,
+  dricka, prata, äta dricka, prata...
 menus:
   - dishes: []
   - dishes:
@@ -24,29 +24,30 @@ menus:
         name: Bakad Pumpa / Tamarind / Lök och Mandelkräm / Rostade mandlar
         price: "165"
       - alternatives: []
-        name: Portobello / Spicy Fava / Chimichurri med Grön Papaya
-        price: "165"
+        name: Sichuan Aubergine / Fava / Chimichurri
+        price: "170"
       - alternatives: []
         name: Kastanjehummus / Brynt Smör / Rostade Spicy Kikärtor
         price: "165"
       - alternatives: []
-        name: Cornbread / Stekt Kantarell / Svampkonsomme
+        name: Ricotta / Fikon / Bröd / Tallskottsolja / Pistaje
         price: "185"
       - alternatives: []
-        name: Torskryggstostada / Apelsincremefraische / Grön Pico de Gallo
-        price: "210"
+        name: Kål Dolmar / Kamben / Stora vita bönor / fläskbuljong
+        price: "190"
       - alternatives: []
-        name: Tonfisktartar / Ananas / Habanero / Dill / Pappadam
+        name: Pilgrimsmussla / Litchismör / Savoykålsallad / Gurka / Jalapeño /
+          Pinjenötter
         price: "195"
       - alternatives: []
         name: Carpaccio på Oxfile / N'duja majo / Kålrabbi / Fänkål / Ramslöksvinagrette
         price: "170"
-      - alternatives: []
-        name: Pulled Confiterad Anka / Polenta / Rökt Cheddar
-        price: "210"
   - dishes:
       - alternatives: []
-        name: Majs Flan med lavandelkaramell
+        name: Äpple / Mandelmassa / Rom / Kolasås / Pekannötter
+        price: "120"
+      - alternatives: []
+        name: Maräng / Blåbäszabayonne / Hallonsås
         price: "120"
 menusCatering:
   - dishes:
