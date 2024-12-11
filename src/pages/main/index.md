@@ -30,18 +30,23 @@ menus:
         name: Kastanjehummus / Brynt Smör / Rostade Spicy Kikärtor
         price: "165"
       - alternatives: []
+        name: Kronärtskocka / Kvitten / Vitlök
+        price: "165"
+      - alternatives: []
         name: Ricotta / Fikon / Bröd / Tallskottsolja / Pistaje
         price: "185"
       - alternatives: []
         name: Kål Dolmar / Kamben / Stora vita bönor / fläskbuljong
         price: "190"
       - alternatives: []
-        name: Pilgrimsmussla / Litchismör / Savoykålsallad / Gurka / Jalapeño /
-          Pinjenötter
-        price: "195"
-      - alternatives: []
         name: Carpaccio på Oxfile / N'duja majo / Kålrabbi / Fänkål / Ramslöksvinagrette
         price: "170"
+      - alternatives: []
+        name: Couscous / Räkor / Citrongräss / Pocherad ägg / Jordnötter
+        price: "195"
+      - alternatives: []
+        name: Pulled Confiterad Anka / Polenta / Rökt Cheddar
+        price: "210"
   - dishes:
       - alternatives: []
         name: Äpple / Mandelmassa / Rom / Kolasås / Pekannötter
