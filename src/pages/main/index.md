@@ -75,6 +75,8 @@ info: |-
   Onsdag - Lördag
    17:00-23:00
   cash free restaurant
+
+  stängt 31:a december och 1:a januari
   -
   031 55 06 62
   info@mestizagbg.se
