@@ -1,12 +1,8 @@
 ---
 path: /
-intro: Här äter vi & delar på god mat i form av lite mindre rätter. Mestiza står
-  för blandning. Mariuxi Ingber Robles har komponerat mellanrätter från alla
-  världens hörn i en enda röra som hon tagit med sig från barndom och resor
-  världen över och gjort till sin egen version.  Hon använder från mer enkla
-  ingredienser till lite mer luxiösa. Vi dricker grymma viner av alla dess slag,
-  som Kiki Ingber valt ut med omsorg. Kaos på bordet är valet vi gör. Äta,
-  dricka, prata, äta dricka, prata...
+intro: Välkomna under mellandagar! Vi har öppet den 27:e och 28:e december med
+  en speciell meny - latinamerikanska julmackor! Den vanliga menyn kommer
+  tillbaka på det nya året :)
 menus:
   - dishes: []
   - dishes:
