@@ -1,8 +1,11 @@
 ---
 path: /
-intro: Välkomna under mellandagar! Vi har öppet den 27:e och 28:e december med
-  en speciell meny - latinamerikanska julmackor! Den vanliga menyn kommer
-  tillbaka på det nya året :)
+intro: Här äter vi & delar på god mat i form av lite mindre rätter. Mestiza står
+  för blandning. Mariuxi Ingber Robles har komponerat mellanrätter från alla
+  världens hörn i en enda röra som hon tagit med sig från barndom och resor
+  världen över och gjort till sin egen version.  Hon använder från mer enkla
+  ingredienser till lite mer luxiösa. Vi dricker grymma viner av alla dess slag!
+  Kaos på bordet är valet vi gör. Äta, dricka, prata, äta dricka, prata...
 menus:
   - dishes: []
   - dishes:
@@ -17,26 +20,26 @@ menus:
         name: "Ash Tanur (sotad bröd) med frön           "
         price: "55"
       - alternatives: []
-        name: Bakad Pumpa / Tamarind / Lök och Mandelkräm / Rostade mandlar
-        price: "165"
-      - alternatives: []
-        name: Sichuan Aubergine / Fava / Chimichurri
+        name: "Aubergine / Curry / Sötpotatis "
         price: "170"
       - alternatives: []
-        name: Kastanjehummus / Brynt Smör / Rostade Spicy Kikärtor
-        price: "165"
+        name: Valnöttshummus / Brynt smör
+        price: "160"
       - alternatives: []
         name: Kronärtskocka / Kvitten / Vitlök
         price: "165"
       - alternatives: []
-        name: Ricotta / Fikon / Bröd / Tallskottsolja / Pistaje
-        price: "185"
+        name: Blomkål / Buffalo / Plommonsås
+        price: "175"
       - alternatives: []
-        name: Kål Dolmar / Kamben / Stora vita bönor / fläskbuljong
+        name: Carpaccio på oxfilé / mojo rojo majo
+        price: "170"
+      - alternatives: []
+        name: Räkor / Adobo / Tahini / Äpplesallad
         price: "190"
       - alternatives: []
-        name: Carpaccio på Oxfile / N'duja majo / Kålrabbi / Fänkål / Ramslöksvinagrette
-        price: "170"
+        name: Marokansk Lamm / Apelsin gnocchi / Rädissalsa
+        price: "210"
       - alternatives: []
         name: Couscous / Räkor / Citrongräss / Pocherad ägg / Jordnötter
         price: "195"
@@ -45,10 +48,7 @@ menus:
         price: "210"
   - dishes:
       - alternatives: []
-        name: Äpple / Mandelmassa / Rom / Kolasås / Pekannötter
-        price: "120"
-      - alternatives: []
-        name: Maräng / Blåbäszabayonne / Hallonsås
+        name: Baileys Tiramisu
         price: "120"
 menusCatering:
   - dishes:
