@@ -40,12 +40,6 @@ menus:
       - alternatives: []
         name: Marokansk Lamm / Apelsin gnocchi / Rädissalsa
         price: "210"
-      - alternatives: []
-        name: Couscous / Räkor / Citrongräss / Pocherad ägg / Jordnötter
-        price: "195"
-      - alternatives: []
-        name: Pulled Confiterad Anka / Polenta / Rökt Cheddar
-        price: "210"
   - dishes:
       - alternatives: []
         name: Baileys Tiramisu
