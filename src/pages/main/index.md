@@ -24,7 +24,7 @@ menus:
         price: "55"
       - alternatives: []
         name: "Aubergine / Curry / Sötpotatis "
-        price: "170"
+        price: "165"
       - alternatives: []
         name: Kronärtskocka / Kvitten / Vitlök
         price: "165"
