@@ -30,7 +30,7 @@ menus:
         price: "165"
       - alternatives: []
         name: Blomkål / Buffalo / Plommonsås
-        price: "175"
+        price: "165"
       - alternatives: []
         name: Crudo på Kolja / Gurka Aguachile / Krasseolja
         price: "175"
