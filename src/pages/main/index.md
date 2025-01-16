@@ -42,10 +42,11 @@ menus:
         price: "210"
       - alternatives: []
         name: Kalkon Sandwich / Coleslaw / Cheddar / Currymayo
+        price: "190"
   - dishes:
       - alternatives: []
         name: Baileys Tiramisu
-        price: "120"
+        price: "95"
 menusCatering:
   - dishes:
       - alternatives: []
