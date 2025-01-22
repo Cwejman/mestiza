@@ -15,27 +15,27 @@ menus:
       - alternatives: []
         name: Dagens korv
         price: "105"
-      - alternatives: []
-        name: Valnötshummus med bröd
-        price: "110"
   - dishes:
       - alternatives: []
         name: "Ash Tanur (sotad bröd) med frön           "
         price: "55"
       - alternatives: []
-        name: "Aubergine / Curry / Sötpotatis "
+        name: Kastanjehummus / Bryntsmör
+        price: "95"
+      - alternatives: []
+        name: "Aubergine / Tahini / Miso / Senap / Sötpotatis "
         price: "165"
       - alternatives: []
-        name: Kronärtskocka / Kvitten / Vitlök
+        name: Hel Kronärtskocka / Kvitten / Vitlök
         price: "165"
       - alternatives: []
         name: Blomkål / Buffalo / Plommonsås
-        price: "165"
+        price: "150"
       - alternatives: []
         name: Crudo på Kolja / Gurka Aguachile / Krasseolja
         price: "175"
       - alternatives: []
-        name: Räkor / Adobo / Tahini / Äpplesallad
+        name: Räkor / Adobo / Tahini / Äpplesallad / Kidnebybönor
         price: "190"
       - alternatives: []
         name: Marokansk Lamm / Apelsin gnocchi / Rädissalsa
