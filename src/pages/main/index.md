@@ -20,8 +20,8 @@ menus:
         name: "Ash Tanur (sotad bröd) med frön           "
         price: "55"
       - alternatives: []
-        name: Kastanjehummus / Bryntsmör
-        price: "95"
+        name: Kastanjehummus / Bryntsmör / Ash Tanur
+        price: "150"
       - alternatives: []
         name: "Aubergine / Tahini / Miso / Senap / Sötpotatis "
         price: "165"
@@ -29,24 +29,18 @@ menus:
         name: Hel Kronärtskocka / Kvitten / Vitlök
         price: "165"
       - alternatives: []
-        name: Blomkål / Buffalo / Plommonsås
-        price: "150"
-      - alternatives: []
-        name: Crudo på Kolja / Gurka Aguachile / Krasseolja
-        price: "175"
-      - alternatives: []
         name: Räkor / Adobo / Tahini / Äpplesallad / Kidnebybönor
         price: "190"
       - alternatives: []
         name: Marokansk Lamm / Apelsin gnocchi / Rädissalsa
         price: "210"
-      - alternatives: []
-        name: Kalkon Sandwich / Coleslaw / Cheddar / Currymayo
-        price: "190"
   - dishes:
       - alternatives: []
         name: Baileys Tiramisu
         price: "95"
+      - alternatives: []
+        name: Basque Cheesecake / Aroniabär
+        price: "120"
 menusCatering:
   - dishes:
       - alternatives: []
