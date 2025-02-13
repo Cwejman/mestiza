@@ -29,6 +29,9 @@ menus:
         name: Hel Kronärtskocka / Kvitten / Vitlök
         price: "165"
       - alternatives: []
+        name: Burrata / Skogschampinjon / Vitlökskrutong
+        price: "170"
+      - alternatives: []
         name: Räkor / Adobo / Tahini / Äpplesallad / Kidnebybönor
         price: "190"
       - alternatives: []
