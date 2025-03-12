@@ -18,7 +18,7 @@ menus:
   - dishes:
       - alternatives: []
         name: "Ash Tanur (sotad bröd) med frön           "
-        price: "55"
+        price: "59"
       - alternatives: []
         name: Kastanjehummus / Bryntsmör / Ash Tanur
         price: "150"
@@ -27,7 +27,7 @@ menus:
         price: "165"
       - alternatives: []
         name: Hel Kronärtskocka / Kvitten / Vitlök
-        price: "165"
+        price: "160"
       - alternatives: []
         name: Burrata / Skogschampinjon / Vitlökskrutong
         price: "170"
@@ -36,7 +36,7 @@ menus:
         price: "190"
       - alternatives: []
         name: Marokansk Lamm / Apelsin gnocchi / Rädissalsa
-        price: "210"
+        price: "250"
       - alternatives: []
         name: Fava / Salsiccia / Ananassalsa
         price: "220"
