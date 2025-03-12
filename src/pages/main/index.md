@@ -42,9 +42,6 @@ menus:
         price: "220"
   - dishes:
       - alternatives: []
-        name: Baileys Tiramisu
-        price: "95"
-      - alternatives: []
         name: Basque Cheesecake / Aroniabär
         price: "120"
 menusCatering:
