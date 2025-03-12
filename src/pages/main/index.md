@@ -37,6 +37,9 @@ menus:
       - alternatives: []
         name: Marokansk Lamm / Apelsin gnocchi / Rädissalsa
         price: "210"
+      - alternatives: []
+        name: Fava / Salsiccia / Ananassalsa
+        price: "220"
   - dishes:
       - alternatives: []
         name: Baileys Tiramisu
