@@ -40,6 +40,9 @@ menus:
       - alternatives: []
         name: Fava / Salsiccia / Ananassalsa
         price: "220"
+      - alternatives: []
+        name: Ricotta och Majs Ravioli / Brynt Smör / Lökpulver
+        price: "220"
   - dishes:
       - alternatives: []
         name: Basque Cheesecake / Aroniabär
