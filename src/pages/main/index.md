@@ -18,35 +18,37 @@ menus:
   - dishes:
       - alternatives: []
         name: "Ash Tanur (sotad bröd) med frön           "
-        price: "59"
+        price: ""
       - alternatives: []
         name: Kastanjehummus / Bryntsmör / Ash Tanur
-        price: "150"
+        price: ""
       - alternatives: []
         name: "Aubergine / Tahini / Miso / Senap / Sötpotatis "
-        price: "165"
+        price: ""
       - alternatives: []
         name: Hel Kronärtskocka / Kvitten / Vitlök
-        price: "160"
+        price: ""
       - alternatives: []
         name: Burrata / Skogschampinjon / Vitlökskrutong
-        price: "170"
+        price: ""
       - alternatives: []
         name: Räkor / Adobo / Tahini / Äpplesallad / Kidnebybönor
-        price: "190"
+        price: ""
       - alternatives: []
         name: Marokansk Lamm / Apelsin gnocchi / Rädissalsa
-        price: "250"
+        price: ""
       - alternatives: []
-        name: Fava / Salsiccia / Ananassalsa
-        price: "220"
+        name: Anka/ Fava / Ajisalsa
+        price: ""
       - alternatives: []
         name: Ricotta och Majs Ravioli / Brynt Smör / Lökpulver
-        price: "220"
+        price: ""
+      - alternatives: []
+        name: Crudo på hälleflundra/ rabarber vinagrette/ pico de gallo
   - dishes:
       - alternatives: []
-        name: Basque Cheesecake / Aroniabär
-        price: "120"
+        name: Basque Cheesecake / bärkompott
+        price: ""
 menusCatering:
   - dishes:
       - alternatives: []
