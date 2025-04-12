@@ -35,6 +35,8 @@ menus:
         name: Räkor / Adobo / Tahini / Äpplesallad / Kidnebybönor
         price: ""
       - alternatives: []
+        name: Crudo på hälleflundra/ rabarber vinagrette/ pico de gallo
+      - alternatives: []
         name: Marokansk Lamm / Apelsin gnocchi / Rädissalsa
         price: ""
       - alternatives: []
@@ -43,8 +45,6 @@ menus:
       - alternatives: []
         name: Ricotta och Majs Ravioli / Brynt Smör / Lökpulver
         price: ""
-      - alternatives: []
-        name: Crudo på hälleflundra/ rabarber vinagrette/ pico de gallo
   - dishes:
       - alternatives: []
         name: Basque Cheesecake / bärkompott
