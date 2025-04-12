@@ -11,10 +11,12 @@ menus:
   - dishes:
       - alternatives: []
         name: Dagens ost från Hilda Nilsson
-        price: "95"
+        price: ""
       - alternatives: []
         name: Dagens korv
-        price: "105"
+        price: ""
+      - alternatives: []
+        name: Oliver
   - dishes:
       - alternatives: []
         name: "Ash Tanur (sotad bröd) med frön           "
@@ -41,9 +43,6 @@ menus:
         price: ""
       - alternatives: []
         name: Anka/ Fava / Ajisalsa
-        price: ""
-      - alternatives: []
-        name: Ricotta och Majs Ravioli / Brynt Smör / Lökpulver
         price: ""
   - dishes:
       - alternatives: []
