@@ -10,40 +10,33 @@ menus:
   - dishes: []
   - dishes:
       - alternatives: []
-        name: Dagens ost från Hilda Nilsson
-        price: ""
-      - alternatives: []
-        name: Dagens korv
-        price: ""
-      - alternatives: []
-        name: Oliver
+        name: "Oliver med epazote och vitlök "
+        price: 65:-
   - dishes:
       - alternatives: []
         name: "Ash Tanur (sotad bröd) med frön           "
-        price: ""
+        price: 59:-
       - alternatives: []
-        name: Kastanjehummus / Bryntsmör / Ash Tanur
-        price: ""
+        name: "Hummus / aubergine / manisalsa / jordnötter / Ash Tanur bröd "
+        price: 189:-
       - alternatives: []
-        name: "Aubergine / Tahini / Miso / Senap / Sötpotatis "
-        price: ""
+        name: "Burek/ getost / ricotta / spicy vindruvor "
+        price: 165:-
       - alternatives: []
-        name: Hel Kronärtskocka / Kvitten / Vitlök
-        price: ""
+        name: "Sotat sötpotatis / yoghurt / melonsalsa / pistagenötter "
+        price: 185:-
       - alternatives: []
-        name: Burrata / Skogschampinjon / Vitlökskrutong
-        price: ""
+        name: "Arepa / chipotle guacamole / kräftstjärtar "
+        price: 190:-
       - alternatives: []
-        name: Räkor / Adobo / Tahini / Äpplesallad / Kidnebybönor
-        price: ""
+        name: "Crudo på tonfisk / ananas och kokos dressing / mynta / chili "
+        price: "230:- "
       - alternatives: []
-        name: Crudo på hälleflundra/ rabarber vinagrette/ pico de gallo
+        name: Kantareller / corn bread / krämig svamp sås
+        price: "220:- "
       - alternatives: []
-        name: Marokansk Lamm / Apelsin gnocchi / Rädissalsa
-        price: ""
-      - alternatives: []
-        name: Anka/ Fava / Ajisalsa
-        price: ""
+        name: "Pork Taco / svartabönor kräm / salsa roja / aji panca "
+        price: 185:-
   - dishes:
       - alternatives: []
         name: Basque Cheesecake / bärkompott
