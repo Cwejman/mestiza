@@ -40,27 +40,8 @@ menus:
   - dishes:
       - alternatives: []
         name: Basque Cheesecake / bärkompott
-        price: ""
-menusCatering:
-  - dishes:
-      - alternatives: []
-        name: Baskisk Cheesecake (ca 10 bitar)
-        price: "650"
-      - alternatives: []
-        name: Baskisk Cheesecake (ca 10 bitar) med björnbär & rödvinsreduktion
-        price: "800"
-      - alternatives: []
-        name: "Choklad och rom smörtårta med brynt smör & fudge (ca 15-18 bitar) "
-        price: "1500"
-      - alternatives: []
-        name: "Smörtårta med Pistage & rosor, Choklad & Valnötter (ca 15-18 bitar) "
-        price: "1500"
-      - alternatives: []
-        name: "Smörtårta med mörk choklad & Mezcal (ca 15-18 bitar) "
-        price: 1500:-
-      - alternatives: []
-        name: "Smörtårta med kokos & Rom (ca 15-18 bitar) "
-        price: 1500:-
+        price: 125:-
+menusCatering: []
 info: |-
   
   Onsdag - Lördag
