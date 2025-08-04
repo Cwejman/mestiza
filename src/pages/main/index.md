@@ -11,36 +11,36 @@ menus:
   - dishes:
       - alternatives: []
         name: "Oliver med epazote och vitlök "
-        price: 65:-
+        price: "65"
   - dishes:
       - alternatives: []
         name: "Ash Tanur (sotad bröd) med frön           "
-        price: 59:-
+        price: "59"
       - alternatives: []
         name: "Hummus / aubergine / manisalsa / jordnötter / Ash Tanur bröd "
-        price: 189:-
+        price: "189"
       - alternatives: []
         name: "Burek/ getost / ricotta / spicy vindruvor "
-        price: 165:-
+        price: "165"
       - alternatives: []
         name: "Sotat sötpotatis / yoghurt / melonsalsa / pistagenötter "
-        price: 185:-
+        price: "185"
       - alternatives: []
         name: "Arepa / chipotle guacamole / kräftstjärtar "
-        price: 190:-
+        price: "190"
       - alternatives: []
         name: "Crudo på tonfisk / ananas och kokos dressing / mynta / chili "
-        price: "230:- "
+        price: "230"
       - alternatives: []
-        name: Kantareller / corn bread / krämig svamp sås
-        price: "220:- "
+        name: "Kantareller / corn bread / krämig svamp sås / grönskott "
+        price: "220"
       - alternatives: []
         name: "Pork Taco / svartabönor kräm / salsa roja / aji panca "
-        price: 185:-
+        price: "185"
   - dishes:
       - alternatives: []
         name: Basque Cheesecake / bärkompott
-        price: 125:-
+        price: "125"
 menusCatering: []
 info: |-
   
