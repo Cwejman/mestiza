@@ -23,20 +23,17 @@ menus:
         name: "Burek/ getost / ricotta / spicy vindruvor "
         price: "165"
       - alternatives: []
-        name: "Sotat sötpotatis / yoghurt / melonsalsa / pistagenötter "
-        price: "185"
-      - alternatives: []
-        name: "Arepa / chipotle guacamole / kräftstjärtar "
-        price: "190"
-      - alternatives: []
         name: "Crudo på tonfisk / ananas och kokos dressing / mynta / chili "
         price: "230"
       - alternatives: []
         name: "Kantareller / corn bread / krämig svamp sås / grönskott "
         price: "220"
       - alternatives: []
-        name: "Pork Taco / svartabönor kräm / salsa roja / aji panca "
-        price: "185"
+        name: Blomkål/chilli och rostadpaprika dressing/valnötssås
+      - alternatives: []
+        name: "Ceviche på stillahavsflundra/leche de tigre/camote "
+      - alternatives: []
+        name: Polenta/apelsinmarinerad lamm
   - dishes:
       - alternatives: []
         name: Basque Cheesecake / bärkompott
