@@ -26,7 +26,7 @@ menus:
         name: "Kantareller / corn bread / krämig svamp sås / grönskott "
         price: "220"
       - alternatives: []
-        name: Blomkål/chilli och rostadpaprika dressing/valnötssås
+        name: Blomkål/chili och rostadpaprika dressing/valnötssås
         price: "165"
       - alternatives: []
         name: "Crudo på tonfisk / ananas och kokos dressing / mynta / chili "
