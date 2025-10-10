@@ -23,17 +23,20 @@ menus:
         name: "Burek/ getost / ricotta / spicy vindruvor "
         price: "165"
       - alternatives: []
-        name: "Crudo på tonfisk / ananas och kokos dressing / mynta / chili "
-        price: "230"
-      - alternatives: []
         name: "Kantareller / corn bread / krämig svamp sås / grönskott "
         price: "220"
       - alternatives: []
         name: Blomkål/chilli och rostadpaprika dressing/valnötssås
+        price: "165"
+      - alternatives: []
+        name: "Crudo på tonfisk / ananas och kokos dressing / mynta / chili "
+        price: "230"
       - alternatives: []
         name: "Ceviche på stillahavsflundra/leche de tigre/camote "
+        price: "195"
       - alternatives: []
         name: Polenta/apelsinmarinerad lamm
+        price: "250"
   - dishes:
       - alternatives: []
         name: Basque Cheesecake / bärkompott
