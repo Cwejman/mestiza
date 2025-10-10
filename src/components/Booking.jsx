@@ -2,7 +2,7 @@ import * as React from 'react';
 
 import Header from './Header';
 
-const bookingLink = 'https://module.lafourchette.com/sv_SE/module/566299-f811d';
+const bookingLink = 'https://book.easytable.com/book/?id=7cc11';
 
 const Booking = () => [
   <Header id="Booking" key="header-booking" title="BOKA BORD" src="/img/wide2.jpg" />,
