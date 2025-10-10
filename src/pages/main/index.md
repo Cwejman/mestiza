@@ -52,4 +52,5 @@ info: |-
   031 55 06 62
   info@mestizagbg.se
   Skanstorget 10, 411 22 Göteborg
+  https://book.easytable.com/book/?id=7cc11&lang=auto
 ---
